@@ -32,8 +32,6 @@
 
 # 飞龙的财富译文集
 
-> 原文：[{nameEn}]({urlEn})
-> 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 阶段：机翻（1）
