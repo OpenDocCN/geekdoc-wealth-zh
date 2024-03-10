@@ -1,0 +1,1 @@
+![PART 2: 10x APPLICATIONS](img/content-toc.xhtml#pt2)

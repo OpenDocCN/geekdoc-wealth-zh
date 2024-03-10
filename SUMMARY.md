@@ -1,3 +1,4 @@
++   [十倍比两倍更容易（双语）](docs/10x-ezrt-2x/README.md)
 +   [5 分钟商学院精细笔记](docs/biz5min/README.md)
 +   [CEO 修炼手册](docs/great-ceo/README.md)
 +   [红杉汇创业知识手册 V2.0 版](docs/hsh-stup-v2/README.md)

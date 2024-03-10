@@ -1,0 +1,7 @@
+# About Dan Sullivan 关于丹·沙利文
+
+![Dan Sullivan](img/p281.jpg)
+
+Dan Sullivan is the world’s foremost expert on entrepreneurship and has personally coached more successful entrepreneurs than anyone else living. He’s the founder and president of The Strategic Coach Inc., the premier entrepreneurial coaching company in the world, which over the past 40+ years has provided teaching and training to more than 30,000 entrepreneurs. Dan’s innovative and counterintuitive perspectives enable already successful entrepreneurs to get 10x bigger and better results in their business and personal lives, while creating enormous freedom of time, money, relationships, and overall sense of purpose. Dan is the author of more than 55 publications, including the *Wall Street Journal* bestsellers, *Who Not How* and *The Gap and The Gain*, coauthored with Dr. Benjamin Hardy. Dan is married to Babs Smith, his partner in business and in life. They jointly own and operate The Strategic Coach Inc., which has offices in Toronto, Chicago, U.K., Los Angeles, and Vancouver. Dan and Babs reside in Toronto. Dan Sullivan 是世界上最重要的创业专家，他亲自指导过的成功企业家比任何人都多。他是战略教练公司的创始人兼总裁全球领先的创业培训公司，在过去的 40 多年里，为超过 30，000 名创业者提供了教学和培训。丹的创新和反直觉的观点使已经成功的企业家能够在他们的商业和个人生活中获得 10 倍更大更好的结果，同时创造了时间，金钱，关系和整体目的感的巨大自由。丹是超过 55 个出版物的作者，包括华尔街日报畅销书，谁不是如何和差距和增益，与博士合著。本杰明·哈代丹嫁给了巴布斯史密斯，他在商业和生活中的合作伙伴。他们共同拥有和经营战略教练公司，在多伦多芝加哥英国洛杉矶和温哥华。 Dan 和 Babs 住在多伦多。
+
+[www.strategiccoach.com](http://www.strategiccoach.com)
