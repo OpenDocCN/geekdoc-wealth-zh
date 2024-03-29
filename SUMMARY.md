@@ -6,6 +6,6 @@
 +   [原则 · 中文版](docs/principles/README.md)
 +   [RichAF 中文版](docs/rich-af/README.md)
 +   [生财有术知识星球整理 20190928](docs/scys201909/README.md)
-+   [守夜人总司令文集](docs/shouyeren/README.md)
++   [守夜人总司令文章合集](docs/shouyeren/README.md)
 +   [通往财富自由之路精细笔记](docs/wealfree/README.md)
 +   [油管公式](docs/ytb-fml/README.md)
