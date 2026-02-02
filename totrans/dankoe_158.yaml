@@ -1,660 +1,994 @@
 - en: How To Learn Anything 10X Faster Than Anyone With AI
+  id: totrans-0
   prefs:
   - PREF_H1
   type: TYPE_NORMAL
+  zh: 如何用AI比任何人快10倍地学习任何事物
 - en: 原文：[https://thedankoe.com/letters/how-to-learn-anything-10x-faster-than-anyone-with-ai/](https://thedankoe.com/letters/how-to-learn-anything-10x-faster-than-anyone-with-ai/)
+  id: totrans-1
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: 原文：[https://thedankoe.com/letters/how-to-learn-anything-10x-faster-than-anyone-with-ai/](https://thedankoe.com/letters/how-to-learn-anything-10x-faster-than-anyone-with-ai/)
 - en: Most people don’t know how to learn.
+  id: totrans-2
   prefs: []
   type: TYPE_NORMAL
+  zh: 大多数人不知道如何学习。
 - en: They fry their brain with tutorials and podcasts and textbooks but 6 months
     later they have absolutely nothing to show for it.
+  id: totrans-3
   prefs: []
   type: TYPE_NORMAL
+  zh: 他们用教程、播客和教科书烧脑，但6个月后，他们几乎没有什么可以展示的。
 - en: Why are you even learning in the first place if not to *do* something with it?
+  id: totrans-4
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果不是为了**做**些什么，你最初为什么要学习呢？
 - en: 'Learning, for most people, has become a form of mental masturbation. It’s the
     same cheap dopamine you get from scrolling on your phone, but even worse, it makes
     you feel as if you are learning something (News Flash: you’ll forget about it
     by tomorrow).'
+  id: totrans-5
   prefs: []
   type: TYPE_NORMAL
+  zh: 对于大多数人来说，学习已经变成了一种精神上的自慰。这和你用手机滑动时得到的廉价多巴胺一样，但更糟糕的是，它让你感觉自己在学习（新闻快报：你明天就会忘记它）。
 - en: 'Here’s the harsh truth:'
+  id: totrans-6
   prefs: []
   type: TYPE_NORMAL
+  zh: 这是残酷的现实：
 - en: You’re learning slow.
+  id: totrans-7
   prefs: []
   type: TYPE_NORMAL
+  zh: 你学习得太慢了。
 - en: And if you can learn 10x faster, you can achieve success that much faster. You
     can complete the portfolio project. You can start the business. You can articulate
     your thoughts on that topic with clarity.
+  id: totrans-8
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你能够快10倍地学习，你就能更快地取得成功。你可以完成项目组合。你可以开始创业。你可以清晰地表达对该主题的看法。
 - en: Even further, you can probably learn something in 2 weeks that takes everyone
     else 6 months.
+  id: totrans-9
   prefs: []
   type: TYPE_NORMAL
+  zh: 更进一步，你可能两周内就能学会别人需要6个月才能学会的东西。
 - en: 'To do that, you need to learn how to learn with:'
+  id: totrans-10
   prefs: []
   type: TYPE_NORMAL
+  zh: 为了做到这一点，你需要学会如何用以下方式学习：
 - en: The Protege Effect & Feynman Technique
+  id: totrans-11
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 门徒效应与费曼技巧
 - en: How to optimize for pattern recognition
+  id: totrans-12
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 如何优化模式识别
 - en: How to use AI to speed up the process
+  id: totrans-13
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 如何使用AI加速这个过程
 - en: Project based learning so you actually *do* something
+  id: totrans-14
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 基于项目的学习，这样你实际上**做**了一些事情
 - en: This is going to be a very practical letter.
+  id: totrans-15
   prefs: []
   type: TYPE_NORMAL
+  zh: 这将是一封非常实用的信件。
 - en: Please be ready to have your notes open on the side.
+  id: totrans-16
   prefs: []
   type: TYPE_NORMAL
+  zh: 请准备好在旁边打开你的笔记。
 - en: By the end of this, you will have a clear path to learning anything, fast.
+  id: totrans-17
   prefs: []
   type: TYPE_NORMAL
+  zh: 到此为止，你将有一条清晰的学习任何事物的路径，而且可以快速学习。
 - en: The Meta Skill – Learning How To Learn
+  id: totrans-18
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: 元技能——学习如何学习
 - en: <picture fetchpriority="high" decoding="async" class="wp-image-2519">![](../Images/7631735904dca4b7fc5268772a3f877f.png)</picture>
+  id: totrans-19
   prefs: []
   type: TYPE_NORMAL
+  zh: <picture fetchpriority="high" decoding="async" class="wp-image-2519">![](../Images/7631735904dca4b7fc5268772a3f877f.png)</picture>
 - en: The mark of a free person is that they learn how to learn.
+  id: totrans-20
   prefs: []
   type: TYPE_NORMAL
+  zh: 一个自由人的标志是他们学会了如何学习。
 - en: Because if you don’t choose what to learn, you will be told what to learn, and
     if your mind is the operating system for reality, the options available for your
     future will be drastically limited, and you won’t even realize it.
+  id: totrans-21
   prefs: []
   type: TYPE_NORMAL
+  zh: 因为如果你不选择学习什么，别人会告诉你学习什么，如果你的大脑是现实的操作系统，你未来的选择将受到极大的限制，而你甚至不会意识到这一点。
 - en: More importantly, the most important thing you can do when the world is changing
     rapidly is learn. And boy is it changing. Learning is the single most important
     skill because it’s how you acquire the skills that allow you to take advantage
     of opportunities that didn’t exist 10 years, 1 year, or even 1 month ago.
+  id: totrans-22
   prefs: []
   type: TYPE_NORMAL
+  zh: 更重要的是，当世界快速变化时，你能做的最重要的事情就是学习。而且变化真的很大。学习是唯一最重要的技能，因为它是你获取技能的方式，这些技能让你能够利用10年前、1年前甚至1个月前不存在的机遇。
 - en: But most people learn wrong.
+  id: totrans-23
   prefs: []
   type: TYPE_NORMAL
+  zh: 但大多数人学习方法错误。
 - en: And schools rarely change their curriculum.
+  id: totrans-24
   prefs: []
   type: TYPE_NORMAL
+  zh: 学校很少改变他们的课程。
 - en: Here’s how you take your future into your own hands.
+  id: totrans-25
   prefs: []
   type: TYPE_NORMAL
+  zh: 这就是如何掌握你自己的未来。
 - en: 1) Create A Map Of Your Ideal Life
+  id: totrans-26
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 1) 创建你理想生活的地图
 - en: I’ve watched countless hours of videos of people teaching how to learn or study
     faster.
+  id: totrans-27
   prefs: []
   type: TYPE_NORMAL
+  zh: 我看过无数个小时人们教如何学习或更快学习的视频。
 - en: The single most important thing they’re missing is *why they are learning in
     the first place.*
+  id: totrans-28
   prefs: []
   type: TYPE_NORMAL
+  zh: 他们最缺少的最重要的东西是**他们为什么要学习**。
 - en: People choose something to learn, *but it doesn’t connect to any of their current
     skills, and it doesn’t connect to the life they want to live.*
+  id: totrans-29
   prefs: []
   type: TYPE_NORMAL
+  zh: 人们选择学习某样东西，**但它与他们的现有技能无关，也与他们想要过的生活无关**。
 - en: This is dangerous.
+  id: totrans-30
   prefs: []
   type: TYPE_NORMAL
+  zh: 这很危险。
 - en: You won’t *want* to learn if there is no deeper meaning or clarity behind it.
+  id: totrans-31
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果没有更深的意义或清晰性，你甚至**不想**去学习。
 - en: You will need more discipline. And you’ll probably continue to hate learning
     like you did in school. Or you will feel like your learning is for the sole purpose
     of getting a job or career that you didn’t care about in the first place.
+  id: totrans-32
   prefs: []
   type: TYPE_NORMAL
+  zh: 你需要更多的自律。你可能还会像在学校时一样继续讨厌学习。或者你可能会觉得你的学习只是为了得到一份你一开始就不在乎的工作或职业。
 - en: So that’s step one.
+  id: totrans-33
   prefs: []
   type: TYPE_NORMAL
+  zh: 所以这是第一步。
 - en: To create an *aim* for your learning.
+  id: totrans-34
   prefs: []
   type: TYPE_NORMAL
+  zh: 为你的学习设定一个目标。
 - en: That way, you can *feel* the progress you are making toward your self-generated
     goals, not the goals society assigned to you. That is a major key of life enjoyment
     (I’ll spare you the psychology around it for now).
+  id: totrans-35
   prefs: []
   type: TYPE_NORMAL
+  zh: 这样，你可以*感受到*你朝着自己设定的目标所取得的进步，而不是社会赋予你的目标。这是生活享受的关键（现在我就不谈这个心理学的部分了）。
 - en: Since I’ve talked about this many times before, and you can fill out this [Simple
     Life Reset](https://app.kortex.co/public/document/883d9246-6dde-4794-9f54-92b8ff07d502)
     for free (try duplicating the document and asking [kAI to identify blind spots](https://x.com/thedankoe/status/1895857778180440346)
     as you fill it out), let’s keep this part brief.
+  id: totrans-36
   prefs: []
   type: TYPE_NORMAL
+  zh: 由于我之前已经多次提到过这一点，你也可以免费填写这个[简单生活重置](https://app.kortex.co/public/document/883d9246-6dde-4794-9f54-92b8ff07d502)（尝试复制文档并询问[kAI识别盲点](https://x.com/thedankoe/status/1895857778180440346)，在你填写时），让我们简要地谈谈这部分。
 - en: Write out what you don’t want in life
+  id: totrans-37
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 写出你不想在生活中拥有的东西
 - en: Write out what you want in life
+  id: totrans-38
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: 写出你想要的生活
 - en: Write 10+ bullet points for each and bounce between them both.
+  id: totrans-39
   prefs: []
   type: TYPE_NORMAL
+  zh: 为每个项目写10个以上的项目符号，并在两者之间交替。
 - en: These bullet points are your learning filter.
+  id: totrans-40
   prefs: []
   type: TYPE_NORMAL
+  zh: 这些项目符号是你的学习过滤器。
 - en: Without these written down, you will get distracted, and you won’t have a frame
     of reference that helps optimize for pattern recognition. In other words, your
     mind won’t notice the things that help you achieve your goals.
+  id: totrans-41
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果没有这些写下来，你会分心，而且你将没有帮助优化模式识别的参考框架。换句话说，你的大脑不会注意到帮助你实现目标的事情。
 - en: 'Then, try starting a chat with [this prompt](https://app.kortex.co/public/document/7a4a85bb-cdfc-4dbd-92b8-d887fa82d224)
     I found on X. It’s gold:'
+  id: totrans-42
   prefs: []
   type: TYPE_NORMAL
+  zh: 然后，尝试使用我在X上找到的这个[提示](https://app.kortex.co/public/document/7a4a85bb-cdfc-4dbd-92b8-d887fa82d224)开始聊天。它很有价值：
 - en: <picture decoding="async" class="wp-image-2520">![](../Images/fabff79c4693fcf88c190c5eec695c7f.png)</picture>
+  id: totrans-43
   prefs: []
   type: TYPE_NORMAL
+  zh: <picture decoding="async" class="wp-image-2520">![](../Images/fabff79c4693fcf88c190c5eec695c7f.png)</picture>
 - en: With that context, you can have kAI give you brutally honest advice about what
     you do and don’t want out of life. You can come back to that chat when you need
     life advice, like a running journal.
+  id: totrans-44
   prefs: []
   type: TYPE_NORMAL
+  zh: 在这个背景下，你可以让kAI给你提供关于你想要和不想从生活中得到什么的坦率建议。当你需要生活建议时，你可以像写日记一样回到那次聊天。
 - en: 2) Outline A Project
+  id: totrans-45
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 2) 制定项目大纲
 - en: 'Read this carefully:'
+  id: totrans-46
   prefs: []
   type: TYPE_NORMAL
+  zh: 仔细阅读：
 - en: The best way to learn is to build a real world project and only search for information
     when you need it. *How much you learn is directly correlated with how much progress
     you make on the project.*
+  id: totrans-47
   prefs: []
   type: TYPE_NORMAL
+  zh: 最好的学习方式是构建一个真实世界的项目，并且只在需要时搜索信息。*你学到的东西与你项目上的进步直接相关。*
 - en: When you watch endless tutorials, you fill your mind with noise and chaos. Most
     of that information goes to waste. It leads to overwhelm, anxiety, and slows down
     how fast you learn.
+  id: totrans-48
   prefs: []
   type: TYPE_NORMAL
+  zh: 当你观看无休止的教程时，你的大脑充满了噪音和混乱。大部分信息都浪费了。这会导致不知所措、焦虑，并减慢你学习的速度。
 - en: When it comes time to build the project (the only reason you’re learning in
     the first place) you feel as if you learned nothing, and have to search for the
     information anyway. So, if you want to learn faster, skip the tutorial phase.
     Outline the project first.
+  id: totrans-49
   prefs: []
   type: TYPE_NORMAL
+  zh: 当你开始构建项目（你最初学习的唯一原因）时，你会觉得自己什么都没学到，仍然需要寻找信息。所以，如果你想更快地学习，就跳过教程阶段，先制定项目大纲。
 - en: Now, this confuses some people.
+  id: totrans-50
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在，这可能会让一些人感到困惑。
 - en: A “project” can be anything.
+  id: totrans-51
   prefs: []
   type: TYPE_NORMAL
+  zh: “项目”可以是任何东西。
 - en: Your health can be a project. Your business can be a project. An image in Photoshop
     can be a project.
+  id: totrans-52
   prefs: []
   type: TYPE_NORMAL
+  zh: 你的健康可以是一个项目。你的业务可以是一个项目。Photoshop中的图像也可以是一个项目。
 - en: A project is simply a structured way of achieving a goal, or making progress
     toward a goal.
+  id: totrans-53
   prefs: []
   type: TYPE_NORMAL
+  zh: 项目只是实现目标或朝着目标进步的一种结构化方式。
 - en: It’s a way to further narrow your frame of reference so your mind biases the
     right information as you learn.
+  id: totrans-54
   prefs: []
   type: TYPE_NORMAL
+  zh: 它是一种进一步缩小你的参考框架的方法，这样你的大脑在学习时会偏向于正确的信息。
 - en: Again, this continues to optimize pattern recognition.
+  id: totrans-55
   prefs: []
   type: TYPE_NORMAL
+  zh: 再次强调，这有助于优化模式识别。
 - en: As you read books, study tutorials, or have conversations, good dopamine will
     spurt into your brain to signal that information is important for the completion
     of the project. Your subconscious will munch on problems and send relevant ideas
     to your conscious mind.
+  id: totrans-56
   prefs: []
   type: TYPE_NORMAL
+  zh: 当你阅读书籍、学习教程或交谈时，大脑中会喷涌出多巴胺，以信号信息对项目完成的重要性。你的潜意识会咀嚼问题，并将相关想法发送到你的意识中。
 - en: This is what creatives call “shower thoughts,” when the Default Mode Network
     is active in your brain *while at “rest.”*
+  id: totrans-57
   prefs: []
   type: TYPE_NORMAL
+  zh: 这就是创意人士所说的“淋浴思考”，当你的大脑在“休息”状态下，默认模式网络活跃时。
 - en: Darwin worked on his projects in focused blocks, then went on long walks. On
     these walks, his brain was at rest, and potential solutions to problems pop into
     his head.
+  id: totrans-58
   prefs: []
   type: TYPE_NORMAL
+  zh: 达尔文在他的项目上专注于块状时间，然后进行长时间的散步。在这些散步中，他的大脑处于休息状态，潜在的问题解决方案突然出现在他的脑海中。
 - en: When I write newsletters as a small project within a bigger project of my business,
     I outline the newsletter at the start of the week. This creates my frame of reference.
     As I’m on walks and having conversations, I *feel* that sense of excitement when
     the right idea comes to mind.
+  id: totrans-59
   prefs: []
   type: TYPE_NORMAL
+  zh: 当我把写通讯作为我商业项目中的一个较小项目时，我会在一周的开始时概述通讯。这建立了我的参考框架。当我散步和交谈时，我会感受到当正确想法出现时的那种兴奋感。
 - en: This is when I pull out my phone, open [Kortex Chats](https://kortex.co), connect
     to my newsletter for that week, and save my ideas there so I have it ready the
     next time I sit down to write during my work blocks.
+  id: totrans-60
   prefs: []
   type: TYPE_NORMAL
+  zh: 这时我会拿出手机，打开[Kortex Chats](https://kortex.co)，连接到那周的通讯，并将我的想法保存那里，以便我在工作时段坐下来写作时可以使用。
 - en: '**Here’s how you start a project:**'
+  id: totrans-61
   prefs: []
   type: TYPE_NORMAL
+  zh: '**以下是如何开始一个项目：**'
 - en: Choose something to build that moves the needle toward what you want in life
     (from earlier)
+  id: totrans-62
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 选择一些可以推动你实现生活中想要的东西（从之前的内容）
 - en: Create a note or document and brain dump everything that comes to mind
+  id: totrans-63
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 创建一个笔记或文档，并将所有想到的东西都倾倒出来
 - en: Save 3-5 sources of inspiration that you want to emulate (if I’m creating a
     YouTube video as a project, I would save 3-5 YouTube videos I would want to create
     similar iterations of)
+  id: totrans-64
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 保存3-5个你想要模仿的灵感来源（如果我创建一个YouTube视频作为项目，我会保存3-5个我想创建类似迭代的YouTube视频）
 - en: Study those sources and break down their structure or characteristics
+  id: totrans-65
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 研究那些来源，并分解它们的结构或特征
 - en: Outline the project into sections, milestones, images, inspiration, and what
     you need to know
+  id: totrans-66
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 将项目概述为部分、里程碑、图像、灵感以及你需要知道的内容
 - en: Have a place to capture ideas that comes to mind, preferably somewhere you don’t
     lose the ideas or forget about them
+  id: totrans-67
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 有一个地方可以捕捉到突然出现的想法，最好是那种你不会丢失想法或忘记它们的地方
 - en: Now that you’re ready to start, don’t start learning.
+  id: totrans-68
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在你已经准备好开始，不要开始学习。
 - en: 3) Start With What You Know
+  id: totrans-69
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 3) 从你所知道的东西开始
 - en: Learning comes from struggle, not memorization.
+  id: totrans-70
   prefs: []
   type: TYPE_NORMAL
+  zh: 学习来自挣扎，而不是记忆。
 - en: Start the project. No, don’t watch 20 tutorials beforehand. Let it expose the
     gaps in your knowledge. Try to figure it out. Search for the answer when your
     mind is most likely to remember it.
+  id: totrans-71
   prefs: []
   type: TYPE_NORMAL
+  zh: 开始项目。不，不要在之前观看20个教程。让它暴露你知识中的空白。试图弄清楚。在你最有可能记住答案的时候搜索答案。
 - en: Whether you’re learning Photoshop or learning to program, start with what you
     know.
+  id: totrans-72
   prefs: []
   type: TYPE_NORMAL
+  zh: 无论你是学习Photoshop还是学习编程，都要从你所知道的东西开始。
 - en: If you know nothing, at least try to take the first step. Download the software
     and start playing around. Try to create *something. Anything.* Just get your mind
     in a state where it’s *hungry* to learn. Otherwise, you probably won’t *digest*
     the information you search for.
+  id: totrans-73
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你一无所知，至少尝试迈出第一步。下载软件并开始尝试。尝试创造*一些东西。任何东西都行。*只要让你的大脑处于渴望学习的状态。否则，你可能不会消化你搜索到的信息。
 - en: 'Then, follow this process:'
+  id: totrans-74
   prefs: []
   type: TYPE_NORMAL
+  zh: 然后，遵循以下流程：
 - en: You don’t know what to do
+  id: totrans-75
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 你不知道该做什么
 - en: You try and fail
+  id: totrans-76
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 你尝试并失败
 - en: Search for the answer or ask AI
+  id: totrans-77
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 搜索答案或询问AI
 - en: Try to implement the answer
+  id: totrans-78
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 尝试实施答案
 - en: Repeat until the project is complete
+  id: totrans-79
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 重复直到项目完成
 - en: If you can’t find the answer, ask an expert
+  id: totrans-80
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 如果你找不到答案，就向专家请教
 - en: A few years ago, Google searching was a skill.
+  id: totrans-81
   prefs: []
   type: TYPE_NORMAL
+  zh: 几年前，谷歌搜索是一项技能。
 - en: Now that AI can provide more relevant information fast, prompting is a skill.
+  id: totrans-82
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在AI可以快速提供更相关的信息，提示是一项技能。
 - en: Think of AI not as a machine who does work for you, but a creative sparring
     partner. Sometimes one sentence prompts can do the trick, but the output of AI
     is only as good as you are when it comes to creative work.
+  id: totrans-83
   prefs: []
   type: TYPE_NORMAL
+  zh: 将AI视为不是为你做工作的机器，而是一个创意的对手。有时一句话的提示就能起到作用，但AI在创意工作中的输出只取决于你自己的水平。
 - en: If I’m building a Photoshop project and don’t know how to remove a background,
     I can simply ask, “How do I remove the background of a photo in Photoshop” to
     kAI and it will give me exact steps to do.
+  id: totrans-84
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果我在构建Photoshop项目，不知道如何去除背景，我可以简单地问，“如何在Photoshop中去除照片的背景”给kAI，它会给我具体的步骤。
 - en: Then, I can ask it even more questions, like what Selections and Masks are,
     and learn on the spot. On the Kortex desktop app, you can press Alt or Option+C
     to open up floating chats and ask AI without going to another website or leaving
     your place.
+  id: totrans-85
   prefs: []
   type: TYPE_NORMAL
+  zh: 然后，我还可以提出更多问题，比如什么是选择和遮罩，并现场学习。在Kortex桌面应用程序中，你可以按Alt或Option+C打开浮动聊天并询问AI，而无需访问另一个网站或离开你的位置。
 - en: 3.5) How To Start When You Don’t Feel Like Starting
+  id: totrans-86
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 3.5) 当你不想开始时如何开始
 - en: The Zeigarnik Effect is a psychological phenomenon where people remember unfinished
     tasks more than completed tasks.
+  id: totrans-87
   prefs: []
   type: TYPE_NORMAL
+  zh: Zeigarnik效应是一种心理现象，人们记得未完成的任务比完成的任务更多。
 - en: Meaning, if we don’t complete tasks for our project, it’s much easier to find
     the motivation to get started.
+  id: totrans-88
   prefs: []
   type: TYPE_NORMAL
+  zh: 意味着，如果我们不完成项目中的任务，找到开始的动力会容易得多。
 - en: But how do you get started from scratch?
+  id: totrans-89
   prefs: []
   type: TYPE_NORMAL
+  zh: 但从零开始如何着手呢？
 - en: There’s a trick I learned from [Justin Sung](https://www.youtube.com/@JustinSung)
     that he calls the Zeigarnik² Effect. In other words, doing easy tasks before you
     start to simulate the feeling of having unfinished tasks.
+  id: totrans-90
   prefs: []
   type: TYPE_NORMAL
+  zh: 我从[Justin Sung](https://www.youtube.com/@JustinSung)那里学到一个技巧，他称之为Zeigarnik²效应。换句话说，在你开始之前先做简单的任务，以模拟未完成任务的感受。
 - en: This could be a work ritual like making coffee, cleaning your desk, or going
     on a morning walk and jotting notes on your phone.
+  id: totrans-91
   prefs: []
   type: TYPE_NORMAL
+  zh: 这可能是一个工作仪式，比如泡咖啡、清理你的桌子，或者去晨间散步并在手机上记笔记。
 - en: How I like to think of this is breaking down the task you need to start *into
     the simplest possible action you can take.*
+  id: totrans-92
   prefs: []
   type: TYPE_NORMAL
+  zh: 我喜欢这样想，就是将你需要开始的任务分解成最简单的可能采取的行动。
 - en: For something like writing, that’s sitting at your desk, opening up your outline,
     and simply reading it over. That requires very little motivation.
+  id: totrans-93
   prefs: []
   type: TYPE_NORMAL
+  zh: 对于写作这样的活动，那就是坐在你的桌子前，打开你的大纲，简单地阅读它。这需要很少的动机。
 - en: 'Now, if you want to take this effect even further, just open up an AI tool
     and use [this prompt](https://app.kortex.co/public/document/7a4a85bb-cdfc-4dbd-92b8-d887fa82d224):'
+  id: totrans-94
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在，如果你想将这种效果进一步发挥，只需打开一个AI工具并使用[这个提示](https://app.kortex.co/public/document/7a4a85bb-cdfc-4dbd-92b8-d887fa82d224)：
 - en: <picture decoding="async" class="wp-image-2521">![](../Images/5a544a82e63d8a5e9afeba08e8b4ad34.png)</picture>
+  id: totrans-95
   prefs: []
   type: TYPE_NORMAL
+  zh: <picture decoding="async" class="wp-image-2521">![](../Images/5a544a82e63d8a5e9afeba08e8b4ad34.png)</picture>
 - en: I told Joey to pop that into [kAI](https://kortex.co) and he changed it a bit
     and… yeah…
+  id: totrans-96
   prefs: []
   type: TYPE_NORMAL
+  zh: 我告诉乔伊把它放入[kAI](https://kortex.co)，他稍作修改，然后……是的……
 - en: <picture loading="lazy" decoding="async" class="wp-image-2522">![](../Images/84c6bb4966ac295c7791ed69eaba87c8.png)</picture>
+  id: totrans-97
   prefs: []
   type: TYPE_NORMAL
+  zh: <picture loading="lazy" decoding="async" class="wp-image-2522">![](../Images/84c6bb4966ac295c7791ed69eaba87c8.png)</picture>
 - en: Try it out.
+  id: totrans-98
   prefs: []
   type: TYPE_NORMAL
+  zh: 尝试一下。
 - en: 4) Create A Study Regimen
+  id: totrans-99
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 4) 制定学习计划
 - en: Now that you have a frame of reference, project outline, and have started making
     progress—you can start supplementing with general learning and tutorials.
+  id: totrans-100
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在你有了参考框架、项目大纲，并且已经开始取得进展，你可以开始补充一般学习和教程。
 - en: 'Create a new chat and try [this prompt](https://app.kortex.co/public/document/7a4a85bb-cdfc-4dbd-92b8-d887fa82d224):'
+  id: totrans-101
   prefs: []
   type: TYPE_NORMAL
+  zh: 创建一个新的聊天，尝试[这个提示](https://app.kortex.co/public/document/7a4a85bb-cdfc-4dbd-92b8-d887fa82d224)：
 - en: <picture loading="lazy" decoding="async" class="wp-image-2517">![](../Images/a7449a2d80a7e1e7642765a8386962ac.png)</picture>
+  id: totrans-102
   prefs: []
   type: TYPE_NORMAL
+  zh: <picture loading="lazy" decoding="async" class="wp-image-2517">![](../Images/a7449a2d80a7e1e7642765a8386962ac.png)</picture>
 - en: For [topic], you can enter anything from Photoshop to storytelling to content
     creation.
+  id: totrans-103
   prefs: []
   type: TYPE_NORMAL
+  zh: 对于[主题]，你可以输入从Photoshop到讲故事到内容创作等任何内容。
 - en: 'The best way to structure your learning, in my opinion, is in 3 types of timeblocks:'
+  id: totrans-104
   prefs: []
   type: TYPE_NORMAL
+  zh: 我认为，结构化你的学习最好的方式是分为3种类型的时间块：
 - en: '**30-90 Minutes Of Building** – build your project and search for information
     when you need it.'
+  id: totrans-105
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**30-90分钟的构建** – 在需要时构建你的项目并搜索信息。'
 - en: '**30-60 Minutes of Learning** – follow your study regimen and take notes on
     what you learn. You can review these notes by asking your notes to be summarized
     in kAI.'
+  id: totrans-106
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**30-60分钟的学习** – 遵循你的学习计划，并记录你所学的知识。你可以通过让kAI总结你的笔记来回顾这些笔记。'
 - en: '**30 Minutes of Walking** – for YouTube videos, audiobooks, or lectures go
     on a walk and jot down ideas on your phone as they come to mind.'
+  id: totrans-107
   prefs:
   - PREF_OL
   type: TYPE_NORMAL
+  zh: '**30分钟的散步** – 对于YouTube视频、有声书或讲座，散步时在手机上记下脑海中出现的想法。'
 - en: Those are your keystone habits.
+  id: totrans-108
   prefs: []
   type: TYPE_NORMAL
+  zh: 这些就是你的关键习惯。
 - en: Nobody is going to give you the time to learn and build.
+  id: totrans-109
   prefs: []
   type: TYPE_NORMAL
+  zh: 没有人会给你时间去学习和构建。
 - en: You have to take the time. Put them on your calendar. Wake up an hour earlier
     or stay up an hour later. Turn it into a ritual.
+  id: totrans-110
   prefs: []
   type: TYPE_NORMAL
+  zh: 你必须花时间。把它们放在你的日历上。早起一小时或晚睡一小时。把它变成一种仪式。
 - en: Grab your coffee, pull up your outline, put on some focus music, and start paving
     the way toward the future you want to create.
+  id: totrans-111
   prefs: []
   type: TYPE_NORMAL
+  zh: 拿起你的咖啡，打开你的大纲，戴上一些专注的音乐，开始铺就通往你想要创造的未来之路。
 - en: Write To Systematically Reflect On What You Learn
+  id: totrans-112
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: 系统性地反思你所学的写下来
 - en: 'Here’s the puzzle:'
+  id: totrans-113
   prefs: []
   type: TYPE_NORMAL
+  zh: 这里有一个谜题：
 - en: You know what you want for your future
+  id: totrans-114
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 你知道你想要什么样的未来
 - en: You have a project (or series of projects) that will take you there
+  id: totrans-115
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 你有一个（或一系列）项目将带你到达那里
 - en: You are learning and building daily
+  id: totrans-116
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 你每天都在学习和构建。
 - en: But there’s one missing piece.
+  id: totrans-117
   prefs: []
   type: TYPE_NORMAL
+  zh: 但还缺少一个部分。
 - en: And it turns out, it’s also a way to *further* enhance how much you learn.
+  id: totrans-118
   prefs: []
   type: TYPE_NORMAL
+  zh: 结果表明，这也是一种*进一步*提高你学习效果的方法。
 - en: The missing piece is *people who care about what you’re building.*
+  id: totrans-119
   prefs: []
   type: TYPE_NORMAL
+  zh: 缺失的部分是*关心你所构建的人*。
 - en: I’m assuming you want to do this full time.
+  id: totrans-120
   prefs: []
   type: TYPE_NORMAL
+  zh: 我假设你想要全职做这件事。
 - en: You’re learning and building because you want that to turn into some kind of
     sustainable life. You want to replace your job or career with a calling. An obsession.
+  id: totrans-121
   prefs: []
   type: TYPE_NORMAL
+  zh: 你在学习并构建，因为你希望这变成某种可持续的生活。你希望用一种召唤或痴迷来取代你的工作或职业。
 - en: To do that you need money. At least enough to sustain your ideal life.
+  id: totrans-122
   prefs: []
   type: TYPE_NORMAL
+  zh: 要做到这一点，你需要钱。至少要足够维持你理想的生活。
 - en: To make money, you need people to care about what you’re building.
+  id: totrans-123
   prefs: []
   type: TYPE_NORMAL
+  zh: 要赚钱，你需要人们关心你所构建的东西。
 - en: To make people care about what you’re building, you need to show what you’re
     doing in public.
+  id: totrans-124
   prefs: []
   type: TYPE_NORMAL
+  zh: 要让人们关心你所构建的东西，你需要公开展示你所做的事情。
 - en: In most cases, the best way to do that is writing.
+  id: totrans-125
   prefs: []
   type: TYPE_NORMAL
+  zh: 在大多数情况下，做到这一点最好的方式是写作。
 - en: Teaching what you know and what you’re learning as you build.
+  id: totrans-126
   prefs: []
   type: TYPE_NORMAL
+  zh: 在构建过程中教授你所知和所学。
 - en: Why writing?
+  id: totrans-127
   prefs: []
   type: TYPE_NORMAL
+  zh: 为什么写作？
 - en: Well first, it’s the foundation of media. Two, it’s accessible and anyone can
     start writing right now, no video editing skills required. Three, it holds much
     more power than just building an audience of supporters.
+  id: totrans-128
   prefs: []
   type: TYPE_NORMAL
+  zh: 首先，它是媒体的基础。其次，它易于获取，任何人都可以立即开始写作，无需视频编辑技能。第三，它比仅仅建立一个支持者群体拥有更大的力量。
 - en: Writing is how you systematically reflect on what you learn.
+  id: totrans-129
   prefs: []
   type: TYPE_NORMAL
+  zh: 写作是你系统性地反思所学的方式。
 - en: When you teach what you learn, you expose *more* knowledge gaps. You struggle
     more to understand. You have more specific knowledge to research.
+  id: totrans-130
   prefs: []
   type: TYPE_NORMAL
+  zh: 当你教授你所学的知识时，你会暴露出*更多*的知识空白。你更难以理解。你有更具体的知识需要研究。
 - en: This is where the Feynman Technique and Protege Effect come into play.
+  id: totrans-131
   prefs: []
   type: TYPE_NORMAL
+  zh: 这就是费曼技巧和导师效应发挥作用的地方。
 - en: 'The Feynman Technique is a learning method popularized by physicist Richard
     Feynman. In short, it’s about deeply understanding a concept by explaining it
     in simple terms as if you were teaching it to someone with no prior knowledge:'
+  id: totrans-132
   prefs: []
   type: TYPE_NORMAL
+  zh: 费曼技巧是由物理学家理查德·费曼普及的一种学习方法。简而言之，它通过用简单的术语解释概念，就像你正在教一个没有先验知识的人一样，来深入理解一个概念：
 - en: '**Choose a concept –** Select the topic you want to understand.'
+  id: totrans-133
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: '**选择一个概念**——选择你想要理解的主题。'
 - en: '**Teach it –** Explain the concept in simple language, as if you were teaching
     it to a child.'
+  id: totrans-134
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: '**教授它**——用简单的语言解释概念，就像你正在教一个孩子一样。'
 - en: '**Identify gaps –** When you struggle to explain something clearly, identify
     the areas where your understanding is weak.'
+  id: totrans-135
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: '**识别差距**——当你难以清晰地解释某事时，识别你理解薄弱的领域。'
 - en: '**Review and simplify –** Go back to the source material, relearn the concepts,
     and then try explaining them again in even simpler terms.'
+  id: totrans-136
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: '**复习和简化**——回到原始材料，重新学习概念，然后尝试用更简单的术语再次解释。'
 - en: This overlaps with the Protege Effect which is, in summary, that the teacher
     learns more than the student.
+  id: totrans-137
   prefs: []
   type: TYPE_NORMAL
+  zh: 这与导师效应重叠，总结来说，就是导师学到的比学生多。
 - en: Teaching what you learn encourages you to make sense of your experience in your
     own way. It exposes even more gaps in your knowledge, increasing the effect of
     pattern recognition. Life becomes sustainably more enjoyable and serendipitous
     because you no longer need distractions for pleasure.
+  id: totrans-138
   prefs: []
   type: TYPE_NORMAL
+  zh: 教授你所学的知识可以鼓励你以自己的方式理解你的经验。它揭示了更多你知识上的空白，增加了模式识别的效果。生活因此变得更加可持续和愉快，因为你不再需要为了快乐而分心。
 - en: How do we merge both of these with how you are already learning?
+  id: totrans-139
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们如何将这两者与你现有的学习方法结合起来？
 - en: By writing on the internet.
+  id: totrans-140
   prefs: []
   type: TYPE_NORMAL
+  zh: 通过在互联网上写作。
 - en: We talk about this in almost every newsletter, but I’m not talking about becoming
     a content creator.
+  id: totrans-141
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们几乎在每一封通讯中都谈到了这一点，但我不是在谈论成为内容创作者。
 - en: I’m talking about treating social media as your public journal.
+  id: totrans-142
   prefs: []
   type: TYPE_NORMAL
+  zh: 我在谈论将社交媒体视为你的公共日记。
 - en: That way, you at least *have a chance* at attracting potential supporters, customers,
     employers, investors, team members, and anything else you would need to reach
     the life you want.
+  id: totrans-143
   prefs: []
   type: TYPE_NORMAL
+  zh: 这样，你至少*有机会*吸引潜在的拥护者、客户、雇主、投资者、团队成员，以及你想要达到的生活中需要的一切。
 - en: It’s less about building a following, and more about putting your work in front
     of other people. Like when you’re trying to meet new people, it’s never going
     to happen if you don’t get out of your house, and you’ll grow bitter and angry
     wondering why you’re all alone. It’s obvious why… because you haven’t given people
     a chance to know or care about you. Your chances of success are zero.
+  id: totrans-144
   prefs: []
   type: TYPE_NORMAL
+  zh: 这更关乎于将你的作品展示给其他人，就像当你试图结识新人时，如果你不走出家门，这永远都不会发生。你会变得苦涩和愤怒，想知道为什么你总是孤独一人。原因很明显……因为你没有给人们机会了解或关心你。你成功的可能性为零。
 - en: 'Here’s what I recommend for starting:'
+  id: totrans-145
   prefs: []
   type: TYPE_NORMAL
+  zh: 这里是我推荐的开始方法：
 - en: Write a newsletter once a week to summarize what you’ve learned
+  id: totrans-146
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 每周写一封通讯，总结你学到的内容
 - en: Remember, teach it to them. Don’t make it a boring dump of information.
+  id: totrans-147
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 记住，教给他们。不要让它变成无聊的信息堆砌。
 - en: Write posts on X, Threads, or LinkedIn (writing platforms, easy to access)
+  id: totrans-148
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 在X、Threads或LinkedIn（易于访问的写作平台）上发布帖子
 - en: Talk about your opinions, beliefs, personal experiences, and what you are learning
     and building
+  id: totrans-149
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 谈论你的观点、信仰、个人经历，以及你正在学习和构建的内容
 - en: Tack on “social media” as a skill you need to learn the same way as taught in
     this letter
+  id: totrans-150
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 将“社交媒体”作为你需要学习的一项技能，就像在这封信中教的那样
 - en: Add one more 30-60 minute time block for writing every morning
+  id: totrans-151
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 每天早上再增加一个30-60分钟的时间块用于写作
 - en: Ask kAI to help you as you write, i.e. “You are an expert at crafting engaging
     social posts. Whats the best way to start a post on [topic]?” and continue from
     there.
+  id: totrans-152
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 在写作时请kAI帮助你，例如：“你擅长撰写吸引人的社交媒体帖子。如何开始一个关于[主题]的帖子最好？”然后继续写下去。
 - en: Personally, writing changed my life.
+  id: totrans-153
   prefs: []
   type: TYPE_NORMAL
+  zh: 个人来说，写作改变了我的生活。
 - en: I was once a freelance web designer who failed at every business he tried prior
     to that.
+  id: totrans-154
   prefs: []
   type: TYPE_NORMAL
+  zh: 我曾经是一名自由职业网页设计师，在此之前他尝试过的每一个业务都失败了。
 - en: I started on social media because I was tired of doing cold outreach to land
     clients.
+  id: totrans-155
   prefs: []
   type: TYPE_NORMAL
+  zh: 我开始使用社交媒体，因为我厌倦了做冷门推广来吸引客户。
 - en: As I kept going, I realized how powerful writing could be to get in front of
     the right people (so I didn’t have to get rejected so much, people came to me).
+  id: totrans-156
   prefs: []
   type: TYPE_NORMAL
+  zh: 随着我继续前进，我意识到写作如何能够帮助我吸引到正确的人（这样我就不必遭受太多拒绝，人们会主动来找我）。
 - en: But it wasn’t just about the freelance work.
+  id: totrans-157
   prefs: []
   type: TYPE_NORMAL
+  zh: 但这不仅仅是为了自由职业工作。
 - en: It was about how much I was learning.
+  id: totrans-158
   prefs: []
   type: TYPE_NORMAL
+  zh: 这关乎我学到了多少。
 - en: Every time I hit post, I felt as if I had learned something new.
+  id: totrans-159
   prefs: []
   type: TYPE_NORMAL
+  zh: 每次我点击发布，都感觉像是学到了新的东西。
 - en: I could see a path to becoming the “intelligent” person that I had always admired
     as a kid.
+  id: totrans-160
   prefs: []
   type: TYPE_NORMAL
+  zh: 我能看到一条成为我一直以来都钦佩的“聪明”人的道路。
 - en: The more I wrote, the more good things happened internally and externally.
+  id: totrans-161
   prefs: []
   type: TYPE_NORMAL
+  zh: 我写得越多，内部和外部的好事就越多。
 - en: I hope that you too can experience that.
+  id: totrans-162
   prefs: []
   type: TYPE_NORMAL
+  zh: 我希望你们也能有同样的体验。
 - en: Now, you don’t need to enroll in the Writer’s Bootcamp, but it is an option
     to include in your “study regimen” from above.
+  id: totrans-163
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在，你不需要报名参加作家训练营，但它可以是你上述“学习计划”中的一个选项。
 - en: The start date is March 4th. 3 days from now. So if you want to learn the ins
     and outs of newsletters, threads, posts, YouTube video scripts, and building an
     AI powered second brain of ideas in Kortex, [consider enrolling here.](https://bootcamp.kortex.co)
+  id: totrans-164
   prefs: []
   type: TYPE_NORMAL
+  zh: 开始日期是3月4日。三天后。所以如果你想学习通讯、帖子、YouTube视频脚本，以及在Kortex中构建一个由AI驱动的想法第二大脑的技巧，[请考虑在此报名。](https://bootcamp.kortex.co)
 - en: Thank you for reading.
+  id: totrans-165
   prefs: []
   type: TYPE_NORMAL
+  zh: 感谢您的阅读。
 - en: – Dan
+  id: totrans-166
   prefs: []
   type: TYPE_NORMAL
+  zh: – 丹
