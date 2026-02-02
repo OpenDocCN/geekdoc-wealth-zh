@@ -1,684 +1,1051 @@
 - en: How To Think Originally
+  id: totrans-0
   prefs:
   - PREF_H1
   type: TYPE_NORMAL
+  zh: 如何进行原创思考
 - en: 原文：[https://thedankoe.com/letters/how-to-think-originally/](https://thedankoe.com/letters/how-to-think-originally/)
+  id: totrans-1
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: '[原文链接](https://thedankoe.com/letters/how-to-think-originally/)'
 - en: 'Before we begin, a few updates:'
+  id: totrans-2
   prefs: []
   type: TYPE_NORMAL
+  zh: 在我们开始之前，有一些更新：
 - en: 'Kortex, the writing and second brain software we’ve been building, is seeing
     quite a few improvements this month:'
+  id: totrans-3
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们一直在构建的写作和第二大脑软件Kortex，这个月看到了一些显著的改进：
 - en: Desktop app ([released yesterday](https://www.kortex.co/blog/how-to-install-the-kortex-desktop-app)
     with floating capture and docs)
+  id: totrans-4
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 桌面应用（昨天发布，带有浮动捕获和文档功能](https://www.kortex.co/blog/how-to-install-the-kortex-desktop-app)
 - en: Light mode (releasing today)
+  id: totrans-5
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 亮色模式（今天发布）
 - en: Mobile app (releasing this week)
+  id: totrans-6
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 移动应用（本周发布）
 - en: Offline mode (releasing this month)
+  id: totrans-7
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 离线模式（本月发布）
 - en: Voice transcription (this month)
+  id: totrans-8
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 语音转录（本月）
 - en: Sessions, images, and embeds in capture (this month)
+  id: totrans-9
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 捕获中的会话、图像和嵌入（本月）
 - en: Kortex AI for editing, research, and speeding up your writing (this month)
+  id: totrans-10
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: Kortex AI用于编辑、研究和加快你的写作速度（本月）
 - en: Next month, we begin working on the library redesign so you can save any link
     or file, have it automatically transcribed, read and highlight anything across
     the web, and string it all together with AI.
+  id: totrans-11
   prefs: []
   type: TYPE_NORMAL
+  zh: 下个月，我们将开始进行图书馆重设计，这样你就可以保存任何链接或文件，自动转录，阅读和突出显示网络上的任何内容，并用AI将它们串联起来。
 - en: If you want a new home for your writing, projects, ideas, and notes, this month
     is the month to do it. The price is increasing when AI features are released (we
     decided not to add on an additional price like Notion).
+  id: totrans-12
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你想要一个新家来存放你的写作、项目、想法和笔记，这个月就是做这件事的时候。当AI功能发布时，价格将会上涨（我们决定不额外加价，像Notion那样）。
 - en: '[You can read about this month’s plan or sign up here.](https://www.kortex.co/blog/january-releases-price-increase)'
+  id: totrans-13
   prefs: []
   type: TYPE_NORMAL
+  zh: '[你可以在这里阅读本月的计划或注册。](https://www.kortex.co/blog/january-releases-price-increase)'
 - en: –––
+  id: totrans-14
   prefs: []
   type: TYPE_NORMAL
+  zh: –––
 - en: Everyone wants to be an original thinker.
+  id: totrans-15
   prefs: []
   type: TYPE_NORMAL
+  zh: 每个人都想成为一个原创的思想家。
 - en: I did too.
+  id: totrans-16
   prefs: []
   type: TYPE_NORMAL
+  zh: 我也是。
 - en: As a teenager, I would watch lectures from people like Jordan Peterson and Alan
     Watts and stare in awe as they articulated their thoughts in a beautiful way.
+  id: totrans-17
   prefs: []
   type: TYPE_NORMAL
+  zh: 作为青少年，我会观看像乔丹·彼得森和艾伦·瓦茨这样的人的讲座，并敬畏地注视着他们以美丽的方式表达他们的思想。
 - en: Why couldn’t I do the same? Was I not smart enough? Was I not old enough yet?
     No matter how much information I burned through in books or absorbed from lectures,
     it never seemed to help.
+  id: totrans-18
   prefs: []
   type: TYPE_NORMAL
+  zh: 为什么我不能做同样的事情？我是不是不够聪明？我是不是还不够老？无论我在书中烧了多少信息，还是从讲座中吸收了多少，似乎都没有帮助。
 - en: I had the thoughts in my head, but when it came time to articulate them, all
     that came out was a jumbled mess of half-baked ideas that could barely be understood
     after all of the stuttering.
+  id: totrans-19
   prefs: []
   type: TYPE_NORMAL
+  zh: 我脑子里有这些想法，但到了要表达的时候，出来的却是一团糟的半成品想法，经过所有结巴之后几乎无法理解。
 - en: When I first started writing, I would often stare at a blank page as the negative
     thoughts started to pile in. I had no idea why I was writing or what I was writing
     about, but I had some idea that I felt the need to share with the world.
+  id: totrans-20
   prefs: []
   type: TYPE_NORMAL
+  zh: 当我开始写作时，我经常会盯着空白页面，负面想法开始堆积。我不知道我为什么要写作，也不知道我要写什么，但我有一种感觉，我觉得有必要与世界分享。
 - en: Were the words just supposed to pop into my head?
+  id: totrans-21
   prefs: []
   type: TYPE_NORMAL
+  zh: 这些词只是突然出现在我的脑海中吗？
 - en: Okay, I’ve got one sentence down… what now?
+  id: totrans-22
   prefs: []
   type: TYPE_NORMAL
+  zh: 好吧，我已经写下一句话了…接下来怎么办？
 - en: I’m sure you’ve felt the same way at some point in your life.
+  id: totrans-23
   prefs: []
   type: TYPE_NORMAL
+  zh: 我相信你在生活的某个时刻也有过同样的感觉。
 - en: The problem, in my eyes, is that when you go to school, you don’t learn how
     to *think.* You learn how to memorize and “rewrite things in your own words.”
     As kids, deep down, we know how silly this is, so we do the bare minimum to get
     the work done.
+  id: totrans-24
   prefs: []
   type: TYPE_NORMAL
+  zh: 在我看来，问题是当你去学校时，你并没有学会如何*思考*。你学会的是如何记忆和“用自己的话重写”。作为孩子，我们内心深处知道这是多么愚蠢，所以我们只是尽力完成作业。
 - en: But that’s not how the real world works.
+  id: totrans-25
   prefs: []
   type: TYPE_NORMAL
+  zh: 但现实世界并不是这样运作的。
 - en: You aren’t rewarded for thinking someone else’s thoughts.
+  id: totrans-26
   prefs: []
   type: TYPE_NORMAL
+  zh: 你不会因为思考别人的想法而得到奖励。
 - en: In fact, since your thoughts influence your actions, that’s a great way to end
     up just like them. Do you want the same life as them? I’m guessing not.
+  id: totrans-27
   prefs: []
   type: TYPE_NORMAL
+  zh: 事实上，由于你的思想会影响你的行为，那是一个很好的方法，最终你会变得和他们一样。你想要和他们一样的生活吗？我猜不是。
 - en: I’ve been a writer now for almost 5 years. Not an academic writer. No English
     degree. Just a guy who puts his thoughts on the internet. Since many people enjoy
     those thoughts, I have a few tricks I can share.
+  id: totrans-28
   prefs: []
   type: TYPE_NORMAL
+  zh: 我现在已经写作快5年了。不是学术作家。没有英语学位。只是一个把他的想法放在互联网上的人。由于很多人喜欢那些想法，我有几个技巧可以分享。
 - en: If you want to be a better writer, creator, or speaker, or simply want to be
     respected for your *mind*—not your body or physical effort—you need to become
     an original thinker.
+  id: totrans-29
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你想要成为一个更好的作家、创作者或演讲者，或者只是想要因为你的**心智**而不是身体或体力而受到尊重，你需要成为一个独立思考者。
 - en: But sometimes, the secret to being original is not being original at all.
+  id: totrans-30
   prefs: []
   type: TYPE_NORMAL
+  zh: 但有时，成为原创的秘诀其实根本不是原创。
 - en: How To Form Your Own Opinion
+  id: totrans-31
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: 如何形成自己的观点
 - en: <picture fetchpriority="high" decoding="async" class="wp-image-2446">![](../Images/17c22219e1bbae3e3efbc60f8602b4b2.png)</picture>
+  id: totrans-32
   prefs: []
   type: TYPE_NORMAL
+  zh: <picture fetchpriority="high" decoding="async" class="wp-image-2446">![](../Images/17c22219e1bbae3e3efbc60f8602b4b2.png)</picture>
 - en: You don’t have your own opinion because your survival is dependent on agreeing
     with others’ opinions.
+  id: totrans-33
   prefs: []
   type: TYPE_NORMAL
+  zh: 你没有自己的观点，因为你的生存依赖于同意他人的观点。
 - en: Think about it.
+  id: totrans-34
   prefs: []
   type: TYPE_NORMAL
+  zh: 想想看。
 - en: You needed *approval* if you didn’t want to be cast out of the “tribe.”
+  id: totrans-35
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你不想被“部落”排斥，你需要得到**认可**。
 - en: You *absorb* the values from the environment you were raised in because you
     need them to survive.
+  id: totrans-36
   prefs: []
   type: TYPE_NORMAL
+  zh: 你从你所成长的环境**吸收**了价值观，因为你需要它们来生存。
 - en: This can get very messy very quick.
+  id: totrans-37
   prefs: []
   type: TYPE_NORMAL
+  zh: 这可能会变得非常混乱。
 - en: If your parents are set on you getting a degree, even if it’s not the best decision
     for you, you will be pressured into being a good little student. If you don’t,
     you may lose your parent’s approval if they aren’t open-minded.
+  id: totrans-38
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你父母坚持让你获得学位，即使这不是对你最好的决定，你也会被迫成为一个好学生。如果你不这样做，如果你的父母思想不开明，你可能会失去他们的认可。
 - en: Let’s take a more dangerous example.
+  id: totrans-39
   prefs: []
   type: TYPE_NORMAL
+  zh: 让我们举一个更危险的例子。
 - en: If your parents are racist and narrow-minded, they *won’t approve of you if
     you don’t adopt that same racism.* And you’re just too young to know better from
     worse.In that scenario, they are much more likely to kick you out of the house
     or stop supporting you.
+  id: totrans-40
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你的父母是种族主义者且思想狭隘，那么如果你不采取同样的种族主义，他们**不会认可你**。而你又太年轻，无法分辨是非。在这种情况下，他们更有可能将你赶出家门或停止支持你。
 - en: The mind is unforgiving in this manner. Once your worldview forms, it starts
     to reinforce itself through confirmation. Your mind sees within its structure,
     so you notice information that aids in the survival of that structure.
+  id: totrans-41
   prefs: []
   type: TYPE_NORMAL
+  zh: 在这种情况下，心智是无情的。一旦你的世界观形成，它就会通过证实来加强自己。你的心智在其结构中看到，因此你会注意到有助于该结构生存的信息。
 - en: One last example. An even more dangerous one.
+  id: totrans-42
   prefs: []
   type: TYPE_NORMAL
+  zh: 最后再举一个例子。一个更危险的例子。
 - en: If you’re raised in a Christian environment and tried to go to an underdeveloped
     part of the world, your beliefs could literally get you jailed or killed. It doesn’t
     matter how “true” your beliefs are or how “wrong” the other ones are.
+  id: totrans-43
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你在一个基督教环境中长大，并试图去一个欠发达的世界部分，你的信仰可能会让你真的被监禁或被杀害。这无关乎你的信仰有多“真实”或者其他的有多“错误”。
 - en: Makes sense, but what does this have to do with becoming an original thinker?
+  id: totrans-44
   prefs: []
   type: TYPE_NORMAL
+  zh: 这听起来有道理，但这和成为独立思考者有什么关系？
 - en: 'Simple:'
+  id: totrans-45
   prefs: []
   type: TYPE_NORMAL
+  zh: 简单来说：
 - en: '*You haven’t been thinking independently for your entire life.*'
+  id: totrans-46
   prefs: []
   type: TYPE_NORMAL
+  zh: '*你一生中从未真正独立思考过。*'
 - en: Become A Skeptic – Stepping Into The Mental Gym
+  id: totrans-47
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 成为一名怀疑者——踏入心智健身房
 - en: Original thinking is difficult work.
+  id: totrans-48
   prefs: []
   type: TYPE_NORMAL
+  zh: 独立思考是项艰难的工作。
 - en: That’s why many people don’t do it.
+  id: totrans-49
   prefs: []
   type: TYPE_NORMAL
+  zh: 这就是为什么许多人不愿意这样做。
 - en: In today’s world, it’s even more difficult.
+  id: totrans-50
   prefs: []
   type: TYPE_NORMAL
+  zh: 在当今世界，这更加困难。
 - en: You don’t just absorb the values, beliefs, identity, and worldview that your
     parents installed into you.
+  id: totrans-51
   prefs: []
   type: TYPE_NORMAL
+  zh: 你不仅吸收了父母植入你的价值观、信仰、身份和世界观。
 - en: You absorb the ideas of the *hundreds of thousands of people* you are exposed
     to on the internet over the course of a few months.
+  id: totrans-52
   prefs: []
   type: TYPE_NORMAL
+  zh: 你在几个月的时间里，从互联网上接触到的**数十万人**的思想中吸收了。
 - en: Just because you don’t live with your parents or go to school anymore doesn’t
     mean you don’t want approval and acceptance. You’ve just swapped tribes with the
     one you’ve found in school, online, or other social circles. You still want to
     be approved, but this time, it’s by the digital group you belong to.
+  id: totrans-53
   prefs: []
   type: TYPE_NORMAL
+  zh: 只是因为你不再和父母住在一起或者不再上学，并不意味着你不想得到认可和接受。你只是和你在学校、在线或其他社交圈中找到的“部落”交换了。你仍然想要得到认可，但这次，是来自你所属的数字群体。
 - en: But that’s not how you do anything great.
+  id: totrans-54
   prefs: []
   type: TYPE_NORMAL
+  zh: 但这并不是你做任何伟大事情的方式。
 - en: You need to step out of the nice cozy home your mind has adapted to and step
     into the mental gym.
+  id: totrans-55
   prefs: []
   type: TYPE_NORMAL
+  zh: 你需要走出你心智适应的舒适家园，踏入心智健身房。
 - en: When you first step into the gym, it’s daunting. You don’t want to go. You’re
     afraid of embarrassing yourself. You are threatening the current structure of
     your mind that allows you to survive, unless that group you belong to encourages
     you to step in the gym.
+  id: totrans-56
   prefs: []
   type: TYPE_NORMAL
+  zh: 当你第一次走进健身房时，你会感到害怕。你不想去。你害怕让自己丢脸。你正在威胁你生存的心理结构，除非你所属的团体鼓励你走进健身房。
 - en: The first step to becoming an original thinker is to reject any prior belief,
     ideology, value, or idea because when you absorbed them, you didn’t question them.
     I don’t care how “right” you think they are. If you didn’t think them through
     from scratch, you can only assume they are wrong.
+  id: totrans-57
   prefs: []
   type: TYPE_NORMAL
+  zh: 成为原创思维者的第一步是拒绝任何先前的信念、意识形态、价值观或想法，因为当你吸收它们时，你没有质疑它们。我不在乎你认为它们有多“正确”。如果你没有从头到尾思考过它们，你只能假设它们是错误的。
 - en: When I say reject everything, I mean everything.
+  id: totrans-58
   prefs: []
   type: TYPE_NORMAL
+  zh: 当我说拒绝一切时，我的意思是拒绝一切。
 - en: You need a radically open mind if you want to think outside of the box you didn’t
     know existed.
+  id: totrans-59
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你想要跳出你不知道存在的框框思考，你需要一个极端开放的思维。
 - en: For all I care, you weren’t born from your mother. You weren’t there to see
     it, were you?
+  id: totrans-60
   prefs: []
   type: TYPE_NORMAL
+  zh: 就我而言，你并非从母亲那里出生。你当时并不在场，看到了吗？
 - en: For all I care, every single thing you think is absolutely true is absolutely
     false.
+  id: totrans-61
   prefs: []
   type: TYPE_NORMAL
+  zh: 就我而言，你所有认为绝对正确的想法都是绝对错误的。
 - en: How do you practice this?
+  id: totrans-62
   prefs: []
   type: TYPE_NORMAL
+  zh: 你如何实践这一点？
 - en: By becoming a skeptic.
+  id: totrans-63
   prefs: []
   type: TYPE_NORMAL
+  zh: 通过成为一个怀疑论者。
 - en: Not the type of skeptic you see on Reddit or in YouTube debates.
+  id: totrans-64
   prefs: []
   type: TYPE_NORMAL
+  zh: 不是你在Reddit或YouTube辩论中看到的那种怀疑论者。
 - en: A true skeptic who is skeptical of their own skepticism.
+  id: totrans-65
   prefs: []
   type: TYPE_NORMAL
+  zh: 一个对自己怀疑的怀疑论者。
 - en: Someone who is skeptical about one belief but not their own is not a skeptic.
     They’re simply blind and dumb.
+  id: totrans-66
   prefs: []
   type: TYPE_NORMAL
+  zh: 一个对某个信念持怀疑态度但对自身信念不持怀疑态度的人，并不是一个怀疑论者。他们只是盲目而愚蠢。
 - en: For to every account an equal account is opposed; and from this, we think, we
     come to hold no beliefs. – Sextus Empiricus
+  id: totrans-67
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: 因为对于每一个说法，都有一个与之相等的对立说法；因此，我们认为，我们不会持有任何信念。 —— 塞克斯图斯·埃米里库斯
 - en: In other words, for every argument, there is an equally strong opposing argument.
     You can argue in any direction about any topic until you die and never come to
     a conclusion. Once you understand this, you suspend judgment and cease to hold
     firm beliefs.
+  id: totrans-68
   prefs: []
   type: TYPE_NORMAL
+  zh: 换句话说，对于每一个论点，都有一个同样强烈的对立论点。你可以在任何话题上任意方向争论，直到你死去，也永远无法得出结论。一旦你理解了这一点，你就会暂停判断，停止持有坚定的信念。
 - en: This isn’t to say that you should not act with conviction toward your goals.
     It means that you are willing to pivot without resistance once you are exposed
     to better information.
+  id: totrans-69
   prefs: []
   type: TYPE_NORMAL
+  zh: 这并不是说你不应该对你的目标充满信心地采取行动。这意味着，一旦你接触到更好的信息，你愿意无阻力地转变方向。
 - en: You practice skepticism in today’s world by trying to prove yourself wrong.
+  id: totrans-70
   prefs: []
   type: TYPE_NORMAL
+  zh: 你通过试图证明自己是错误的来在当今世界实践怀疑论。
 - en: If you’re on social media, you’ll be convinced of the “best” diet model, business
     model, and set of values to conduct your life and relationships.
+  id: totrans-71
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你使用社交媒体，你将确信“最佳”的饮食模式、商业模式和一套价值观来指导你的生活和人际关系。
 - en: People read a convincing post about the carnivore diet (or AI business model
     or life advice), get a dopamine hit because it aids in their survival, immediately
     search up the benefits of it, and condition themselves into a dogmatic worldview.
     It becomes their identity, and they’ll ignore all truth to push their new religion
     on others.
+  id: totrans-72
   prefs: []
   type: TYPE_NORMAL
+  zh: 人们阅读一篇关于食肉动物饮食（或AI商业模式或生活建议）的令人信服的帖子，因为它们有助于他们的生存，立即搜索其好处，并让自己习惯于教条的世界观。这成为他们的身份，他们会忽视所有真相，将他们的新宗教强加给他人。
 - en: Your job is to suspend judgment and attachment.
+  id: totrans-73
   prefs: []
   type: TYPE_NORMAL
+  zh: 你的任务是暂停判断和执着。
 - en: Your job is to question from all angles and research all perspectives.
+  id: totrans-74
   prefs: []
   type: TYPE_NORMAL
+  zh: 你的任务是全方位质疑并研究所有观点。
 - en: Your job is to prove yourself *wrong* and understand every moving part of the
     argument.
+  id: totrans-75
   prefs: []
   type: TYPE_NORMAL
+  zh: 你的任务是证明自己是**错误的**，并理解论点的每一个组成部分。
 - en: From there, you can come to your own opinion. You are no longer bound by the
     mind you were programmed with.
+  id: totrans-76
   prefs: []
   type: TYPE_NORMAL
+  zh: 从那里，你可以形成你自己的观点。你不再受限于你被编程的思维。
 - en: But that’s just the start.
+  id: totrans-77
   prefs: []
   type: TYPE_NORMAL
+  zh: 但这只是开始。
 - en: How do you come up with original ideas?
+  id: totrans-78
   prefs: []
   type: TYPE_NORMAL
+  zh: 你如何提出原创的想法？
 - en: How do you structure your ideas in a way that others value in your writing,
     speaking, and creative work?
+  id: totrans-79
   prefs: []
   type: TYPE_NORMAL
+  zh: 你如何构建你的想法，使别人在你的写作、演讲和创造性工作中给予价值？
 - en: What do you read to find deep ideas?
+  id: totrans-80
   prefs: []
   type: TYPE_NORMAL
+  zh: 你读什么来寻找深刻的想法？
 - en: Let’s talk about it.
+  id: totrans-81
   prefs: []
   type: TYPE_NORMAL
+  zh: 让我们谈谈这个。
 - en: 5 Ways To Think Originally
+  id: totrans-82
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: 5种原创思考方式
 - en: 'Here’s the thing:'
+  id: totrans-83
   prefs: []
   type: TYPE_NORMAL
+  zh: 事情是这样的：
 - en: Original thinking is largely a myth.
+  id: totrans-84
   prefs: []
   type: TYPE_NORMAL
+  zh: 原创思维在很大程度上是一个神话。
 - en: Becoming a (true) skeptic opens your mind to less limited thinking, but it doesn’t
     guarantee that all of your thoughts will be absolutely original.
+  id: totrans-85
   prefs: []
   type: TYPE_NORMAL
+  zh: 成为（真正的）怀疑论者可以打开你的思维，使其不受局限，但这并不保证你的所有想法都将绝对原创。
 - en: And that’s okay.
+  id: totrans-86
   prefs: []
   type: TYPE_NORMAL
+  zh: 这很正常。
 - en: Because original thinking is *perception*.
+  id: totrans-87
   prefs: []
   type: TYPE_NORMAL
+  zh: 因为原创性是*感知*。
 - en: Perception is dependent on identity.
+  id: totrans-88
   prefs: []
   type: TYPE_NORMAL
+  zh: 感知依赖于身份。
 - en: Identity is dependent on conditioning, values, beliefs, conscious or unconscious
     goals, and the rest.
+  id: totrans-89
   prefs: []
   type: TYPE_NORMAL
+  zh: 身份取决于培养、价值观、信仰、有意识或无意识的目标，以及其他因素。
 - en: Some people who read my book are mind-blown at its originality (not my words
     ;).
+  id: totrans-90
   prefs: []
   type: TYPE_NORMAL
+  zh: 有些人读了我的书，对其原创性感到震惊（不是我的话；）。
 - en: Others have left reviews saying it’s “nothing new,” and they’ve heard it all
     before.
+  id: totrans-91
   prefs: []
   type: TYPE_NORMAL
+  zh: 有些人留下了评论说它“没有什么新东西”，他们以前都听过。
 - en: Personally, I felt it was pretty unique. At least, it was to my mind. But that’s
     just something you’ll have to deal with when you decide to put your thoughts out
     into the world.
+  id: totrans-92
   prefs: []
   type: TYPE_NORMAL
+  zh: 个人而言，我觉得这相当独特。至少，对我来说是这样的。但当你决定将你的想法公之于众时，这就是你需要处理的事情。
 - en: Certain identities, at certain points in their development, will see your ideas
     as original. Many won’t. And that’s fine.
+  id: totrans-93
   prefs: []
   type: TYPE_NORMAL
+  zh: 在某些发展阶段，某些身份的人会认为你的想法是原创的。很多人不会。这很正常。
 - en: Do you actually think all of Peterson’s and Watts’ ideas have never been said
     before? Or are they simply articulating a *good* idea in a way that a specific
     group of people perceive as *great*?
+  id: totrans-94
   prefs: []
   type: TYPE_NORMAL
+  zh: 你真的认为彼得森和沃特的所有想法都从未被说过吗？或者他们只是以一种特定群体认为的“极好”的方式阐述了一个*好*的想法吗？
 - en: Now that we are skeptics, how do we discover, articulate, and create ideas that
     few people have heard before?
+  id: totrans-95
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在我们都是怀疑论者，我们如何发现、阐述和创造少数人之前未曾听过的想法？
 - en: The answer is the key to most of your creative success as a writer, founder,
     or creator.
+  id: totrans-96
   prefs: []
   type: TYPE_NORMAL
+  zh: 答案是作为作家、创始人或创作者的创意成功的关键。
 - en: 1) Say The Same Thing, But From Your Perspective
+  id: totrans-97
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 1) 用你的视角表达相同的内容
 - en: Most writers struggle because they feel as if they’re saying what’s already
     been said.
+  id: totrans-98
   prefs: []
   type: TYPE_NORMAL
+  zh: 大多数作家之所以挣扎，是因为他们感觉自己在说已经被说过的话。
 - en: I know this because I teach writing in [2 Hour Writer](https://2hourwriter.com)
     and talk with writers and creators daily in the [Kortex Discord](https://discord.gg/kortex).
+  id: totrans-99
   prefs: []
   type: TYPE_NORMAL
+  zh: 我知道这一点，因为我教授[2小时作家](https://2hourwriter.com)写作，并且每天在[Kortex Discord](https://discord.gg/kortex)与作家和创作者交谈。
 - en: 'Here’s the thing:'
+  id: totrans-100
   prefs: []
   type: TYPE_NORMAL
+  zh: 这里的问题是：
 - en: Originality is less about saying something new and more about exploring existing
     ideas in a fresh way.
+  id: totrans-101
   prefs: []
   type: TYPE_NORMAL
+  zh: 原创性与其说是说出新事物，不如说是以新颖的方式探索现有想法。
 - en: This takes effort. Mental labor. Endurance running for your psyche. You need
     to set aside time to *think through* an idea without distractions. Go on a walk.
+  id: totrans-102
   prefs: []
   type: TYPE_NORMAL
+  zh: 这需要努力。精神劳动。对心理的耐力跑。你需要留出时间来*深思熟虑*一个想法，不受干扰。去散步。
 - en: Second, saying the same thing isn’t bad.
+  id: totrans-103
   prefs: []
   type: TYPE_NORMAL
+  zh: 其次，说同样的事情并不坏。
 - en: The best advice in business is to “sell what’s already selling but with your
     own twist.”
+  id: totrans-104
   prefs: []
   type: TYPE_NORMAL
+  zh: 商业中最棒的忠告是“卖那些已经热销的产品，但加上你自己的特色。”
 - en: '*You stick your hand in the river that’s already flowing.*'
+  id: totrans-105
   prefs: []
   type: TYPE_NORMAL
+  zh: '*你把手伸进已经流动的河流中。*'
 - en: The same holds true with creative work. Certain ideas will always do well. It
     *is* smart to talk about them so you can get some traction.
+  id: totrans-106
   prefs: []
   type: TYPE_NORMAL
+  zh: 创作工作中也是如此。某些想法总是会做得很好。谈论它们是明智的，这样你可以获得一些动力。
 - en: The key is to talk about those ideas from a novel perspective.
+  id: totrans-107
   prefs: []
   type: TYPE_NORMAL
+  zh: 关键是从新颖的视角谈论那些想法。
 - en: Funnily enough, this is what will save creators from becoming irrelevant with
     the wave of AI content.
+  id: totrans-108
   prefs: []
   type: TYPE_NORMAL
+  zh: 有趣的是，这正是将创作者从AI内容浪潮中变得无关紧要中拯救出来的方法。
 - en: But how do you do that?
+  id: totrans-109
   prefs: []
   type: TYPE_NORMAL
+  zh: 但你该如何做到这一点？
 - en: 2) Read What Few People Have Before
+  id: totrans-110
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 2) 阅读少数人曾读过的书籍
 - en: The best ideas I’ve found are the ones collecting dust in little-known books,
     podcasts, videos, and posts.
+  id: totrans-111
   prefs: []
   type: TYPE_NORMAL
+  zh: 我发现的最佳想法是那些在不知名的书籍、播客、视频和帖子中积满灰尘的。
 - en: 'The point:'
+  id: totrans-112
   prefs: []
   type: TYPE_NORMAL
+  zh: 重点：
 - en: Most people aren’t original, they are just talking about ideas you haven’t seen
     before.
+  id: totrans-113
   prefs: []
   type: TYPE_NORMAL
+  zh: 大多数人并不原创，他们只是在谈论你之前没见过的想法。
 - en: If you’re consuming the same information that everyone else is, it’s no wonder
     you feel like you’re saying the same thing as them.
+  id: totrans-114
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你消费的信息和每个人都一样，那么你感觉自己在说同样的话也就不足为奇了。
 - en: Stop reading mainstream books.
+  id: totrans-115
   prefs: []
   type: TYPE_NORMAL
+  zh: 停止阅读主流书籍。
 - en: Stop watching mainstream content.
+  id: totrans-116
   prefs: []
   type: TYPE_NORMAL
+  zh: 停止观看主流内容。
 - en: Stop only getting your information from the algorithm.
+  id: totrans-117
   prefs: []
   type: TYPE_NORMAL
+  zh: 停止只从算法中获取信息。
 - en: You need to actively *hunt* for ideas.
+  id: totrans-118
   prefs: []
   type: TYPE_NORMAL
+  zh: 你需要积极地*寻找*想法。
 - en: Again, this takes effort. Most of that effort is going to be wasted. You aren’t
     going to find the perfect book, video, or post with one Google search.
+  id: totrans-119
   prefs: []
   type: TYPE_NORMAL
+  zh: 再次，这需要努力。大部分的努力都将白费。你不可能通过一次谷歌搜索就找到完美的书籍、视频或帖子。
 - en: Go down more rabbit holes.
+  id: totrans-120
   prefs: []
   type: TYPE_NORMAL
+  zh: 深入更多兔子洞。
 - en: Avoid getting distracted.
+  id: totrans-121
   prefs: []
   type: TYPE_NORMAL
+  zh: 避免分心。
 - en: Let one idea lead to another until you’re in a place where few people go.
+  id: totrans-122
   prefs: []
   type: TYPE_NORMAL
+  zh: 让一个想法引导另一个想法，直到你到达很少有人去的地方。
 - en: 3) Connect Ideas From Different Disciplines
+  id: totrans-123
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 3) 从不同学科连接想法
 - en: I get my best ideas when I want to write about one topic, like business, but
     study something completely different, like philosophy.
+  id: totrans-124
   prefs: []
   type: TYPE_NORMAL
+  zh: 当我想写关于一个话题，比如商业，但研究完全不同的事情，比如哲学时，我会得到最好的想法。
 - en: In fact, these usually turn into my most memorable writing and videos.
+  id: totrans-125
   prefs: []
   type: TYPE_NORMAL
+  zh: 事实上，这些通常成为我最难忘的写作和视频。
 - en: If you watch any of my most popular videos, you’ll notice that I attempt to
     weave a business concept like “niching down” with another concept like ego development
     theory or identity.
+  id: totrans-126
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你看过我最受欢迎的视频，你会注意到我试图将“细分市场”这样的商业概念与“自我发展理论”或“身份”这样的概念交织在一起。
 - en: I knew that “levels of awareness” in marketing were a thing, so when I came
     across the book *Awareness* by Anthony De Mello, it was pretty incredible how
     novel ideas started to spring up, which brought a new dimension to a boring business
     concept.
+  id: totrans-127
   prefs: []
   type: TYPE_NORMAL
+  zh: 我知道市场营销中的“意识层次”是一个东西，所以当我遇到安东尼·德·梅洛的《意识》这本书时，新颖的想法开始涌现，这给一个无聊的商业概念带来了新的维度。
 - en: This is much easier to do in long from writing or video.
+  id: totrans-128
   prefs: []
   type: TYPE_NORMAL
+  zh: 在长篇写作或视频中这样做要容易得多。
 - en: I’ve said this many times before, but if you are a creator who only makes short-form
     content, you’re not building as much reputation as you think you are. There’s
     a reason you remember the author or a life-changing book you read more than you
     remember the last viral TikTok you watched. It’s because a book holds your attention
     for 8 hours while a post holds it for 5 seconds. You don’t have enough time to
     spark transformation in their life. You don’t have enough time to be valuable.
+  id: totrans-129
   prefs: []
   type: TYPE_NORMAL
+  zh: 我已经说过很多次了，但如果你是一个只制作短形式内容的创作者，你建立的名声比你想象的要少。你之所以记得作者或一本改变你生活的书，比你记得你最近看到的病毒性TikTok要多，是因为一本书能让你专注8小时，而一篇文章只能让你专注5秒。你没有足够的时间激发他们生活中的转变。你没有足够的时间变得有价值。
 - en: Social media is good for generating traffic while newsletters, podcasts, and
     videos are good for almost everything else.
+  id: totrans-130
   prefs: []
   type: TYPE_NORMAL
+  zh: 社交媒体适合生成流量，而新闻通讯、播客和视频则适合几乎所有其他事情。
 - en: 'The point:'
+  id: totrans-131
   prefs: []
   type: TYPE_NORMAL
+  zh: 重点：
 - en: Stop studying the thing you are already good at.
+  id: totrans-132
   prefs: []
   type: TYPE_NORMAL
+  zh: 停止研究你已经擅长的事情。
 - en: Zoom out a layer and start connecting the dots between different disciplines.
+  id: totrans-133
   prefs: []
   type: TYPE_NORMAL
+  zh: 放大一层，开始在不同学科之间连接点。
 - en: If you’re into marketing, study psychology or spirituality.
+  id: totrans-134
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你从事市场营销，研究心理学或灵性。
 - en: If you’re into philosophy, study business and social media.
+  id: totrans-135
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你喜欢哲学，研究商业和社交媒体。
 - en: Write about the connections you make.
+  id: totrans-136
   prefs: []
   type: TYPE_NORMAL
+  zh: 写下你建立的联系。
 - en: 4) Stop Being Afraid Of Frameworks
+  id: totrans-137
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 4) 勇敢面对框架
 - en: Creative people are allergic to frameworks for no good reason.
+  id: totrans-138
   prefs: []
   type: TYPE_NORMAL
+  zh: 创造性的人没有理由对框架过敏。
 - en: They think that frameworks ruin authenticity or something like that.
+  id: totrans-139
   prefs: []
   type: TYPE_NORMAL
+  zh: 他们认为框架会破坏真实性或类似的东西。
 - en: What they fail to realize is that creativity flourishes when it has *constraints.*
+  id: totrans-140
   prefs: []
   type: TYPE_NORMAL
+  zh: 他们没有意识到的是，当创造力有*限制*时，它会蓬勃发展。
 - en: You can’t think outside the box if there is no box.
+  id: totrans-141
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果没有框框，你就无法跳出思维定势。
 - en: 'Almost everything I write or speak stems from a simple framework:'
+  id: totrans-142
   prefs: []
   type: TYPE_NORMAL
+  zh: 我写或说的几乎所有东西都源于一个简单的框架：
 - en: Problem and Process.
+  id: totrans-143
   prefs: []
   type: TYPE_NORMAL
+  zh: 问题与过程。
 - en: '[Here’s a guided template if you want it.](https://app.kortex.co/public/document/bec7fcec-d76c-4d00-8669-37f53892fead)'
+  id: totrans-144
   prefs: []
   type: TYPE_NORMAL
+  zh: '[如果你需要，这里有一个指导模板。](https://app.kortex.co/public/document/bec7fcec-d76c-4d00-8669-37f53892fead)'
 - en: Any idea I have, I immediately think about a problem or pain point associated
     with that idea. This gives my mind an angle to grasp onto. It’s almost natural
     for me to
+  id: totrans-145
   prefs: []
   type: TYPE_NORMAL
+  zh: 我有任何想法，我立刻就会想到与这个想法相关的问题或痛点。这给我的思维提供了一个抓手。对我来说，这几乎是自然而然的。
 - en: Why start with a problem?
+  id: totrans-146
   prefs: []
   type: TYPE_NORMAL
+  zh: 为什么从问题开始？
 - en: It captures attention
+  id: totrans-147
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 它吸引了注意力
 - en: It qualifies the reader or listener (what’s in it for me?)
+  id: totrans-148
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 它为读者或听众（对我有什么好处？）进行了资格认证
 - en: It is the start of any good story
+  id: totrans-149
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 这是任何好故事的开始。
 - en: It opens a curiosity loop
+  id: totrans-150
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 它开启了一个好奇心循环
 - en: It frames the ideas that come next, like a story or solution
+  id: totrans-151
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 它为接下来的想法提供了框架，就像一个故事或解决方案
 - en: If you want to think originally, then think of a problem that is different from
     the idea and start there.
+  id: totrans-152
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你想要有原创性的思考，那么考虑一个与想法不同的、不同的问题，并从这里开始。
 - en: Try it.
+  id: totrans-153
   prefs: []
   type: TYPE_NORMAL
+  zh: 尝试一下。
 - en: Pick an idea from this letter, like “being skeptical of your own skepticism.”
+  id: totrans-154
   prefs: []
   type: TYPE_NORMAL
+  zh: 从这封信中挑选一个想法，比如“对你自己的怀疑持怀疑态度。”
 - en: Think of a problem related to that.
+  id: totrans-155
   prefs: []
   type: TYPE_NORMAL
+  zh: 想想与这个问题相关的问题。
 - en: Think of an example or story that illustrates the problem.
+  id: totrans-156
   prefs: []
   type: TYPE_NORMAL
+  zh: 想一个例子或故事来说明这个问题。
 - en: Think of a process or solution that helps solve the problem.
+  id: totrans-157
   prefs: []
   type: TYPE_NORMAL
+  zh: 想想一个可以帮助解决问题的过程或解决方案。
 - en: Tada!
+  id: totrans-158
   prefs: []
   type: TYPE_NORMAL
+  zh: 嘭！
 - en: Now you have a newsletter, YouTube video, social post, or even the starting
     point of a book.
+  id: totrans-159
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在你有一个通讯简报、YouTube 视频或社交媒体帖子，甚至是一本书的起点。
 - en: You may even have an idea for a business to start that helps people solve that
     problem.
+  id: totrans-160
   prefs: []
   type: TYPE_NORMAL
+  zh: 你甚至可能有建立一个帮助人们解决问题的商业想法。
 - en: 5) Experimentation Is Your Teacher
+  id: totrans-161
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 5) 实验是你的老师
 - en: You live in your body.
+  id: totrans-162
   prefs: []
   type: TYPE_NORMAL
+  zh: 你生活在你的身体里。
 - en: You live with your mind.
+  id: totrans-163
   prefs: []
   type: TYPE_NORMAL
+  zh: 你与你的思维生活在一起。
 - en: You live with other people.
+  id: totrans-164
   prefs: []
   type: TYPE_NORMAL
+  zh: 你与其他人生活在一起。
 - en: You live with responsibilities.
+  id: totrans-165
   prefs: []
   type: TYPE_NORMAL
+  zh: 你与其他人生活在一起，承担着责任。
 - en: It should be considered your full-time job to learn about them, practice skills
     that improve them, and master those domains.
+  id: totrans-166
   prefs: []
   type: TYPE_NORMAL
+  zh: 应该把了解它们、练习提高它们技能、掌握这些领域视为你的全职工作。
 - en: Since most thinking starts with a problem, and experimentation (not prescription)
     is how you solve problems for good, then original thinking is the byproduct of
     experience.
+  id: totrans-167
   prefs: []
   type: TYPE_NORMAL
+  zh: 由于大多数思考都是从问题开始的，而实验（而不是处方）是你解决问题的好方法，那么原创思维就是经验的副产品。
 - en: You gain experience by noticing your own problems.
+  id: totrans-168
   prefs: []
   type: TYPE_NORMAL
+  zh: 你通过注意到自己的问题来获得经验。
 - en: You notice your own problems by snapping out of your mindless routine of trivial
     tasks.
+  id: totrans-169
   prefs: []
   type: TYPE_NORMAL
+  zh: 通过摆脱你无意识的琐事例行公事，你注意到自己的问题。
 - en: You look at yourself in the mirror and be honest about your discontentment.
+  id: totrans-170
   prefs: []
   type: TYPE_NORMAL
+  zh: 你对着镜子看看自己，诚实地面对你的不满。
 - en: You dig deeper to get to the root of that problem.
+  id: totrans-171
   prefs: []
   type: TYPE_NORMAL
+  zh: 你深入挖掘，找到那个问题的根源。
 - en: “I don’t like how I look” > “I’m uncomfortable taking my shirt off” > “My wife/husband
     deserves better” > “I don’t have the energy to build the life I want” > “People
     won’t respect me if I keep doing this” > “I don’t want to end up alone”
+  id: totrans-172
   prefs: []
   type: TYPE_NORMAL
+  zh: “我不喜欢我的样子” > “我不舒服脱掉衬衫” > “我的妻子/丈夫应该得到更好的” > “我没有精力去建立我想要的生活” > “如果我继续这样做，人们不会尊重我”
+    > “我不想孤独地结束”
 - en: Now you are problem-aware.
+  id: totrans-173
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在你已经意识到问题。
 - en: Start researching and experimenting with solutions.
+  id: totrans-174
   prefs: []
   type: TYPE_NORMAL
+  zh: 开始研究和尝试解决方案。
 - en: When you start in the gym, you have no idea what you’re doing. You’re better
     off buying a program and studying nutrition until you grasp the fundamentals.
     With enough study (and not latching onto specific training or diet ideologies)
     you can start experimenting to discover a better way of doing things.
+  id: totrans-175
   prefs: []
   type: TYPE_NORMAL
+  zh: 当你刚开始在健身房锻炼时，你并不知道自己在做什么。你最好购买一个计划，研究营养，直到你掌握了基础。通过足够的学习（而不是执着于特定的训练或饮食理念），你可以开始实验，以发现更好的做事方式。
 - en: Slowly, then all at once, you create your own original way of thinking about
     a specific domain of life.
+  id: totrans-176
   prefs: []
   type: TYPE_NORMAL
+  zh: 慢慢地，然后突然之间，你创造了自己对生活特定领域的独特思考方式。
 - en: That’s valuable.
+  id: totrans-177
   prefs: []
   type: TYPE_NORMAL
+  zh: 这很有价值。
 - en: That’s what people want to follow, purchase, and support.
+  id: totrans-178
   prefs: []
   type: TYPE_NORMAL
+  zh: 这正是人们想要追随、购买和支持的。
 - en: That’s how you turn your mind into a creative machine that others can’t help
     but be attracted to.
+  id: totrans-179
   prefs: []
   type: TYPE_NORMAL
+  zh: 这就是如何让你的思维变成一个其他人无法抗拒的创意机器。
 - en: Thank you for reading.
+  id: totrans-180
   prefs: []
   type: TYPE_NORMAL
+  zh: 感谢您阅读。
 - en: I hope it helped.
+  id: totrans-181
   prefs: []
   type: TYPE_NORMAL
+  zh: 我希望它有所帮助。
 - en: – Dan
+  id: totrans-182
   prefs: []
   type: TYPE_NORMAL
+  zh: – 丹
