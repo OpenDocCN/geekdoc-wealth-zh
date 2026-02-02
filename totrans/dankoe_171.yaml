@@ -1,743 +1,1119 @@
 - en: 'The Unpleasant Truth: AI Is Coming For Your Job'
+  id: totrans-0
   prefs:
   - PREF_H1
   type: TYPE_NORMAL
+  zh: 不愉快的真相：人工智能正在抢走你的工作
 - en: 原文：[https://thedankoe.com/letters/the-unpleasant-truth-ai-is-coming-for-your-job/](https://thedankoe.com/letters/the-unpleasant-truth-ai-is-coming-for-your-job/)
+  id: totrans-1
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: 原文：[https://thedankoe.com/letters/the-unpleasant-truth-ai-is-coming-for-your-job/](https://thedankoe.com/letters/the-unpleasant-truth-ai-is-coming-for-your-job/)
 - en: The top AI model is now smarter than 85% of humans.
+  id: totrans-2
   prefs: []
   type: TYPE_NORMAL
+  zh: 最顶尖的AI模型现在比85%的人类更聪明。
 - en: By the end of 2026 it will be smarter than 99.9% of humans.
+  id: totrans-3
   prefs: []
   type: TYPE_NORMAL
+  zh: 到2026年底，它将比99.9%的人类更聪明。
 - en: And you think you will still have a job?
+  id: totrans-4
   prefs: []
   type: TYPE_NORMAL
+  zh: 你认为你还会有一份工作吗？
 - en: 'The above is a post from [David Patterson on X](https://x.com/davidpattersonx/status/1920227618856583355),
     to which Elon Musk replied with this:'
+  id: totrans-5
   prefs: []
   type: TYPE_NORMAL
+  zh: 上述是David Patterson在X上的帖子[David Patterson on X](https://x.com/davidpattersonx/status/1920227618856583355)，Elon
+    Musk回复了以下内容：
 - en: “Roughly correct”
+  id: totrans-6
   prefs: []
   type: TYPE_NORMAL
+  zh: “大致正确”
 - en: Now, let me overload your brain with more for a minute.
+  id: totrans-7
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在，让我用更多的内容来充实你的大脑一分钟。
 - en: Last month, the CEO of Fiverr sent out an email to his team.
+  id: totrans-8
   prefs: []
   type: TYPE_NORMAL
+  zh: 上个月，Fiverr的CEO向他的团队发送了一封电子邮件。
 - en: <picture fetchpriority="high" decoding="async" class="wp-image-2680">![](../Images/22b92e5a4b3127e5334b775cc0f9d6b3.png)</picture>
+  id: totrans-9
   prefs: []
   type: TYPE_NORMAL
+  zh: <picture fetchpriority="high" decoding="async" class="wp-image-2680">![](../Images/22b92e5a4b3127e5334b775cc0f9d6b3.png)</picture>
 - en: 'While I have my assumptions that Fiverr is a special case, considering most
     Fiverr work is past-model AI quality (shots fired), there were some interesting
     key points:'
+  id: totrans-10
   prefs: []
   type: TYPE_NORMAL
+  zh: 虽然我对Fiverr有一些假设，考虑到大多数Fiverr的工作都是过时的AI质量（开火），但也有一些有趣的关键点：
 - en: 'Unpleasant truth: AI is coming for your job, and his job, every job'
+  id: totrans-11
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 不愉快的真相：人工智能正在抢走你的工作，以及他的工作，每一个工作
 - en: Easy tasks no longer exist, hard tasks become the new easy, and impossible tasks
     become hard
+  id: totrans-12
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 简单的任务不再存在，困难的任务变成了新的简单任务，而看似不可能的任务变成了困难任务
 - en: Scream into a pillow, pick yourself back up, and become future-proof (as we’ll
     learn in this post)
+  id: totrans-13
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 在枕头里尖叫，然后振作起来，成为未来不可预测的（正如我们将在本文中学习的那样）
 - en: On top of that, we’ve got the CEO of Shopify, Duolingo as a company, and more
     I’ve seen across social media publicly stating that they are adopting the AI-first
     mindset. There were some headlines about [Duolingo replacing workers](https://www.usatoday.com/story/tech/news/2025/04/30/duolingo-ai-first-contract-workers-replaced/83366078007/) with
     AI already.
+  id: totrans-14
   prefs: []
   type: TYPE_NORMAL
+  zh: 此外，Shopify的CEO、Duolingo作为一家公司，以及我在社交媒体上看到的其他人公开表示，他们正在采用以AI为先的心态。已经有关于Duolingo用AI取代工人的标题[Duolingo
+    replacing workers](https://www.usatoday.com/story/tech/news/2025/04/30/duolingo-ai-first-contract-workers-replaced/83366078007/)。
 - en: Scared yet?
+  id: totrans-15
   prefs: []
   type: TYPE_NORMAL
+  zh: 恐惧了吗？
 - en: Many people are.
+  id: totrans-16
   prefs: []
   type: TYPE_NORMAL
+  zh: 许多人都在。
 - en: And while I can’t go over all of my thoughts in this letter alone, I’ll share
     a few that should equip you with things you can do right now to better prepare
     yourself for what’s coming.
+  id: totrans-17
   prefs: []
   type: TYPE_NORMAL
+  zh: 尽管我无法在这封信中详述所有想法，但我将分享一些可以帮助你立即采取行动，为即将到来的挑战做好准备的观点。
 - en: This is one of the most exciting times to be alive.
+  id: totrans-18
   prefs: []
   type: TYPE_NORMAL
+  zh: 这是人类历史上最激动人心的时期之一。
 - en: By the end of this, I’m confident you will see that too.
+  id: totrans-19
   prefs: []
   type: TYPE_NORMAL
+  zh: 到这篇文章结束时，我相信你也会看到这一点。
 - en: Become AI First
+  id: totrans-20
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: 成为人工智能的第一人
 - en: 'There are 3 types of people with AI:'
+  id: totrans-21
   prefs: []
   type: TYPE_NORMAL
+  zh: 有三种类型的人与人工智能相关：
 - en: People who tried ChatGPT once a few years ago and thought it wasn’t that special
+  id: totrans-22
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 几年前尝试过ChatGPT一次，并认为它并不特别的人
 - en: People who use various AI tools for internet searches, summaries, and simple
     tasks that would take maybe 10 more seconds to do without AI
+  id: totrans-23
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 使用各种AI工具进行网络搜索、总结和简单任务的人，这些任务在没有AI的情况下可能只需要多花10秒钟
 - en: People who have used it enough to “see the light” and are using it in every
     place that they can
+  id: totrans-24
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 使用它足够多以至于“看到了光明”，并在他们能用的每一个地方使用它的人
 - en: I have a lot of opinions on AI.
+  id: totrans-25
   prefs: []
   type: TYPE_NORMAL
+  zh: 我对人工智能有很多看法。
 - en: I don’t think it hurts your ability to think in the slightest.
+  id: totrans-26
   prefs: []
   type: TYPE_NORMAL
+  zh: 我认为这丝毫不会伤害你的思维能力。
 - en: I don’t think it stunts your creativity or development.
+  id: totrans-27
   prefs: []
   type: TYPE_NORMAL
+  zh: 我认为它不会阻碍你的创造力和发展。
 - en: But I want this to be a mostly practical piece.
+  id: totrans-28
   prefs: []
   type: TYPE_NORMAL
+  zh: 但我希望这篇文章主要是有实践意义的。
 - en: What most people don’t understand is that the output of AI is up to your skill
     and imagination.
+  id: totrans-29
   prefs: []
   type: TYPE_NORMAL
+  zh: 大多数人都不理解的是，AI的输出取决于你的技能和想象力。
 - en: If you give AI extremely specific instructions, or use an app aside from ChatGPT
     that does this for you, it will follow those instructions pretty damn close.
+  id: totrans-30
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你给AI非常具体的指令，或者使用除ChatGPT之外的应用程序来为你做这件事，它将非常接近地遵循这些指令。
 - en: As an example, the average AI user will type “create a YouTube video for me”
     out of either laziness or lack of knowledge. AI will respond with a few questions,
     and then it will spit out a script based on some horrible YouTube advice (because
     there is plenty on the internet) that won’t get you anywhere. Especially since
     anyone can do that.
+  id: totrans-31
   prefs: []
   type: TYPE_NORMAL
+  zh: 例如，平均的AI用户可能会因为懒惰或缺乏知识而输入“为我创建一个YouTube视频”。AI会提出几个问题，然后基于一些糟糕的YouTube建议（因为互联网上有很多）生成一个剧本，这些建议不会让你有任何进展。特别是任何人都可以做到这一点。
 - en: 'On the other hand, I can give it exact instructions for:'
+  id: totrans-32
   prefs: []
   type: TYPE_NORMAL
+  zh: 另一方面，我可以给它精确的指令：
 - en: How to generate high performing ideas based on my interests and expertise
+  id: totrans-33
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 如何根据我的兴趣和专业知识生成高绩效的想法
 - en: How to craft the perfect introduction that hooks the viewer in
+  id: totrans-34
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 如何制作一个能够吸引观众的完美开场白
 - en: How to structure the body, tone, style, voice, and where to insert b-roll, visuals,
     quotes, or anything else
+  id: totrans-35
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 如何构建正文、语气、风格、声音，以及在哪里插入B-roll、视觉、引语或其他任何内容
 - en: I can continue, but you get the point
+  id: totrans-36
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 我可以继续，但你已经明白了。
 - en: Then, I can repeat that process for any style of video, social post, landing
     page, or really any other task… and then I have a database of prompts (AKA employees)
     that do work *with my expertise and creativity *in a few seconds rather than hours,
     days, or weeks.
+  id: totrans-37
   prefs: []
   type: TYPE_NORMAL
+  zh: 然后，我可以为任何类型的视频、社交媒体帖子、着陆页或任何其他任务重复这个过程……然后我有一个提示词数据库（也就是员工），他们可以在几秒钟内完成我的专业知识和创造力所需要的工作，而不是几个小时、几天或几周。
 - en: 'Here’s an example of me asking AI for potential title variations for a newsletter:'
+  id: totrans-38
   prefs: []
   type: TYPE_NORMAL
+  zh: 这里有一个例子，我向AI请求为通讯稿提出可能的标题变体：
 - en: '![](../Images/b4758806472d7c56d5d8357b3ecf66d9.png)'
+  id: totrans-39
   prefs: []
   type: TYPE_IMG
+  zh: '![图片](../Images/b4758806472d7c56d5d8357b3ecf66d9.png)'
 - en: 'And here’s the output when I use my [title generator prompt](https://app.kortex.co/public/document/917056b7-26b3-47d6-9d5b-12e700a2c890):'
+  id: totrans-40
   prefs: []
   type: TYPE_NORMAL
+  zh: 当我使用我的[标题生成提示词](https://app.kortex.co/public/document/917056b7-26b3-47d6-9d5b-12e700a2c890)时，这是输出结果：
 - en: '![](../Images/ea13a10f96e52fc15948fc8f49dc5f19.png)'
+  id: totrans-41
   prefs: []
   type: TYPE_IMG
+  zh: '![图片](../Images/ea13a10f96e52fc15948fc8f49dc5f19.png)'
 - en: The first 10 that show are meh, mainly because it’s pulling from the intro rather
     than the broad ideas of the newsletter, so I need to refine the prompt. But still,
     much higher quality.
+  id: totrans-42
   prefs: []
   type: TYPE_NORMAL
+  zh: 显示的前10个结果不太好，主要是因为它主要从开场白中抽取，而不是从通讯稿的广泛思想中抽取，所以我需要细化提示词。但仍然，质量要高得多。
 - en: We are currently building a custom prompts and workflows feature in [Kortex](https://kortex.co/) so
     you can have a workspace filled with your own processes. Right now, if you want
     to see the YouTube example in action, [watch this.](https://youtu.be/4E9rO6FDUwo) It’ll
     blow your mind how well it can script a video.
+  id: totrans-43
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们目前正在[Kortex](https://kortex.co/)中构建一个定制的提示词和工作流程功能，这样你就可以拥有一个充满你自己的流程的工作空间。现在，如果你想看到YouTube示例的实际操作，[观看这个视频](https://youtu.be/4E9rO6FDUwo)。它会让你惊叹于它如何能够编写视频。
 - en: Having it perform specific tasks like that is only one use case.
+  id: totrans-44
   prefs: []
   type: TYPE_NORMAL
+  zh: 仅通过执行这样的特定任务，它就只有一个用例。
 - en: Further, when AI is used as a thinking partner, the way you think begins to
     change, because you are reading and learning more with every output. That impacts
     your decisions, and your decisions compound into the outcome of your life. Big.
+  id: totrans-45
   prefs: []
   type: TYPE_NORMAL
+  zh: 此外，当AI被用作思考伙伴时，你的思维方式开始改变，因为你随着每一次输出都在阅读和学习更多。这影响了你的决策，而你的决策会累积成你生活的结果。很大。
 - en: Try to automate yourself out of work
+  id: totrans-46
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 尝试自动化自己，从工作中解脱出来
 - en: being ai-native isn’t about building features for your users. it’s an operating
     model for how to run your company. it’s how you work, how you think, how you &
     your company breathe. it’s a re-architecture. a rewiring. a philosophical shift
     from “how do we scale humans?” to “how do we scale decisions, creativity, & action
     with machines?
+  id: totrans-47
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: 成为AI原生并不是为你的用户提供功能。它是一种运营模式，用于如何管理你的公司。它是你的工作方式，你的思考方式，你和你公司的呼吸方式。它是一种重新架构，一种重新布线，一种从“我们如何扩展人类？”到“我们如何通过机器扩展决策、创造力和行动？”的哲学转变。
 - en: ''
+  id: totrans-48
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
 - en: – Signull
+  id: totrans-49
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: – Signull
 - en: What sparked this letter was a culmination of ideas building up with a few pushing
     me over the edge to write this.
+  id: totrans-50
   prefs: []
   type: TYPE_NORMAL
+  zh: 这封信的灵感是几个想法的累积，其中一些推动我写下了这封信。
 - en: The first idea is that of *the [self-directed career](https://substack.com/home/post/p-163203331) *from
     the Cosmos Institute.
+  id: totrans-51
   prefs: []
   type: TYPE_NORMAL
+  zh: 第一个想法来自宇宙研究所的*自我导向的职业*。
 - en: Before industrialization, free individuals were mostly farmers and artisans.
+  id: totrans-52
   prefs: []
   type: TYPE_NORMAL
+  zh: 在工业化之前，自由个体大多是农民和工匠。
 - en: The mark of a free person was that they were meant to act on their own interest
     and do many things throughout their life. Around 80% of free workers were self-employed
     vs. a mere 10% today.
+  id: totrans-53
   prefs: []
   type: TYPE_NORMAL
+  zh: 自由人的标志是他们应该根据自己的兴趣行事，并在一生中做很多事情。大约80%的自由工作者是自雇的，而今天只有10%。
 - en: Slaves, on the other hand, were the ones trained to do one specific task for
     the entirety of their lives.
+  id: totrans-54
   prefs: []
   type: TYPE_NORMAL
+  zh: 相反，奴隶是一生中都被训练去做一项特定任务的人。
 - en: In comes machines and we quickly find ourselves in factories and excel sheets
     and algorithms.
+  id: totrans-55
   prefs: []
   type: TYPE_NORMAL
+  zh: 随着机器的出现，我们很快发现自己身处工厂、电子表格和算法之中。
 - en: 'The question then is:'
+  id: totrans-56
   prefs: []
   type: TYPE_NORMAL
+  zh: 那么，问题来了：
 - en: '*Will this AI revolution further remove us from autonomy and freedom to act
     on our interests?*'
+  id: totrans-57
   prefs: []
   type: TYPE_NORMAL
+  zh: '*这场 AI 革命是否会进一步削弱我们的自主权和行动自由？*'
 - en: It’s absolutely possible that most people shift from autopilot to autocomplete.
     From having work assigned to them to having the work done for them.
+  id: totrans-58
   prefs: []
   type: TYPE_NORMAL
+  zh: 完全有可能大多数人从自动驾驶转向自动完成。从工作被分配给他们到工作被为他们完成。
 - en: But for those who value creative work and taking control of the choices they
     make, there’s another option.
+  id: totrans-59
   prefs: []
   type: TYPE_NORMAL
+  zh: 但对于那些重视创造性工作和掌控自己选择的人来说，还有一个选择。
 - en: Normally, during technological transitions, humans adapt by developing higher-level
     skills and forms of knowledge. We abstract up a layer when skills inevitably become
     less valuable through automation.
+  id: totrans-60
   prefs: []
   type: TYPE_NORMAL
+  zh: 通常，在技术转型期间，人类通过发展更高级的技能和知识形式来适应。当技能不可避免地因自动化而变得不那么有价值时，我们会抽象出一个层次。
 - en: With AI, this is happening again. We must abstract up a layer beyond most skills
     that have served us well for the past few decades. Specifically, we’re transitioning
     from labor to mind.
+  id: totrans-61
   prefs: []
   type: TYPE_NORMAL
+  zh: 使用 AI，这种情况又发生了。我们必须超越过去几十年为我们服务良好的大多数技能，抽象出一个层次。具体来说，我们正在从劳动转向思维。
 - en: While AI can now think and execute as well as us, we must *think about how we
     think* in relation to systems that *could* do the thinking for us.
+  id: totrans-62
   prefs: []
   type: TYPE_NORMAL
+  zh: 虽然 AI 现在的思维和执行能力已经与我们相当，但我们必须思考如何思考，相对于那些可能为我们思考的系统。
 - en: 'As we continue, keep this question in mind:'
+  id: totrans-63
   prefs: []
   type: TYPE_NORMAL
+  zh: 在我们继续前进的过程中，请记住这个问题：
 - en: '*When should I leverage AI and when should I do it myself?*'
+  id: totrans-64
   prefs: []
   type: TYPE_NORMAL
+  zh: '*我应该何时利用 AI，何时自己动手？*'
 - en: That leads us to the second idea on becoming “AI first:”
+  id: totrans-65
   prefs: []
   type: TYPE_NORMAL
+  zh: 这引出了成为“AI 首先原则”的第二个想法：
 - en: '[In a recent post](https://substack.com/@signull/p-160784620) from one of my
     favorite anonymous thinkers, Signull gave examples of what AI first looks like
     in typical company roles.'
+  id: totrans-66
   prefs: []
   type: TYPE_NORMAL
+  zh: '[在我最喜欢的匿名思想家之一 Signull 的一篇最近的帖子](https://substack.com/@signull/p-160784620)
+    中，他给出了 AI 首先原则在典型公司角色中的例子。'
 - en: Here are a few straight from his writing so I don’t butcher them.
+  id: totrans-67
   prefs: []
   type: TYPE_NORMAL
+  zh: 这里有一些直接来自他的写作，以免我曲解。
 - en: '**For product development:**'
+  id: totrans-68
   prefs: []
   type: TYPE_NORMAL
+  zh: '**对于产品开发：**'
 - en: '*Non-AI-first:*'
+  id: totrans-69
   prefs: []
   type: TYPE_NORMAL
+  zh: '*非 AI 首先原则：*'
 - en: Slow feedback loops
+  id: totrans-70
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 慢速反馈循环
 - en: Manual research
+  id: totrans-71
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 手动研究
 - en: Roadmap debates based on opinion
+  id: totrans-72
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 基于意见的路标辩论
 - en: '*AI-first*'
+  id: totrans-73
   prefs: []
   type: TYPE_NORMAL
+  zh: '*AI 首先原则：*'
 - en: Summarize all user interviews in minutes
+  id: totrans-74
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 几分钟内总结所有用户访谈
 - en: Generate roadmap options based on feature clustering
+  id: totrans-75
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 根据功能聚类生成路线图选项
 - en: Simulate user behavior before launching anything
+  id: totrans-76
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 在推出任何产品之前模拟用户行为
 - en: '*Prompts:*'
+  id: totrans-77
   prefs: []
   type: TYPE_NORMAL
+  zh: '*提示：*'
 - en: “summarize the last 50 user interviews and cluster the main pain points by frequency
     and intensity. suggest 3 product bets with highest signal-to-noise.”
+  id: totrans-78
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: “总结过去 50 次用户访谈，并按频率和强度聚类主要痛点。提出 3 个具有最高信号与噪声比的产品赌注。”
 - en: ''
+  id: totrans-79
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
 - en: “given the user feedback and usage data, write a product spec for a new onboarding
     flow. include edge cases and counterarguments.”
+  id: totrans-80
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: “根据用户反馈和用法数据，为新用户引导流程编写产品规范。包括边缘情况和反论点。”
 - en: '**For support:**'
+  id: totrans-81
   prefs: []
   type: TYPE_NORMAL
+  zh: '**对于支持部门：**'
 - en: '*Non-AI-first:*'
+  id: totrans-82
   prefs: []
   type: TYPE_NORMAL
+  zh: '*非 AI 首先原则：*'
 - en: Human triage
+  id: totrans-83
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 人工分类
 - en: Support reps re-answering the same questions
+  id: totrans-84
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 支持代表重新回答相同的问题
 - en: '*AI-first:*'
+  id: totrans-85
   prefs: []
   type: TYPE_NORMAL
+  zh: '*AI 首先原则：*'
 - en: Auto-solve tier 1 issues with 24/7 LLMs
+  id: totrans-86
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 使用 24/7 的 LLM 自动解决一级问题
 - en: Summarize complex threads for human escalations
+  id: totrans-87
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 为人工升级总结复杂线程
 - en: Generate help center content dynamically based on ticket volume
+  id: totrans-88
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 根据工单数量动态生成帮助中心内容
 - en: '*Prompts:*'
+  id: totrans-89
   prefs: []
   type: TYPE_NORMAL
+  zh: '*提示：*'
 - en: “summarize this 5-message support thread and suggest the correct resolution.
     highlight any customer frustration.”
+  id: totrans-90
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: “总结这个 5 条信息的支持线程，并提出正确的解决方案。突出任何客户的不满。”
 - en: ''
+  id: totrans-91
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
 - en: “generate a help center article for this recurring question. include screenshots,
     edge cases, and callouts for errors.”
+  id: totrans-92
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: “为这个重复出现的问题生成一篇帮助中心文章。包括截图、边缘情况和错误提示。”
 - en: Now imagine this with simulating marketing or content before it even goes out,
     sales based on user personas, or design variations based on user confusion. This
     applies to one-person companies or creators as well.
+  id: totrans-93
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在想象一下，在营销或内容发布之前模拟它们，基于用户画像的销售，或基于用户困惑的设计变体。这同样适用于个人公司或创作者。
 - en: The common objection is, “AI isn’t there yet,” but that’s the entire point.
+  id: totrans-94
   prefs: []
   type: TYPE_NORMAL
+  zh: 常见的反对意见是，“AI 还没有达到那个水平”，但这正是整个问题的关键所在。
 - en: It will be.
+  id: totrans-95
   prefs: []
   type: TYPE_NORMAL
+  zh: 它会的。
 - en: And once it is, those who have spent time with AI will run laps around you.
+  id: totrans-96
   prefs: []
   type: TYPE_NORMAL
+  zh: 一旦如此，那些与 AI 共同度过时间的人将远远超过你。
 - en: And even if it won’t be, learning AI is still a very good thing to do. It’s
     clearly going to be a major part of our lives.
+  id: totrans-97
   prefs: []
   type: TYPE_NORMAL
+  zh: 即使它不会成为那样，学习AI仍然是非常好的事情去做。它显然将成为我们生活中非常重要的一个部分。
 - en: So how do you start now so you be ready when that point hits very soon?
+  id: totrans-98
   prefs: []
   type: TYPE_NORMAL
+  zh: 那么，你现在如何开始，以便在不久的将来做好准备？
 - en: My advice: *practice automating yourself out of work.*
+  id: totrans-99
   prefs: []
   type: TYPE_NORMAL
+  zh: 我的建议：**练习自动化自己从工作中解脱出来**。
 - en: 'When you go to do *any *task, do this:'
+  id: totrans-100
   prefs: []
   type: TYPE_NORMAL
+  zh: 当你去做**任何**任务时，这样做：
 - en: Write down the entire process in detail like you are teaching someone how to
     do your job (*including thought processes or creative processes*)
+  id: totrans-101
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 详细写下整个过程，就像你正在教别人如何做你的工作（包括思维过程或创造性过程）。
 - en: Assume that any task or piece of that process can be done with a prompt
+  id: totrans-102
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 假设任何任务或这个过程的一部分都可以通过提示来完成
 - en: Attempt to turn that task or piece of that process into a prompt
+  id: totrans-103
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 尝试将那个任务或过程的一部分转化为提示
 - en: Test it, note where it doesn’t do well, and refine the prompt until it’s at
     least 90% of the way there
+  id: totrans-104
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 测试它，注意它做得不好的地方，并完善提示，直到至少达到90%的完美程度
 - en: Store that prompt somewhere safe
+  id: totrans-105
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 将那个提示保存在安全的地方
 - en: And if you don’t know how to perform a task, you can either ask AI the best
     way to do it, have AI break down a YouTube video from an expert teaching it, or
     give AI a book to do the same thing. Then, turn that into a prompt and refine.
+  id: totrans-106
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你不知道如何执行一项任务，你可以询问AI最佳执行方式，让AI分解一个专家教授的YouTube视频，或者给AI一本书来做同样的事情。然后，将其转化为提示并完善。
 - en: The quality of your work is the quality of your prompt.
+  id: totrans-107
   prefs: []
   type: TYPE_NORMAL
+  zh: 你工作的质量是你提示的质量。
 - en: It’s not that AI isn’t as good as you. It’s that you aren’t good enough to make
     AI as good as you. Tasks thinking vs systems thinking.
+  id: totrans-108
   prefs: []
   type: TYPE_NORMAL
+  zh: 并不是AI不如你。而是你不够好，无法让AI变得和你一样好。任务思维与系统思维。
 - en: It’s no longer the one-person business. It’s one person plus employees born
     from written instruction. (Or teams of individuals who can do 10 employees worth
     of work.)
+  id: totrans-109
   prefs: []
   type: TYPE_NORMAL
+  zh: 这不再是单打独斗的生意了。它是一个人加上由书面指示产生的员工。（或者是一群人，他们可以完成相当于10个员工的工作。）
 - en: Now, one of the most invaluable things in my life is having a *prompt that creates
     prompts. *Sounds funny, but it’s incredible. I can jot down quick instructions,
     feed it to that prompt, and then read over and refine the output.
+  id: totrans-110
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在，我生命中最重要的东西之一就是拥有一个**创建提示的提示**。听起来很奇怪，但这是令人难以置信的。我可以写下快速指令，将其输入到这个提示中，然后阅读并完善输出。
 - en: If you want to try this, go to Chat → Write Incredible AI Prompts in [Kortex](https://kortex.co/) and
     start playing around.
+  id: totrans-111
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你想尝试这个，请转到Chat → 在[Kortex](https://kortex.co/)中编写令人难以置信的AI提示，并开始尝试。
 - en: Of course, becoming AI first isn’t the only thing that’s going to save you from
     the mass replacement.
+  id: totrans-112
   prefs: []
   type: TYPE_NORMAL
+  zh: 当然，成为AI并不是唯一能让你免受大规模替代的方法。
 - en: Let’s talk about that.
+  id: totrans-113
   prefs: []
   type: TYPE_NORMAL
+  zh: 让我们谈谈这个。
 - en: You’re Probably Going To Have To Change Your Entire Life, And That’s Great News
+  id: totrans-114
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: 你可能需要改变你整个生活，这可是个好消息
 - en: Here’s the thing.
+  id: totrans-115
   prefs: []
   type: TYPE_NORMAL
+  zh: 事情就是这样。
 - en: I’m not in any position to tell people whose lives I don’t understand what they
     should do and how they should think.
+  id: totrans-116
   prefs: []
   type: TYPE_NORMAL
+  zh: 我并不处于告诉那些我不了解他们生活的人他们应该做什么和怎么思考的位置。
 - en: I don’t have kids to feed. I’m not working two jobs trying to make ends meet.
     I’m a 28 year old guy who owns nothing and eats out for dinner every night (I
     do pay my taxes though).
+  id: totrans-117
   prefs: []
   type: TYPE_NORMAL
+  zh: 我没有孩子要养。我不是在努力工作两份工作来维持生计。我是个28岁的年轻人，一无所有，每晚都外出吃晚餐（尽管我确实交税）。
 - en: To those people, who I doubt are reading this, I’m sorry, but I have no idea
     how to help. Maybe the below can at least give you something to try.
+  id: totrans-118
   prefs: []
   type: TYPE_NORMAL
+  zh: 对于那些我怀疑不会读这篇文章的人来说，我很抱歉，但我不知道如何帮助。也许下面的内容至少可以给你一些尝试的东西。
 - en: 'To those who think the solution is social reform rather than continuing an
     accelerated version of the 9-5 rat race:'
+  id: totrans-119
   prefs: []
   type: TYPE_NORMAL
+  zh: 对于那些认为解决方案是社会改革而不是继续加速版的9-5老鼠赛跑的人来说：
 - en: I agree. But your dream of an endless tropical vacation free of work is delusion
     and will not make you happy. We’ve discussed the necessity of meaningful work
     regardless of money involved many times before ([like in my book](https://thedankoe.com/purpose)).
     Life is oscillation. Work balances rest for a healthy psyche. Your definition
     and connotations of work are probably vastly different than mine.
+  id: totrans-120
   prefs: []
   type: TYPE_NORMAL
+  zh: 我同意。但你的梦想是无工作的无尽热带假期是错觉，这不会让你快乐。我们之前已经多次讨论过无论涉及多少金钱，有意义的工作的必要性（比如在我的书中[https://thedankoe.com/purpose]）。生活是波动。工作平衡休息，对健康的心理有益。你对工作和其内涵的定义可能与我截然不同。
 - en: '*Contribution to something greater than yourself *is a major puzzle piece of
     happiness. That alludes to a more mature definition of work.'
+  id: totrans-121
   prefs: []
   type: TYPE_NORMAL
+  zh: '**为比你自己更大的事物做出贡献**是幸福的主要拼图之一。这暗示了对工作更成熟的理解。'
 - en: 'But for the majority reading this who have at least a few hours to spare if
     they put down their phones, aren’t about to be evicted from their home, and generally
     have a comfortable life:'
+  id: totrans-122
   prefs: []
   type: TYPE_NORMAL
+  zh: 但对于大多数阅读这篇文章的人来说，如果你放下手机，至少有几个小时可以空闲，不太可能被驱逐出你的家，并且通常过着舒适的生活：
 - en: What’s the issue?
+  id: totrans-123
   prefs: []
   type: TYPE_NORMAL
+  zh: 问题是什么？
 - en: Why are you complaining?
+  id: totrans-124
   prefs: []
   type: TYPE_NORMAL
+  zh: 你为什么在抱怨？
 - en: Even though it’s overblown at this point and somehow still sparks controversy,
     the *average *9-5 jobs fucking suck (I’m not talking about the .01% who can nap
     in sleep pods at google). We’ve collectively hated them for decades now. Evolution
     solves problems and now that we’ve solved one of the most painful, you have no
     room to complain.
+  id: totrans-125
   prefs: []
   type: TYPE_NORMAL
+  zh: 尽管现在这一点被夸大了，并且某种程度上的确引发了争议，但平均的9-5工作真的很糟糕（我说的不是在谷歌里可以睡在睡眠舱里的那0.01%的人）。我们已经集体讨厌它们几十年了。进化解决了问题，现在我们已经解决了最痛苦的问题之一，你没有地方可以抱怨。
 - en: You’re presented with one of the greatest opportunities of a lifetime and you’re
     still falling into the most clichéd trap of comfort and playing victim and trying
     to hold onto your old way of life when all good things aren’t permanent?
+  id: totrans-126
   prefs: []
   type: TYPE_NORMAL
+  zh: 你面前有一个一生中最大的机会，但你仍然在落入最陈词滥调的舒适陷阱，扮演受害者，试图保持你的旧生活方式，而所有美好的事物都不是永恒的？
 - en: You still don’t realize that if you work a job a machine could automate, your
     life probably lacks novelty, continuous growth, challenge, and complexity? That
     alone is a massive signal to do something new. This isn’t opinion, this is documented
     patterns of psychological development. Fulfill basic needs, then pursue actualization
     needs, and AI allows for the acceleration of both.
+  id: totrans-127
   prefs: []
   type: TYPE_NORMAL
+  zh: 你还没有意识到，如果你做的工作可以被机器自动化，你的生活可能缺乏新奇、持续成长、挑战和复杂性？这本身就是一个巨大的信号去做些新的事情。这不是意见，这是记录下来的心理发展模式。满足基本需求，然后追求实现需求，AI允许这两者加速。
 - en: For those that are amply convinced, you need to start building.
+  id: totrans-128
   prefs: []
   type: TYPE_NORMAL
+  zh: 对于那些充分信服的人来说，你需要开始构建。
 - en: '**1) What’s left is mastery and meaning**'
+  id: totrans-129
   prefs: []
   type: TYPE_NORMAL
+  zh: '**1) 剩下的只有精通和意义**'
 - en: You have a few years before you are either let go, keep your job (and are eventually
     let go), upskill endlessly to take on new rules in the company you work at, or
     have to fend for yourself.
+  id: totrans-130
   prefs: []
   type: TYPE_NORMAL
+  zh: 在你被解雇、保住工作（但最终还是会解雇）、不断升级技能以适应你所在公司的新规则，或者不得不自谋生路之前，你还有几年时间。
 - en: AI isn’t just coming for artists and programmers, it’s coming for anyone that
     has a brain.
+  id: totrans-131
   prefs: []
   type: TYPE_NORMAL
+  zh: AI不仅仅是在针对艺术家和程序员，它正在针对任何有头脑的人。
 - en: Now, I’m sure this will create a world where we don’t have to worry about money.
     I have my doubts, because human nature and stuff.
+  id: totrans-132
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在，我确信这将创造一个我们不必担心金钱的世界。我对此表示怀疑，因为人性和其他东西。
 - en: But there will be an acclimation period where many people don’t know what to
     do.
+  id: totrans-133
   prefs: []
   type: TYPE_NORMAL
+  zh: 但将会有一个适应期，许多人不知道该做什么。
 - en: That leaves us with a mastery and meaning economy.
+  id: totrans-134
   prefs: []
   type: TYPE_NORMAL
+  zh: 这就让我们有了精通和意义的经济。
 - en: In other words, discovering and pursuing your life’s work (you know, the thing
     you could have, and probably should have done all along).
+  id: totrans-135
   prefs: []
   type: TYPE_NORMAL
+  zh: 换句话说，发现并追求你一生的使命（你知道，你本可以，也许本应该一直做的事情）。
 - en: I don’t know if we will be doing this in VR or on mars, but right now, this
     is done on the internet.
+  id: totrans-136
   prefs: []
   type: TYPE_NORMAL
+  zh: 我不知道我们是否会在VR中做这件事，或者是在火星上，但现在是我们在互联网上这样做。
 - en: Choose something you deeply care about
+  id: totrans-137
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 选择你深感兴趣的事情
 - en: Study, research, and master it ruthlessly paired with an AI first mindset
+  id: totrans-138
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 学习、研究和无情地掌握它，同时搭配AI第一的心态
 - en: Shamelessly share what you know, what you do, and why you do it in public
+  id: totrans-139
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 无耻地分享你所知道的一切，你所做的事情，以及你为什么这样做在公共场合
 - en: Because the only real safety net in today’s world is a body of work that’s impossible
     to ignore.
+  id: totrans-140
   prefs: []
   type: TYPE_NORMAL
+  zh: 因为在当今世界，唯一真正的安全网是你无法忽视的作品集。
 - en: 'Which leads to:'
+  id: totrans-141
   prefs: []
   type: TYPE_NORMAL
+  zh: 这导致：
 - en: '**2) Attention is the only differentiator**'
+  id: totrans-142
   prefs: []
   type: TYPE_NORMAL
+  zh: '**2) 注意力是唯一的差异化因素**'
 - en: As the world is filled with more AI – trust, attention, and signal become more
     scarce.
+  id: totrans-143
   prefs: []
   type: TYPE_NORMAL
+  zh: 随着世界充满更多的AI，信任、注意力和信号变得更加稀缺。
 - en: Yes, the dead internet is growing.
+  id: totrans-144
   prefs: []
   type: TYPE_NORMAL
+  zh: 是的，互联网的死亡正在增长。
 - en: Anyone can ask AI to pump out a years worth of content with a single prompt.
+  id: totrans-145
   prefs: []
   type: TYPE_NORMAL
+  zh: 任何人都可以要求AI用一个提示生成一年的内容。
 - en: But from the example before, that doesn’t mean much.
+  id: totrans-146
   prefs: []
   type: TYPE_NORMAL
+  zh: 但从之前的例子来看，这并没有什么意义。
 - en: That simply means that the level of market sophistication will continue to increase
     rapidly. People will get bored of the cookie cutter and the cookie cutter will
     change every month. People will lose trust in most content. And that doesn’t account
     for the fact that you still have to know what you’re doing in order to have AI
     create something unique and compelling.
+  id: totrans-147
   prefs: []
   type: TYPE_NORMAL
+  zh: 这仅仅意味着市场复杂性的水平将继续迅速提高。人们会厌倦千篇一律的东西，而千篇一律的东西每个月都会改变。人们会对大多数内容失去信任。而且这还没有考虑到你仍然需要知道自己在做什么，以便让AI创造出独特且引人入胜的东西。
 - en: 'My advice:'
+  id: totrans-148
   prefs: []
   type: TYPE_NORMAL
+  zh: 我的建议：
 - en: Use AI to do the things you don’t want to do as a one-person business.
+  id: totrans-149
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 使用AI来做作为个人业务你不愿做的事情。
 - en: Don’t give AI complete control over the things you deeply care about (don’t
     have it do the work for you).
+  id: totrans-150
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 不要让AI完全控制你深感兴趣的事物（不要让它为你做工作）。
 - en: I like writing. AI can write well, and I would encourage the non-writer to use
     AI for that purpose if they need to write to achieve their life’s work in another
     domain, but having AI write for *me *spits out something that is not from my mind.
+  id: totrans-151
   prefs: []
   type: TYPE_NORMAL
+  zh: 我喜欢写作。AI可以写得很好，如果非作家需要写东西来实现他们在另一个领域的生命工作，我会鼓励他们使用AI，但让AI为我写作，输出的东西并不是我心中的想法。
 - en: Since I want to focus on writing, I plan to use AI for other things that are
     necessary to sustain that, like marketing, sales, admin, and other things. The
     prompts I refine over time *are *my little employees.
+  id: totrans-152
   prefs: []
   type: TYPE_NORMAL
+  zh: 由于我想专注于写作，我计划使用AI来做其他必要的事情，比如营销、销售、行政和其他事情。我随着时间的推移精炼的提示是我的小员工。
 - en: That’s not inauthentic, that’s authenticity at scale.
+  id: totrans-153
   prefs: []
   type: TYPE_NORMAL
+  zh: 这不是不真诚，这是规模化的真诚。
 - en: Because never has there been a time where one-person can operate at the scale
     of an entire company.
+  id: totrans-154
   prefs: []
   type: TYPE_NORMAL
+  zh: 因为从来没有一个时代是一个人可以以整个公司的规模进行操作的。
 - en: What does that mean?
+  id: totrans-155
   prefs: []
   type: TYPE_NORMAL
+  zh: 这意味着什么？
 - en: It means you are the niche.
+  id: totrans-156
   prefs: []
   type: TYPE_NORMAL
+  zh: 这意味着你是这个领域的专家。
 - en: You are the differentiator.
+  id: totrans-157
   prefs: []
   type: TYPE_NORMAL
+  zh: 你是区分者。
 - en: Your mastery, experience, and way of looking at the world through a perception
     forged by every bit of information you’ve processed over the entirety of your
     life.
+  id: totrans-158
   prefs: []
   type: TYPE_NORMAL
+  zh: 你对事物的掌握、经验和通过你一生中处理过的每一比特信息锻造的看待世界的方式。
 - en: When AI makes 90% of products the same, nothing really changes.
+  id: totrans-159
   prefs: []
   type: TYPE_NORMAL
+  zh: 当AI使90%的产品变得相同，实际上并没有什么变化。
 - en: People continue to buy from people and brands they know, trust, and follow.
+  id: totrans-160
   prefs: []
   type: TYPE_NORMAL
+  zh: 人们会继续从他们认识、信任和追随的人或品牌那里购买。
 - en: It’s less about building a sales funnel and more about building a world people
     can explore.
+  id: totrans-161
   prefs: []
   type: TYPE_NORMAL
+  zh: 这更多是关于建立一个人们可以探索的世界，而不是建立一个销售漏斗。
 - en: I wrote an article on [How To Build A World](https://open.substack.com/pub/thedankoe/p/how-to-build-a-world-the-2-hour-content?r=of0ip&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) here.
+  id: totrans-162
   prefs: []
   type: TYPE_NORMAL
+  zh: 我在这里发表了一篇关于[如何建立一个世界](https://open.substack.com/pub/thedankoe/p/how-to-build-a-world-the-2-hour-content?r=of0ip&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)的文章。
 - en: '**3) 1,000 true fans is increasingly relevant**'
+  id: totrans-163
   prefs: []
   type: TYPE_NORMAL
+  zh: '**3) 1,000个真正的粉丝越来越相关**'
 - en: Most people don’t want to be famous.
+  id: totrans-164
   prefs: []
   type: TYPE_NORMAL
+  zh: 大多数人并不想成名。
 - en: And even if you do, save that goal until you’re actually making a living.
+  id: totrans-165
   prefs: []
   type: TYPE_NORMAL
+  zh: 即使你能做到，也要等到你真正以此为生时再设定那个目标。
 - en: That’s what most people want.
+  id: totrans-166
   prefs: []
   type: TYPE_NORMAL
+  zh: 这就是大多数人想要的东西。
 - en: And you don’t need millions of followers to get anywhere close to that.
+  id: totrans-167
   prefs: []
   type: TYPE_NORMAL
+  zh: 你也不需要数百万的追随者才能接近那个目标。
 - en: You need about 1,000 true fans.
+  id: totrans-168
   prefs: []
   type: TYPE_NORMAL
+  zh: 你需要大约1,000个真正的粉丝。
 - en: And honestly, it’s even less than that.
+  id: totrans-169
   prefs: []
   type: TYPE_NORMAL
+  zh: 实际上，甚至更少。
 - en: 'If you’re good at what you do, you can:'
+  id: totrans-170
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你擅长你所做的事情，你可以：
 - en: Charge $5,000 per client for a service
+  id: totrans-171
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 为一项服务向每位客户收费5,000美元
 - en: Charge $10 for a paid newsletter (yes, I’m on the substack kick now)
+  id: totrans-172
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 为付费通讯收费10美元（是的，我现在正热衷于substack）
 - en: Charge anywhere from $50 to $150 for any type of product
+  id: totrans-173
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 为任何类型的产品收费50至150美元
 - en: Create spin off products like a book or software (since anyone will be able
     to code up an app that solve a specific problem) for buyers to buy again
+  id: totrans-174
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 为买家创造衍生产品，如书籍或软件（因为任何人都能编写一个解决特定问题的应用程序），让他们再次购买
 - en: Most people can live just fine off of $5,000-$10,000 a month. If you can’t do
     that with pure skill and practice… not sure what to tell you.
+  id: totrans-175
   prefs: []
   type: TYPE_NORMAL
+  zh: 大多数人可以靠每月5,000至10,000美元的收入生活得很好。如果你不能仅凭技能和实践做到这一点……不知道该告诉你什么。
 - en: For a $10 subscription, 500 people that you build up to over 1-2 years, which
     is more than possible, is $5,000 a month (and probably double that considering
     30% will pay yearly).
+  id: totrans-176
   prefs: []
   type: TYPE_NORMAL
+  zh: 对于10美元的订阅，如果你在1-2年内建立起500人，这是完全可能的，那么每月就是5,000美元（考虑到30%的人会按年支付，可能还会翻倍）。
 - en: If you have an offer stack of something recurring, something high ticket, and
     various low ticket products, it really doesn’t take much to make a living doing
     what you enjoy.
+  id: totrans-177
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你有一堆重复出现的、高价值的、各种低价值的产品，实际上并不需要太多就能通过做你喜欢的事情谋生。
 - en: And considering how attention flows on social media, how people go on to follow
     new people, and other natural fluctuations that those outside of the game can’t
     see, there is really more than enough attention to go around.
+  id: totrans-178
   prefs: []
   type: TYPE_NORMAL
+  zh: 考虑到社交媒体上的注意力流动，人们如何继续关注新的人，以及那些游戏外的人无法看到的其他自然波动，实际上有足够的注意力可以分配。
 - en: The key is that you treat it the opposite of a job.
+  id: totrans-179
   prefs: []
   type: TYPE_NORMAL
+  zh: 关键在于你把它当作工作的对立面来对待。
 - en: It’s work that evolves. It’s work that demands continuous learning. It’s work
     with a prerequisite that you have at least some of your life together.
+  id: totrans-180
   prefs: []
   type: TYPE_NORMAL
+  zh: 这是一项不断发展的工作。这是一项要求持续学习的工作。这是一项需要你至少有一部分生活有组织的工作。
 - en: The minute you stagnate is the minute entropy increases, and that’s a wonderful
     thing.
+  id: totrans-181
   prefs: []
   type: TYPE_NORMAL
+  zh: 当你停滞不前的那一刻，熵就会增加，这是一件美妙的事情。
 - en: Staying the same is the enemy of a good life.
+  id: totrans-182
   prefs: []
   type: TYPE_NORMAL
+  zh: 保持不变是美好生活的敌人。
 - en: – Dan
+  id: totrans-183
   prefs: []
   type: TYPE_NORMAL
+  zh: – 丹
 - en: 'When you’re ready, here are a few ways I can help further:'
+  id: totrans-184
   prefs: []
   type: TYPE_NORMAL
+  zh: 当你准备好时，以下是我可以进一步帮助你的几种方式：
 - en: The paid tier of this substack increases in price by 30% tomorrow if you want
     to lock in your rate. As mega guides, prompts, and action plans go in it will
     continue to go up. [Here’s the last mega guide if you want to see if it’s worth
     $10.](https://thedankoe.substack.com/p/mega-guide-how-to-create-your-first)
+  id: totrans-185
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 如果你想锁定你的价格，这个子堆栈的付费层级明天将上涨30%。随着大型指南、提示和行动计划的内容增加，价格将继续上涨。[这里是你想看看它是否值得10美元的最后一个大型指南。](https://thedankoe.substack.com/p/mega-guide-how-to-create-your-first)
 - en: Every Saturday, I send out a high-signal summary of all my writing to 175,000+
     people on my personal list. If you’d like to receive it, [you can join here.](https://thedankoe.com/letters)
+  id: totrans-186
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 每周六，我都会将我所有写作的高信号总结发送给我的个人名单上的17.5万多人。如果你想接收它，[你可以在这里加入。](https://thedankoe.com/letters)
 - en: If you want all AI models in one place, the ability to reference documents and
     PDFs fast, and 25+ prebuilt workflows for learning, writing, marketing, and planning
     – [sign up for Kortex free here.](https://kortex.co/)
+  id: totrans-187
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 如果你想要一个地方集中所有AI模型，快速参考文档和PDF文件，以及25+个用于学习、写作、营销和规划的可预构建工作流程——[免费注册Kortex在这里。](https://kortex.co/)
