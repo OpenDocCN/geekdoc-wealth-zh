@@ -1,891 +1,1351 @@
 - en: 'The Synthesizer: A Digital Career Path For Curious People'
+  id: totrans-0
   prefs:
   - PREF_H1
   type: TYPE_NORMAL
+  zh: 《合成器：好奇人士的数字职业路径》
 - en: 原文：[https://thedankoe.com/letters/the-synthesizer-a-digital-career-path-for-curious-people/](https://thedankoe.com/letters/the-synthesizer-a-digital-career-path-for-curious-people/)
+  id: totrans-1
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: 原文：[https://thedankoe.com/letters/the-synthesizer-a-digital-career-path-for-curious-people/](https://thedankoe.com/letters/the-synthesizer-a-digital-career-path-for-curious-people/)
 - en: Last week, our tech founder and product lead for Kortex – [Matthew Ao](https://twitter.com/TheMatthewAo)
     – had an epiphany.
+  id: totrans-2
   prefs: []
   type: TYPE_NORMAL
+  zh: 上周，我们的技术创始人兼Kortex的产品负责人马修·奥[Matthew Ao](https://twitter.com/TheMatthewAo)有了一个顿悟。
 - en: First, for those who don’t know, Matthew is a homewrecker.
+  id: totrans-3
   prefs: []
   type: TYPE_NORMAL
+  zh: 首先，对于那些不知道的人来说，马修是一个破坏者。
 - en: 13 months ago Joey and I started building [Kortex](https://kortex.co) (formerly
     ValueVault).
+  id: totrans-4
   prefs: []
   type: TYPE_NORMAL
+  zh: 13个月前，我和乔伊开始构建[Kortex](https://kortex.co)（原名ValueVault）。
 - en: 10 months ago we hired one (1) developer to build this second brain app.
+  id: totrans-5
   prefs: []
   type: TYPE_NORMAL
+  zh: 10个月前，我们雇佣了一名（1）开发者来构建这个第二大脑应用程序。
 - en: But not just any second-brain app. One that is actually useful. One that gets
     results. One that allows you to turn your database of knowledge into impactful
     writing for content, videos, podcasts, team collaboration, student projects, and
     more. Eventually allowing us to create a new kind of social media.
+  id: totrans-6
   prefs: []
   type: TYPE_NORMAL
+  zh: 但不仅仅是一个第二大脑应用程序。一个真正有用的应用程序。一个能带来结果的应用程序。一个能让你将你的知识库转化为内容、视频、播客、团队协作、学生项目等有影响力的写作的应用程序。最终让我们能够创造一种新的社交媒体。
 - en: Most “second brain” apps are just glorified note-taking software.
+  id: totrans-7
   prefs: []
   type: TYPE_NORMAL
+  zh: 大多数“第二大脑”应用程序只是被美化的笔记软件。
 - en: On July 13th and Joey spending $50,000 – things weren’t going too well.
+  id: totrans-8
   prefs: []
   type: TYPE_NORMAL
+  zh: 7月13日，乔伊花费了5万美元——事情并不顺利。
 - en: Our weekly calls and updates were slow and boring.
+  id: totrans-9
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们的每周通话和更新缓慢而无聊。
 - en: Our zest for the project was fading fast.
+  id: totrans-10
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们对项目的热情迅速消退。
 - en: We weren’t making the progress we wanted to make. And I don’t know what we were
     expecting to happen with one developer… but we had never done this before. If
     you know me, you know I like to just start building things regardless of how much
     I know… and it tends to work out pretty damn well.
+  id: totrans-11
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们没有取得我们想要取得的进展。我不知道我们期望一个开发者能带来什么…但我们以前从未做过这件事。如果你了解我，你就知道我喜欢不管我知道多少就只是开始构建事情…而且这通常进行得相当顺利。
 - en: At the time, Joey was helping Dakota Robertson with his ghostwriting cohort.
+  id: totrans-12
   prefs: []
   type: TYPE_NORMAL
+  zh: 当时，乔伊正在帮助达科塔·罗伯逊管理他的代笔团队。
 - en: I showed up for a guest call to talk about my writing process.
+  id: totrans-13
   prefs: []
   type: TYPE_NORMAL
+  zh: 我参加了一个嘉宾通话，讨论我的写作过程。
 - en: Toward the end of the call, I mentioned that Joey and I were building an app.
+  id: totrans-14
   prefs: []
   type: TYPE_NORMAL
+  zh: 在通话即将结束时，我提到我和乔伊正在开发一个应用程序。
 - en: Matthew unmuted his mic, “Wait, what kind of app?”
+  id: totrans-15
   prefs: []
   type: TYPE_NORMAL
+  zh: 马修打开了麦克风，“等等，是什么类型的应用程序？”
 - en: We gave some brief details about the app, he said he had some ideas, and we
     took the conversation to the DMs.
+  id: totrans-16
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们简要介绍了这个应用程序，他说他有一些想法，然后我们转向了私信。
 - en: In short, he convinced us to burn ValueVault to the ground and start over.
+  id: totrans-17
   prefs: []
   type: TYPE_NORMAL
+  zh: 简而言之，他说服我们摧毁ValueVault并重新开始。
 - en: We brought him on as a founder.
+  id: totrans-18
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们聘请他作为创始人。
 - en: 'Fast forward to now and we:'
+  id: totrans-19
   prefs: []
   type: TYPE_NORMAL
+  zh: 快进到现在，我们：
 - en: Have a team of 10 incredible developers, 3 KortexU educators, a design team,
     and sales team along with the founders that have audiences and leverage to fuel
     it all (yes, the one-person business is long gone at this point (but is still
     arguably the best starting point)).
+  id: totrans-20
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 我们有一支由10名出色的开发者、3名KortexU教育者、一个设计团队、销售团队以及有观众和影响力来推动这一切的创始人组成的团队（是的，一个人经营的业务已经不复存在了，但仍然是最佳起点之一）。
 - en: Generated $180K in our first month of monetization (without the app being out…
     without investors… story for another time. We just did what I talk about in my
     business letters).
+  id: totrans-21
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 在我们的第一个月商业化中，我们产生了18万美元的收入（没有应用程序发布…没有投资者…另一个故事。我们只是做了我在商业信件中提到的事情）。
 - en: Built [Kortex University](https://university.kortex.co) to be the best new school
     and program on the internet for building a digital career as a synthesizer, creator,
     or writer.
+  id: totrans-22
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 构建了[Kortex大学](https://university.kortex.co)，使其成为互联网上构建合成师、创作者或作家数字职业的最佳新学校和项目。
 - en: Visited our dev team in Toronto and strategized the future.
+  id: totrans-23
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 访问了多伦多的开发团队并制定了未来的战略。
 - en: Are on track for a late January launch of version 0 of the app, specifically
     for those in Kortex University, not the public.
+  id: totrans-24
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 我们正在按计划在1月底推出应用程序的0.0版本，专门针对Kortex大学的学生，而不是公众。
 - en: Have no plans to accept any VC or investments outside of our own contributions
     – we will stick to our philosophy of using technology and social media leverage
     to grow faster than 99% of startups.
+  id: totrans-25
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 没有计划接受任何风险投资或我们自身贡献之外的投资——我们将坚持我们的哲学，即利用技术和社交媒体的力量，比99%的初创公司增长得更快。
 - en: Here is us at our first in person product demo (for those that were in Canada).
+  id: totrans-26
   prefs: []
   type: TYPE_NORMAL
+  zh: 这里是我们第一次面对面产品演示的场景（对于那些在加拿大的人）。
 - en: <picture fetchpriority="high" decoding="async" class="wp-image-1708">![](../Images/beeedaaadad96ce67627a54cfc6d6e57.png)</picture>
+  id: totrans-27
   prefs: []
   type: TYPE_NORMAL
+  zh: <picture fetchpriority="high" decoding="async" class="wp-image-1708">![](../Images/beeedaaadad96ce67627a54cfc6d6e57.png)</picture>
 - en: Oh… and I’m writing this newsletter inside of [Kortex](https://kortex.co) 🙂
+  id: totrans-28
   prefs: []
   type: TYPE_NORMAL
+  zh: 哦...我正在[Kortex](https://kortex.co)内部撰写这封通讯邮件 🙂
 - en: So if you notice the fusion of big ideas and lack of writers block, that’s why.
+  id: totrans-29
   prefs: []
   type: TYPE_NORMAL
+  zh: 所以如果你注意到大思想的融合和缺乏写作障碍，那就是原因。
 - en: 'Okay, back to Matthew’s epiphany:'
+  id: totrans-30
   prefs: []
   type: TYPE_NORMAL
+  zh: 好吧，回到马修的顿悟：
 - en: Curiosity Is Your Compass In The Unknown
+  id: totrans-31
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: 好奇心是你在未知中的指南针
 - en: <picture decoding="async" class="wp-image-1712">![](../Images/b58bcf139af5d22ae4646127bb409a43.png)</picture>
+  id: totrans-32
   prefs: []
   type: TYPE_NORMAL
+  zh: <picture decoding="async" class="wp-image-1712">![](../Images/b58bcf139af5d22ae4646127bb409a43.png)</picture>
 - en: The way to do great work is to explore your curiosity. Because every person
     who’s done great work in history has been the one creating footsteps, not following
     someone else’s. – Matthew Ao
+  id: totrans-33
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: 做出伟大工作的方法是探索你的好奇心。因为历史上所有做出伟大工作的人都是那些创造足迹而不是跟随他人的人。 —— 马修·奥
 - en: Matthew was authentic enough to mention that this insight came from Paul Graham’s
     article on [How To Do Great Work](https://paulgraham.com/greatwork.html).
+  id: totrans-34
   prefs: []
   type: TYPE_NORMAL
+  zh: 马修足够真诚，提到这个洞见来自保罗·格雷厄姆关于[如何做出伟大工作](https://paulgraham.com/greatwork.html)的文章。
 - en: It’s obvious that if you want unknown results you must take an unknown path,
     but people are too quick to adopt the comfort of someone else’s dreams at the
     expense of their own.
+  id: totrans-35
   prefs: []
   type: TYPE_NORMAL
+  zh: 显然，如果你想得到未知的结果，你必须采取未知的路径，但人们太急于接受他人的梦想带来的舒适，而牺牲了自己的梦想。
 - en: Curiosity is your compass in the unknown.
+  id: totrans-36
   prefs: []
   type: TYPE_NORMAL
+  zh: 好奇心是你在未知中的指南针。
 - en: Curiosity is the path of the synthesizer.
+  id: totrans-37
   prefs: []
   type: TYPE_NORMAL
+  zh: 好奇心是综合者的路径。
 - en: Curiosity is how the world was discovered and built.
+  id: totrans-38
   prefs: []
   type: TYPE_NORMAL
+  zh: 好奇心是发现和构建世界的方式。
 - en: Society created known (and heavily outdated) paths like going to school, getting
     a job, and retiring at 65.
+  id: totrans-39
   prefs: []
   type: TYPE_NORMAL
+  zh: 社会创造了已知（并且严重过时）的路径，比如上学、找工作，并在65岁退休。
 - en: The mind craves order, and people mistakenly latch onto the order that society
     has created for them.
+  id: totrans-40
   prefs: []
   type: TYPE_NORMAL
+  zh: 心灵渴望秩序，人们错误地抓住了社会为他们创造的秩序。
 - en: The mind craves order because it is asking you to do the things that create
     order from disorder. That is to collect insight from curiosity and create with
     it – that is your human edge. Other beings don’t change the direction of evolution
     like we do.
+  id: totrans-41
   prefs: []
   type: TYPE_NORMAL
+  zh: 心灵渴望秩序，因为它要求你去做从无序中创造秩序的事情。那就是从好奇心中收集洞察力并用它来创造——那就是你的人类优势。其他生物不会像我们这样改变进化的方向。
 - en: Too much order, certainty, and living in the known becomes dangerous for your
     psyche with time. Eventually, it craves disorder. If you were on “vacation” for
     too long, it ceases to be vacation, you want to go back home and work.
+  id: totrans-42
   prefs: []
   type: TYPE_NORMAL
+  zh: 过多的秩序、确定性和生活在已知中，随着时间的推移对你的心理变得危险。最终，它会渴望无序。如果你“度假”时间过长，它就不再是度假了，你想要回家工作。
 - en: It is the push pull of the Universe.
+  id: totrans-43
   prefs: []
   type: TYPE_NORMAL
+  zh: 这是宇宙的推拉之力。
 - en: Everything unfolds in chapters and phases like a narrative. Your life, your
     ideas, your self, your city, your community, your business, society, culture,
     all the way up to the Universe. Trying to stay in one chapter for your entire
     life is a recipe for emotional turmoil. Life goes on while your mind tries to
     freeze time.
+  id: totrans-44
   prefs: []
   type: TYPE_NORMAL
+  zh: 一切都像叙事一样展开在章节和阶段中。你的生活、你的想法、你的自我、你的城市、你的社区、你的企业、社会、文化，一直到宇宙。试图在一生中停留在同一个章节中是导致情感动荡的配方。当你的心灵试图冻结时间时，生活仍在继续。
 - en: Schools and jobs have their merit, but following that known path for too long
     leads you to an enescapable downward spiral of mediocrity called entropy.
+  id: totrans-45
   prefs: []
   type: TYPE_NORMAL
+  zh: 学校和工作有其优点，但长期遵循这条已知路径会让你陷入一个不可避免的平庸螺旋，即熵。
 - en: Those who pursue curiosity are collecting creative firepower to constantly create
     an evolving order in their lives.
+  id: totrans-46
   prefs: []
   type: TYPE_NORMAL
+  zh: 追求好奇心的人正在收集创意火力，以不断在他们生活中创造一个不断进化的秩序。
 - en: Entropy states that everything tends toward disorder. That’s what evolution
     is. The order we latch onto is not permanent, like a job, and falls apart with
     time. Most people accept this and live out their lives in a sad state rather than
     pushing toward personal evolution through entrepreneurship.
+  id: totrans-47
   prefs: []
   type: TYPE_NORMAL
+  zh: 熵定律表明，一切都有向无序发展的趋势。这就是进化。我们抓住的秩序不是永久的，比如一份工作，随着时间的推移会分崩离析。大多数人接受这一点，并以一种悲伤的状态度过余生，而不是通过创业推动个人进化。
 - en: In order to survive as an entrepreneur, you must continue to persist, iterate,
     and evolve.
+  id: totrans-48
   prefs: []
   type: TYPE_NORMAL
+  zh: 为了作为企业家生存下去，你必须持续坚持、迭代和进化。
 - en: Charles Darwin, Elon Musk, Einstein, and other greats pursued their curiosity.
+  id: totrans-49
   prefs: []
   type: TYPE_NORMAL
+  zh: 查尔斯·达尔文、埃隆·马斯克、爱因斯坦和其他伟大的人追求他们的好奇心。
 - en: '*They were synthesizers of experience toward a vision for the future.*'
+  id: totrans-50
   prefs: []
   type: TYPE_NORMAL
+  zh: '*他们是经验综合者，为了未来的愿景。*'
 - en: They reached breakthroughs not by following a regimented curriculum, but by
     synthesizing what they discovered on the path of curiosity.
+  id: totrans-51
   prefs: []
   type: TYPE_NORMAL
+  zh: 他们不是通过遵循规定的课程，而是通过综合他们在好奇心道路上发现的东西来实现突破。
 - en: Their curiosity led them to multidisciplinary study.
+  id: totrans-52
   prefs: []
   type: TYPE_NORMAL
+  zh: 他们的好奇心引导他们进行了跨学科的学习。
 - en: Nobody believed in them because they saw something that others didn’t.
+  id: totrans-53
   prefs: []
   type: TYPE_NORMAL
+  zh: 没有人相信他们，因为他们看到了别人看不到的东西。
 - en: They were mocked by those of low consciousness and known paths – because they
     didn’t have, nor could they replicate the information that came from curiosity.
+  id: totrans-54
   prefs: []
   type: TYPE_NORMAL
+  zh: 他们被那些意识低下和已知道路的人嘲笑——因为他们没有，也无法复制来自好奇心的信息。
 - en: I’ve noticed this in my own life.
+  id: totrans-55
   prefs: []
   type: TYPE_NORMAL
+  zh: 我在自己的生活中也注意到了这一点。
 - en: My business results skyrocketed when I stopped studying business (but had a
     solid grasp on the principles after following others paths).
+  id: totrans-56
   prefs: []
   type: TYPE_NORMAL
+  zh: 当我停止学习商业（但在跟随他人道路后对原则有了牢固的掌握）时，我的商业成果飙升。
 - en: Then, I studied philosophy, metaphysics, and psychology.
+  id: totrans-57
   prefs: []
   type: TYPE_NORMAL
+  zh: 然后，我学习了哲学、形而上学和心理学科。
 - en: I was able to note the same principles in those domains, but from a higher perspective,
     and enhance my business results because of it.
+  id: totrans-58
   prefs: []
   type: TYPE_NORMAL
+  zh: 我能够从那些领域注意到相同的原理，但从一个更高的视角来看，并因此提升了我的商业成果。
 - en: The pattern recognition brought meaning to my life, provided a source of motivation,
     and gave me a deeper understanding of all domains (because they are all encapsulated
     under the life domain)
+  id: totrans-59
   prefs: []
   type: TYPE_NORMAL
+  zh: 模式识别给我的生活带来了意义，提供了动力来源，并让我对所有领域有了更深入的理解（因为它们都包含在生活领域之下）
 - en: Hamza asked me the other day on a call what led to my growth, and the only thing
     I can think of (that isn’t boring advice you can get everywhere else) is that
     I explained the perspective that came from pursuing my curiosity. I didn’t just
     regurgitate what I’ve been told, I repackaged it for better understanding. I wrote
     it in my own words.
+  id: totrans-60
   prefs: []
   type: TYPE_NORMAL
+  zh: 哈姆扎前几天在电话中问我是什么导致了我的成长，我能想到的（不是到处都能得到的无聊建议）就是，我解释了从追求好奇心中获得的视角。我不仅仅重复了别人告诉我的东西，我还为了更好的理解而重新包装了它。我用我自己的话写了它。
 - en: Most people can’t know, and never will know, the information that shapes the
     perspective I’ve gained from pursuing my curiosity. This is why you are the niche.
     You are a synthesizer of your experience to help others understand.
+  id: totrans-61
   prefs: []
   type: TYPE_NORMAL
+  zh: 大多数人无法知道，也永远不会知道，塑造我从追求好奇心中获得视角的信息。这就是为什么你是这个细分市场。你是你经验的综合者，以帮助他人理解。
 - en: '**You must have absolute conviction in your ideas and discoveries.**'
+  id: totrans-62
   prefs: []
   type: TYPE_NORMAL
+  zh: '**你必须对你的想法和发现有绝对的信心。**'
 - en: You have to be right when everyone is wrong.
+  id: totrans-63
   prefs: []
   type: TYPE_NORMAL
+  zh: 当所有人都错误的时候，你必须是对的。
 - en: You have to ignore the opinions that stem from a lack of understanding.
+  id: totrans-64
   prefs: []
   type: TYPE_NORMAL
+  zh: 你必须忽略那些源于缺乏理解的意见。
 - en: They can’t see what you see if you take a rare path in a known domain.
+  id: totrans-65
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你在一个已知领域选择了一条罕见的道路，他们无法看到你所看到的。
 - en: Few people realize that you can *create* a path that works by noting the patterns
     between other’s paths and your own.
+  id: totrans-66
   prefs: []
   type: TYPE_NORMAL
+  zh: 很少有人意识到，你可以通过注意他人道路和自己的道路之间的模式来*创造*一条可行的道路。
 - en: Because of this, I can’t give a low-level tactical program to bring you certainty.
+  id: totrans-67
   prefs: []
   type: TYPE_NORMAL
+  zh: 由于这个原因，我无法提供一个低级战术计划来给你带来确定性。
 - en: 'I can, however, give you a big-picture guide:'
+  id: totrans-68
   prefs: []
   type: TYPE_NORMAL
+  zh: 然而，我可以给你一个宏观指南：
 - en: Zoom out and consult with your ideal self
+  id: totrans-69
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 放大视野，与你的理想自我咨询
 - en: Become aware of your goals to generate vision and clarity
+  id: totrans-70
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 意识到你的目标以产生愿景和清晰度
 - en: Perceive situations through the lens of those goals to find signal in situations
+  id: totrans-71
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 通过那些目标的视角来感知情况，以在情况中找到信号
 - en: Collect information, write about it, build with it, impact others with it
+  id: totrans-72
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 收集信息，写下来，用它来构建，用它来影响他人
 - en: Creativity is using your experience to actualize a goal
+  id: totrans-73
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 创造力是利用你的经验来实现目标
 - en: If you want to master one domain, acquire general knowledge in the meta domains.
+  id: totrans-74
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你想掌握一个领域，就要在元领域获得一般知识。
 - en: If you want to master business, acquire general knowledge in communications,
     value creation, metaphysics, human nature, psychology, and anything else that
     is the glue of value exchange.
+  id: totrans-75
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你想掌握商业，就要在传播、价值创造、形而上学、人性、心理学以及其他任何价值交换的粘合剂领域获得一般知识。
 - en: But, you have to actually build the business to digest the knowledge you gain
     from this pursuit.
+  id: totrans-76
   prefs: []
   type: TYPE_NORMAL
+  zh: 但是，你必须真正构建业务，以消化从这一追求中获得的知识。
 - en: You can’t just study all day and expect to make progress.
+  id: totrans-77
   prefs: []
   type: TYPE_NORMAL
+  zh: 你不能整天学习，却期望取得进步。
 - en: 'The Synthesizer: A New Career Path For Polymaths & Self-Improvers'
+  id: totrans-78
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: 综合者：多面手和自我提升者的新职业道路
 - en: This career path assumes you are ambitious, strive to improve yourself, and
     enjoy multidisciplinary study.
+  id: totrans-79
   prefs: []
   type: TYPE_NORMAL
+  zh: 这条职业道路假设你雄心勃勃，努力提升自己，并享受跨学科学习。
 - en: It is for those who are tired of modern jobs and business models.
+  id: totrans-80
   prefs: []
   type: TYPE_NORMAL
+  zh: 这是为了那些厌倦了现代工作和商业模式的人。
 - en: You see the masses with a lack of meaning in work and life.
+  id: totrans-81
   prefs: []
   type: TYPE_NORMAL
+  zh: 你看到大众在工作中和生活中缺乏意义。
 - en: You don’t see a way to break out of the default path.
+  id: totrans-82
   prefs: []
   type: TYPE_NORMAL
+  zh: 你看不到一条摆脱默认路径的方法。
 - en: You’re not fulfilled with where you’re headed but love to learn and self-educate.
+  id: totrans-83
   prefs: []
   type: TYPE_NORMAL
+  zh: 你对自己的未来并不满意，但喜欢学习和自我教育。
 - en: We help people turn their curiosity into a digital career in 90 days with [Kortex
     University](https://university.kortex.co).
+  id: totrans-84
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们帮助人们在90天内将他们的好奇心转化为数字职业，通过[Kortex大学](https://university.kortex.co)。
 - en: What Is A Synthesizer
+  id: totrans-85
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 什么是合成器
 - en: A synthesizer is someone who takes a unique path with curiosity as their compass,
     connects ideas to actualize a self-generated goal, and distribute their synthesis
     to help like-minded people achieve similar goals.
+  id: totrans-86
   prefs: []
   type: TYPE_NORMAL
+  zh: 合成器是一个以好奇心为指南针，选择一条独特路径，将想法联系起来实现自我生成目标，并将他们的综合分析分发给有相同想法的人以实现类似目标的人。
 - en: A synthesizer is an obsessive reality explorer. They understand that reality
     cannot be compartmentalized into school classes like biology, chemistry, philosophy,
     and literature. They understand that those aspects of reality have been well documented,
     and if we want to achieve better results, we must view reality as the connected
     whole it is. Synthesizers create holistic solutions to profitable problems.
+  id: totrans-87
   prefs: []
   type: TYPE_NORMAL
+  zh: 合成器是一个沉迷于现实探索的人。他们明白现实不能像生物学、化学、哲学和文学这样的学校课程那样被分割。他们明白这些现实方面的内容已经被很好地记录下来，如果我们想要取得更好的结果，我们必须将现实视为一个相互关联的整体。合成器为有利可图的难题创造整体解决方案。
 - en: A synthesizer is a [value creator](https://thedankoe.com/letters/the-value-creator-a-new-internet-career-path-for-intelligent-people/).
     This is a type of creator on social media that is focused on education and understanding,
     not memes and excessive entertainment.
+  id: totrans-88
   prefs: []
   type: TYPE_NORMAL
+  zh: 合成器是一个[价值创造者](https://thedankoe.com/letters/the-value-creator-a-new-internet-career-path-for-intelligent-people/)。这是一种在社交媒体上专注于教育和理解，而不是表情包和过度娱乐的创作者。
 - en: A synthesizer is a DJ but with ideas.
+  id: totrans-89
   prefs: []
   type: TYPE_NORMAL
+  zh: 合成器是一个DJ，但拥有想法。
 - en: A synthesizer is a decentralized media company.
+  id: totrans-90
   prefs: []
   type: TYPE_NORMAL
+  zh: 合成器是一个去中心化的媒体公司。
 - en: When people would write and publish books, a select few would go on live TV
     to promote it.
+  id: totrans-91
   prefs: []
   type: TYPE_NORMAL
+  zh: 当人们会写作并出版书籍时，只有少数人会上电视现场推广。
 - en: Now, they just post on social media and go on a podcast tour.
+  id: totrans-92
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在，他们只是在社交媒体上发帖，并参加播客巡演。
 - en: Everyone can be their own media company to earn a living doing what they enjoy.
+  id: totrans-93
   prefs: []
   type: TYPE_NORMAL
+  zh: 每个人都可以成为自己的媒体公司，通过做自己喜欢的事情来谋生。
 - en: Authors can build an audience and write a successful book without a publisher.
+  id: totrans-94
   prefs: []
   type: TYPE_NORMAL
+  zh: 作者可以在没有出版商的情况下建立受众并写出一本成功的书。
 - en: Musicians can do the same and produce a track without a record label.
+  id: totrans-95
   prefs: []
   type: TYPE_NORMAL
+  zh: 音乐家也可以做到这一点，无需唱片公司就能制作出音乐作品。
 - en: Creatives can do the same and sell a product without being an employee of a
     company.
+  id: totrans-96
   prefs: []
   type: TYPE_NORMAL
+  zh: 创意人士也可以做到这一点，无需成为公司的雇员就能销售产品。
 - en: The path of the synthesizer allows for the potential to do what you enjoy (and
     earn as much money as you want doing it). Since you don’t rely on someone “above
     you” to provide a salary or commission, your earning potential is dependent on
     your skill, audience size, and creative ability.
+  id: totrans-97
   prefs: []
   type: TYPE_NORMAL
+  zh: 合成器的道路允许你做你喜欢的事情（并且可以赚取你想要的任何金额），因为你不依赖于“上司”提供薪水或佣金，你的收入潜力取决于你的技能、受众规模和创造力。
 - en: The Synthesizer Worldview
+  id: totrans-98
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 合成器世界观
 - en: It is difficult to be what you are not.
+  id: totrans-99
   prefs: []
   type: TYPE_NORMAL
+  zh: 要成为你不想成为的人是困难的。
 - en: If you don’t have the mindset, values, or beliefs of a synthesizer to shape
     who you are – it will be difficult to act on the opportunities presented to you.
+  id: totrans-100
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你没有合成器的思维方式、价值观或信仰来塑造自己，那么要利用你面前的机会将会很困难。
 - en: You change who you are by gradually exposing yourself to – and digesting – new
     information with study and practice. The change will not be instant.
+  id: totrans-101
   prefs: []
   type: TYPE_NORMAL
+  zh: 你可以通过逐渐接触并消化新信息，通过学习和实践来改变自己。这种改变不会立即发生。
 - en: You will have to shed old beliefs and develop a thick skin for boomers that
     tell you to “get a real job,” when they have no idea that this line of work is
     more secure and profitable than the old jobs that won’t exist in a few years.
+  id: totrans-102
   prefs: []
   type: TYPE_NORMAL
+  zh: 你将不得不摒弃旧信念，并为那些告诉你“找一份真正的工作”的婴儿潮一代发展出厚脸皮，因为他们根本不知道这条工作线比几年后不会存在的旧工作更安全、更有利可图。
 - en: 'As you consume books, social media content, and have conversations around your
     future – try to make connections with this list of values and beliefs of the synthesizer:'
+  id: totrans-103
   prefs: []
   type: TYPE_NORMAL
+  zh: 当你阅读书籍、浏览社交媒体内容，并围绕你的未来进行对话时 - 尝试与合成者的这份价值观和信仰列表建立联系：
 - en: Money is a tool for building what you want but doesn’t exist.
+  id: totrans-104
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 金钱是构建你想要的东西的工具，但它本身并不存在。
 - en: You live in a time where you can create your own career, rather than be assigned
     one.
+  id: totrans-105
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 你生活在一个可以创造自己的职业，而不是被分配职业的时代。
 - en: Personal responsibility determines the outcome of your life in a decentralized
     economy.
+  id: totrans-106
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 在去中心化的经济中，个人责任决定了你生活的结果。
 - en: You won’t get average results with average goals. You will get rare results
     with rare goals.
+  id: totrans-107
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 你不会用平均的目标得到平均的结果。你会用罕见的目标得到罕见的结果。
 - en: Curiosity, reality exploration, and eventual obsession with a craft is your
     key to greatness.
+  id: totrans-108
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 好奇心、现实探索，以及对一项技艺的最终痴迷是你通往伟大的关键。
 - en: Self-education is a cornerstone habit that you must do every single day, no
     matter the topic of study.
+  id: totrans-109
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 自我教育是一个基石习惯，你必须每天都要做，无论学习什么主题。
 - en: Humans are meant to expand, transcend, and create. Constant self-improvement
     and evolution is not optional. If you as an individual get stuck, so will your
     endeavors.
+  id: totrans-110
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 人类注定要扩展、超越和创造。不断的自我提升和进化是不可避免的。如果你作为一个个体停滞不前，你的努力也会如此。
 - en: There is a way to build whatever life you want with technology and the internet.
     If there isn’t a way, create it.
+  id: totrans-111
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 有一种方法可以用技术和互联网构建你想要的生活。如果没有方法，就创造它。
 - en: With repetition and training your mind, you can adopt this worldview as your
     own, and once that happens, it will be difficult not to succeed. [Your mind is
     a system that helps you achieve your goals](https://thedankoe.com/letters/you-wont-be-the-same-person-in-6-months-master-anything-fast/).
+  id: totrans-112
   prefs: []
   type: TYPE_NORMAL
+  zh: 通过重复和训练你的思维，你可以将这种世界观作为你自己的，一旦这样做了，成功就会变得难以避免。[你的思维是一个帮助你实现目标的系统](https://thedankoe.com/letters/you-wont-be-the-same-person-in-6-months-master-anything-fast/)。
 - en: The Skills Of The Synthesizer
+  id: totrans-113
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 技术合成者的技能
 - en: Learn to sell, learn to build, if you can do both, you will be unstoppable.
     – Naval
+  id: totrans-114
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: 学会销售，学会构建，如果你两者都能做到，你将无所不能。 - 纳瓦尔
 - en: Now, you can’t just “pursue your curiosity” and hope that everything ends up
     okay.
+  id: totrans-115
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在，你不能只是“追求你的好奇心”并希望一切都会顺利。
 - en: That’s exactly how you become a starving artist.
+  id: totrans-116
   prefs: []
   type: TYPE_NORMAL
+  zh: 这正是你成为一位挨饿的艺术家的方式。
 - en: As Naval says, you must learn to sell and learn to build.
+  id: totrans-117
   prefs: []
   type: TYPE_NORMAL
+  zh: 正如纳瓦尔所说，你必须学会销售和学会构建。
 - en: From a big picture, this comes down to human nature (selling) and technical
     know-how (building).
+  id: totrans-118
   prefs: []
   type: TYPE_NORMAL
+  zh: 从大局来看，这归结于人性（销售）和技术知识（构建）。
 - en: 'From this, we can group skills into 3 camps:'
+  id: totrans-119
   prefs: []
   type: TYPE_NORMAL
+  zh: 从这个角度来看，我们可以将技能分为三个阵营：
 - en: '**1) The Evergreen Skills**'
+  id: totrans-120
   prefs: []
   type: TYPE_NORMAL
+  zh: '**1) 永恒的技能**'
 - en: Studying “human nature” is a difficult task.
+  id: totrans-121
   prefs: []
   type: TYPE_NORMAL
+  zh: 研究“人性”是一项艰巨的任务。
 - en: It can be done through observation and questioning, which should be a habit
     of yours, but we can make it more practical.
+  id: totrans-122
   prefs: []
   type: TYPE_NORMAL
+  zh: 这可以通过观察和提问来实现，这应该是你的习惯之一，但我们可以使它更加实用。
 - en: Human nature can be connected with mechanics and psychology. The principles
     of both help you understand and predict human behavior.
+  id: totrans-123
   prefs: []
   type: TYPE_NORMAL
+  zh: 人性可以与机械和心理联系起来。两者的原则帮助你理解和预测人类行为。
 - en: Human behavior boils down to awareness of a problem, setting a goal to overcome
     it, and strategizing a plan to achieve the goal. This can be conscious or unconscious.
     Many people are assigned problems and goals by society, and if society is a behavior
     system, this explains why most people are comfortable and miserable.
+  id: totrans-124
   prefs: []
   type: TYPE_NORMAL
+  zh: 人类行为归结为对问题的认识，设定目标以克服它，并制定实现目标的计划。这可以是自觉的，也可以是无意识的。许多人被社会分配了问题和目标，如果社会是一个行为系统，这就解释了为什么大多数人既舒适又痛苦。
 - en: The evergreen skills are [writing](https://2hourwriter.com), speaking, marketing,
     and sales.
+  id: totrans-125
   prefs: []
   type: TYPE_NORMAL
+  zh: 永恒的技能包括[写作](https://2hourwriter.com)、演讲、营销和销售。
 - en: All together they represent interactions, communication, and value exchange.
+  id: totrans-126
   prefs: []
   type: TYPE_NORMAL
+  zh: 它们共同代表了互动、沟通和价值交换。
 - en: These skills are the boundaries for *how* you synthesize ideas.
+  id: totrans-127
   prefs: []
   type: TYPE_NORMAL
+  zh: 这些技能是你综合想法的边界。
 - en: How are your ideas going to be impactful if you don’t understand how to distribute
     them in an impactful way? How are you going to build an audience if you don’t
     understand the skill of audience building (communication and value exchange)?
+  id: totrans-128
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你不知道如何以有影响力的方式分发你的想法，你的想法将如何产生影响？如果你不了解构建受众的技能（沟通和价值交换），你将如何建立受众？
 - en: Buy courses, drown your mind in books and podcasts, and study the evergreen
     skills like your future depends on it, because it does.
+  id: totrans-129
   prefs: []
   type: TYPE_NORMAL
+  zh: 购买课程，沉浸在书籍和播客中，像你的未来取决于它一样学习永恒的技能，因为确实如此。
 - en: '**2) Technical Skills**'
+  id: totrans-130
   prefs: []
   type: TYPE_NORMAL
+  zh: '**2) 技术技能**'
 - en: Technology has advanced in a way that massively benefits the individual.
+  id: totrans-131
   prefs: []
   type: TYPE_NORMAL
+  zh: 技术的发展极大地造福了个人。
 - en: You can learn to code, which is a very viable path, but we also have access
     to tools that allow us to build without learning to code.
+  id: totrans-132
   prefs: []
   type: TYPE_NORMAL
+  zh: 你可以学习编程，这是一条非常可行的道路，但我们也有访问工具，允许我们在不学习编程的情况下构建。
 - en: What used to take multiple employees now takes one-person and some self-education.
+  id: totrans-133
   prefs: []
   type: TYPE_NORMAL
+  zh: 以前需要多个员工完成的工作现在只需要一个人和一些自学。
 - en: You can build a website, landing page, or funnel in under a day.
+  id: totrans-134
   prefs: []
   type: TYPE_NORMAL
+  zh: 你可以在一天之内建立一个网站、着陆页或漏斗。
 - en: You can write an email and send it instantly (rather than using the pony express).
+  id: totrans-135
   prefs: []
   type: TYPE_NORMAL
+  zh: 你可以写一封电子邮件并立即发送（而不是使用驿马快递）。
 - en: You can download Photoshop and have AI generate an incredible brand asset.
+  id: totrans-136
   prefs: []
   type: TYPE_NORMAL
+  zh: 你可以下载Photoshop，让AI生成令人难以置信的品牌资产。
 - en: Building digital real estate has become seamless.
+  id: totrans-137
   prefs: []
   type: TYPE_NORMAL
+  zh: 建立数字房地产已经变得无缝。
 - en: I recommend practicing the evergreen skills almost every day.
+  id: totrans-138
   prefs: []
   type: TYPE_NORMAL
+  zh: 我建议几乎每天练习那些永恒的技能。
 - en: With technical skills, I recommend learning them as you build a project according
     to your personal interests.
+  id: totrans-139
   prefs: []
   type: TYPE_NORMAL
+  zh: 在根据你的个人兴趣构建项目的同时，我建议你学习技术技能。
 - en: In short, you will have to learn every technical skill associated with building
     a modern business.
+  id: totrans-140
   prefs: []
   type: TYPE_NORMAL
+  zh: 简而言之，你必须学习与现代商业建设相关的每一个技术技能。
 - en: Graphic design, email marketing, content writing on social media, product hosting,
     and service tools like scheduling software.
+  id: totrans-141
   prefs: []
   type: TYPE_NORMAL
+  zh: 图形设计、电子邮件营销、社交媒体上的内容写作、产品托管以及像日程安排软件这样的服务工具。
 - en: This is rather easy nowadays, but will take some time for it to become second
     nature.
+  id: totrans-142
   prefs: []
   type: TYPE_NORMAL
+  zh: 这在当今时代相当容易，但要让它成为第二天性需要一些时间。
 - en: '**3) Personal Interests**'
+  id: totrans-143
   prefs: []
   type: TYPE_NORMAL
+  zh: '**3) 个人兴趣**'
 - en: How are you going to learn these skills and ensure that you take a unique path
     that is worth passing down to others?
+  id: totrans-144
   prefs: []
   type: TYPE_NORMAL
+  zh: 你打算如何学习这些技能，并确保你选择了一条值得传承给别人的独特道路？
 - en: Again, by pursuing your curiosity.
+  id: totrans-145
   prefs: []
   type: TYPE_NORMAL
+  zh: 再次强调，通过追求你的好奇心。
 - en: In order to forge your own path, you will have to write, speak, market, and
     sell channeled through the technical skills you choose.
+  id: totrans-146
   prefs: []
   type: TYPE_NORMAL
+  zh: 为了开辟自己的道路，你必须通过你选择的技能来写作、演讲、营销和销售。
 - en: Personal interests provide the direction for your projects.
+  id: totrans-147
   prefs: []
   type: TYPE_NORMAL
+  zh: 个人兴趣为你的项目提供了方向。
 - en: Personal interests stem from becoming aware of problems in your life – not mindlessly
     sweeping them under the rug.
+  id: totrans-148
   prefs: []
   type: TYPE_NORMAL
+  zh: 个人兴趣源于意识到你生活中的问题——而不是无意识地将其扫到地毯下。
 - en: If I become aware of the fact that being overweight is stunting my potential,
     and I mean truly aware of how it branches into the quality of every aspect of
     my life, then I automatically become interested in fitness.
+  id: totrans-149
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果我真正意识到超重正在阻碍我的潜力，我的意思是真正意识到它如何影响我生活的方方面面，那么我自然会开始对健身感兴趣。
 - en: From there, and as I experiment in that domain, I become interested in certain
     diets, training modalities, and lifestyle choices. This alone creates a unique
     path.
+  id: totrans-150
   prefs: []
   type: TYPE_NORMAL
+  zh: 从那里开始，当我在这个领域进行实验时，我对某些饮食、训练方式和生活方式选择产生了兴趣。这本身就创造了一条独特的道路。
 - en: Now, if I want to add meaning to that endeavor, I choose to monetize it. Because
     business is a vessel for living with purpose. I can reap the benefits of passing
     down my results and lessons to others to raise the well-being of humanity at scale
     with the internet.
+  id: totrans-151
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在，如果我想给这项事业增添意义，我会选择将其货币化。因为商业是一种有目的的生活的载体。我可以通过将我的成果和经验传授给他人，利用互联网大规模提高人类的福祉。
 - en: To do this well, fitness now serves as my vessel to build and sell with the
     evergreen and technical skills.
+  id: totrans-152
   prefs: []
   type: TYPE_NORMAL
+  zh: 要做好这些，健身现在成了我构建和销售永恒和技能的工具。
 - en: The Habits Of The Synthesizer
+  id: totrans-153
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 综合家的习惯
 - en: If you want to become a synthesizer, you have to be a synthesizer.
+  id: totrans-154
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你想要成为一个综合家，你必须成为一个综合家。
 - en: That doesn’t make much sense, so let me explain.
+  id: totrans-155
   prefs: []
   type: TYPE_NORMAL
+  zh: 这没有太多意义，所以让我解释一下。
 - en: You aren’t getting the results you want because you aren’t the person that would
     get those results.
+  id: totrans-156
   prefs: []
   type: TYPE_NORMAL
+  zh: 你没有得到你想要的结果，因为你不是会得到这些结果的人。
 - en: “Who you are” is composed of your worldview or perspective.
+  id: totrans-157
   prefs: []
   type: TYPE_NORMAL
+  zh: “你是谁”由你的世界观或视角组成。
 - en: Your perspective influences your perception of situations (yes, I repeat this
     often, because it is the most important thing to determine the outcome of your
     life.)
+  id: totrans-158
   prefs: []
   type: TYPE_NORMAL
+  zh: 你的视角影响你对情况的认知（是的，我经常重复这一点，因为它是最重要的，决定了你生活的结果。）
 - en: Your perception of situations determines the choices available to you, and from
     there, you make a decision that benefits a conscious or unconscious end goal.
+  id: totrans-159
   prefs: []
   type: TYPE_NORMAL
+  zh: 你对情况的认知决定了你可以做出的选择，然后你做出一个有利于有意识或无意识目标的决策。
 - en: With time and conscious practice, these decisions become habitual.
+  id: totrans-160
   prefs: []
   type: TYPE_NORMAL
+  zh: 随着时间和有意识的练习，这些决策变成了习惯。
 - en: So, *who you are* is a dance between perspective and habits.
+  id: totrans-161
   prefs: []
   type: TYPE_NORMAL
+  zh: 因此，*你是谁*是观点和习惯之间的舞蹈。
 - en: You don’t adopt the worldview we broke down above as your perspective overnight.
+  id: totrans-162
   prefs: []
   type: TYPE_NORMAL
+  zh: 你不会一夜之间就采纳我们上面分解的世界观作为你的观点。
 - en: You slowly introduce habits into your life that push you into the unknown and
     expose you to positive feedback that reinforces the identity you are trying to
     create.
+  id: totrans-163
   prefs: []
   type: TYPE_NORMAL
+  zh: 你慢慢地将习惯引入你的生活，这些习惯会推动你进入未知领域，并让你接触到积极的反馈，这些反馈会加强你试图塑造的身份。
 - en: You must adopt the lifestyle of the synthesizer – on a smaller scale – if you
     want to become a synthesizer.
+  id: totrans-164
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你想要成为一个综合家，你必须采用综合家的生活方式——在更小的范围内。
 - en: This goes for anything you want in life. It must be embodied in your daily life.
+  id: totrans-165
   prefs: []
   type: TYPE_NORMAL
+  zh: 这适用于你生活中的任何东西。它必须体现在你的日常生活中。
 - en: With time, and as you get the results that allow you to, you increase the time
     spent on those habits so it becomes your full time lifestyle.
+  id: totrans-166
   prefs: []
   type: TYPE_NORMAL
+  zh: 随着时间的推移，当你得到允许这样做的结果时，你将增加在这些习惯上花费的时间，使其成为你的全职生活方式。
 - en: You must be a part time synthesizer first, then go full time when you are ready.
+  id: totrans-167
   prefs: []
   type: TYPE_NORMAL
+  zh: 你必须首先成为一名兼职综合家，然后在你准备好时全职工作。
 - en: 'We can condense these habits into 2 simple blocks that you can increase with
     time and results:'
+  id: totrans-168
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们可以将这些习惯简化为两个简单的块，你可以随着时间和结果的增加而增加：
 - en: '**Habit 1) Productivity Blocks**'
+  id: totrans-169
   prefs: []
   type: TYPE_NORMAL
+  zh: '**习惯1）生产力阻塞**'
 - en: Productivity blocks are for building, creating, and maintaining.
+  id: totrans-170
   prefs: []
   type: TYPE_NORMAL
+  zh: 生产力阻塞用于构建、创造和维护。
 - en: 'During this 30-90 minutes:'
+  id: totrans-171
   prefs: []
   type: TYPE_NORMAL
+  zh: 在这30-90分钟内：
 - en: Engage in focused work
+  id: totrans-172
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 进行专注的工作
 - en: Write content to build a readership
+  id: totrans-173
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 写内容以建立读者群
 - en: Build a product to provide value to that readership
+  id: totrans-174
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 为那个读者群构建一个提供价值的产品
 - en: That’s it. Those are the levers. You must set aside time to build a potentially
     profitable project that can replace your source of income. You must also acquire
     customers for that product so you can transition to full time.
+  id: totrans-175
   prefs: []
   type: TYPE_NORMAL
+  zh: 就这样。这些都是杠杆。你必须留出时间来建立一个可能盈利的项目，以取代你的收入来源。你还必须为该产品获取客户，以便你能够过渡到全职。
 - en: On that note – the new [FOCI Planner is available to order](https://thedankoe.com/planner).
     I know a lot of you were waiting for a physical planner.
+  id: totrans-176
   prefs: []
   type: TYPE_NORMAL
+  zh: 关于这一点——新的[FOCI计划者]现在可以订购了（https://thedankoe.com/planner）。我知道你们很多人都在等待一个实体计划者。
 - en: 'That contains the exact system I use to structure my focused work blocks:'
+  id: totrans-177
   prefs: []
   type: TYPE_NORMAL
+  zh: 这包含了我用来构建我专注工作块的精确系统：
 - en: Create a minimum viable vision for the future
+  id: totrans-178
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 为未来创造一个最小可行愿景
 - en: Deconstruct it into monthly, weekly, and daily goals
+  id: totrans-179
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 将其分解为月度、周度和日目标
 - en: Set your priority tasks to achieve those goals from the bottom up
+  id: totrans-180
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 从下往上设定优先任务以实现那些目标
 - en: Iterate your vision as you learn what you do and don’t want
+  id: totrans-181
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 随着你了解你做什么和不想做什么，迭代你的愿景
 - en: This process alone creates clarity for habit 2.
+  id: totrans-182
   prefs: []
   type: TYPE_NORMAL
+  zh: 这个过程本身就为习惯2创造了清晰。
 - en: '**Habit 2) Creativity Blocks**'
+  id: totrans-183
   prefs: []
   type: TYPE_NORMAL
+  zh: '**习惯2）创意阻塞**'
 - en: Creativity blocks are for idea capture and connection that can be used for your
     creation (those are the 3 tabs in the Kortex app).
+  id: totrans-184
   prefs: []
   type: TYPE_NORMAL
+  zh: 创意阻塞用于捕捉和连接可用于创作的想法（这些是Kortex应用中的3个标签）。
 - en: 'During this 30-90 minutes:'
+  id: totrans-185
   prefs: []
   type: TYPE_NORMAL
+  zh: 在这30-90分钟内：
 - en: '**Go on a walk.** Get away from distractions and use this time to listen to
     videos, podcasts, books, or read in alignment with your vision.'
+  id: totrans-186
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: '**去散步**。远离干扰，利用这段时间观看视频、收听播客、读书或按照你的愿景阅读。'
 - en: '**Hunt for ideas.** To be creative, you must collect novel ideas that catch
     your attention so you have something to synthesize into your writing or building.'
+  id: totrans-187
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: '**寻找灵感**。为了保持创造力，你必须收集那些吸引你的新颖想法，这样你就有东西可以综合到你的写作或构建中。'
 - en: '**Contemplate.** Rest and let your Default Mode Network activate. Move your
     focus inward and let ideas bounce around as you contemplate and connect them to
     create novel perspectives for your writing and building.'
+  id: totrans-188
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: '**沉思**。休息并让你的默认模式网络激活。将你的注意力转向内部，在你沉思和连接它们时，让想法跳跃，为你的写作和构建创造新颖的视角。'
 - en: Productivity and creativity blocks are not optional as a synthesizer. These
     are the 2 things you must do on a daily basis.
+  id: totrans-189
   prefs: []
   type: TYPE_NORMAL
+  zh: 对于一个综合家来说，生产力和创意阻塞是必不可少的。这是你必须每天做的两件事。
 - en: The Main Lever Of The Synthesizer
+  id: totrans-190
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 综合家的主要杠杆
 - en: You are a writer.
+  id: totrans-191
   prefs: []
   type: TYPE_NORMAL
+  zh: 你是一个作家。
 - en: Almost everyone is.
+  id: totrans-192
   prefs: []
   type: TYPE_NORMAL
+  zh: 几乎每个人都是。
 - en: The sooner you realize and accept this as a part of your identity, the better
     you can get at it.
+  id: totrans-193
   prefs: []
   type: TYPE_NORMAL
+  zh: 越早意识到并接受这作为你身份的一部分，你就越能擅长它。
 - en: 'Writing is how you:'
+  id: totrans-194
   prefs: []
   type: TYPE_NORMAL
+  zh: 写作是你：
 - en: Send emails
+  id: totrans-195
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 发送电子邮件
 - en: Write content
+  id: totrans-196
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 写内容
 - en: Write video scripts
+  id: totrans-197
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 写视频脚本
 - en: Write advertisements and promotions
+  id: totrans-198
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 写广告和促销
 - en: Send networking DMs
+  id: totrans-199
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 发送网络私信
 - en: Clarify your ideas to enhance your speaking (in text messages, conversations,
     videos, and anything else… writing can and should come first).
+  id: totrans-200
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 明确你的想法以增强你的演讲（在短信、对话、视频和其他任何东西中……写作可以并且应该首先进行）。
 - en: I am not talking about technical or academic writing.
+  id: totrans-201
   prefs: []
   type: TYPE_NORMAL
+  zh: 我不是在谈论技术或学术写作。
 - en: I am talking about impactful writing.
+  id: totrans-202
   prefs: []
   type: TYPE_NORMAL
+  zh: 我在谈论有影响力的写作。
 - en: Writing rooted in persuasion, marketing, sales, human nature, and psychology.
+  id: totrans-203
   prefs: []
   type: TYPE_NORMAL
+  zh: 基于说服、营销、销售、人性和心理的写作。
 - en: (Good) writing is how you turn words into value.
+  id: totrans-204
   prefs: []
   type: TYPE_NORMAL
+  zh: （好的）写作是将文字转化为价值的方式。
 - en: You don’t “just write” about whatever you want whenever you want.
+  id: totrans-205
   prefs: []
   type: TYPE_NORMAL
+  zh: 你不能“随便写”你想要的任何东西，任何时候都可以。
 - en: 'You must base your writing around the fundamentals of your readers psyche:'
+  id: totrans-206
   prefs: []
   type: TYPE_NORMAL
+  zh: 你必须围绕你读者的心理基础来写作：
 - en: Burning problem – imply or state a problem they want to solve.
+  id: totrans-207
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 燃烧的问题——暗示或陈述他们想要解决的问题。
 - en: Desirable goal – preferably a goal from your vision so you can attract people
     like you (those who you can help most).
+  id: totrans-208
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 可取的目标——最好是来自你愿景的目标，这样你可以吸引像你一样的人（那些你可以帮助最多的人）。
 - en: Path to bridge the gap – from personal experience, your system to achieve that
     goal.
+  id: totrans-209
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 跨越差距的路径——从个人经验出发，你的系统来实现那个目标。
 - en: I’ve broken this down before in the [Value Creation letter](https://thedankoe.com/letters/value-creation-the-skill-that-built-my-one-person-business/).
+  id: totrans-210
   prefs: []
   type: TYPE_NORMAL
+  zh: 我之前在[价值创造信](https://thedankoe.com/letters/value-creation-the-skill-that-built-my-one-person-business/)中已经分解过这一点。
 - en: Writing is how you synthesize ideas into something tangible so you can improve
     them with time.
+  id: totrans-211
   prefs: []
   type: TYPE_NORMAL
+  zh: 写作是将想法综合成有形的东西，这样你就可以随着时间的推移来改进它们。
 - en: Without writing, your ideas will not get better, and neither will your results.
+  id: totrans-212
   prefs: []
   type: TYPE_NORMAL
+  zh: 没有写作，你的想法不会变得更好，你的结果也不会。
 - en: And, you won’t be doing the one thing that puts your value in front of other
     people.
+  id: totrans-213
   prefs: []
   type: TYPE_NORMAL
+  zh: 并且，你不会做那一件能让你在别人面前展示价值的事情。
 - en: Monetization Paths Of The Synthesizer
+  id: totrans-214
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 合成器的货币化路径
 - en: 'Your monetization paths and revenue streams are endless as a writer, creator,
     or synthesizer:'
+  id: totrans-215
   prefs: []
   type: TYPE_NORMAL
+  zh: 作为作家、创作者或合成器，你的货币化路径和收入来源是无限的：
 - en: Writing a book
+  id: totrans-216
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 写一本书
 - en: Selling digital products
+  id: totrans-217
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 销售数字产品
 - en: Selling physical products (like a planner)
+  id: totrans-218
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 销售实体产品（如计划本）
 - en: Selling mentorship, coaching, or consulting
+  id: totrans-219
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 销售辅导、教练或咨询
 - en: Freelancing with writing or any other evergreen/technical skill or personal
     interest
+  id: totrans-220
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 使用写作或其他任何常青/技术技能或个人兴趣进行自由职业
 - en: All of these paths are low-cost (aside from physical products) and allow you
     to make a living doing what you enjoy.
+  id: totrans-221
   prefs: []
   type: TYPE_NORMAL
+  zh: 所有这些路径都是低成本（除了实体产品）并且允许你通过做自己喜欢的事情谋生。
 - en: You can observe the creator economy and see that people are earning from these
     options with almost any interest imaginable (don’t get stuck in an echo chamber
     thinking that only certain things sell better than others).
+  id: totrans-222
   prefs: []
   type: TYPE_NORMAL
+  zh: 你可以观察创作者经济，看到人们几乎可以用任何可想象的兴趣从中获利（不要陷入一个回音室，认为只有某些东西比其他东西卖得更好）。
 - en: Build your base of readers, then build whatever you want.
+  id: totrans-223
   prefs: []
   type: TYPE_NORMAL
+  zh: 建立你的读者群，然后建立你想要的任何东西。
 - en: And once you have the cash flow and readership that allows, you can build literally
     any kind of business you please, like how we are building Kortex.
+  id: totrans-224
   prefs: []
   type: TYPE_NORMAL
+  zh: 一旦你有了允许的现金流和读者群，你就可以建立你想要的任何类型的业务，就像我们正在建立Kortex一样。
 - en: Lastly, a promotion.
+  id: totrans-225
   prefs: []
   type: TYPE_NORMAL
+  zh: 最后，一个推广。
 - en: If you want to become a synthesizer in 90 days, [apply to be one of the few
     students in Kortex University](https://university.kortex.co).
+  id: totrans-226
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果你想在90天内成为合成器，[申请成为Kortex大学少数学生之一](https://university.kortex.co)。
 - en: Be mindful of the next cohort start date.
+  id: totrans-227
   prefs: []
   type: TYPE_NORMAL
+  zh: 注意下一期开始日期。
 - en: Thank you for reading and enjoy your weekend.
+  id: totrans-228
   prefs: []
   type: TYPE_NORMAL
+  zh: 感谢阅读，祝您周末愉快。
 - en: Dan
+  id: totrans-229
   prefs: []
   type: TYPE_NORMAL
+  zh: 丹
