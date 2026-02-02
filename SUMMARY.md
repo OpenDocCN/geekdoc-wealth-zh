@@ -1,4 +1,5 @@
 +   [十倍比两倍更容易（双语）](docs/10x-ezrt-2x/README.md)
++   [DanKoe 博客中文翻译](docs/dankoe/README.md)
 +   [CEO 修炼手册](docs/great-ceo/README.md)
 +   [生活黑客](docs/lf-hkr/README.md)
 +   [原则 · 中文版](docs/principles/README.md)

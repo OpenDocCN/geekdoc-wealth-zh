@@ -1,30 +1,30 @@
-# 21世纪最伟大的技能（前1%的人利用这个）
+# 21 世纪最伟大的技能（前 1%的人利用这个）
 
-> 原文：[https://thedankoe.com/letters/the-most-important-skill-of-the-21st-century-only-1-use-it/](https://thedankoe.com/letters/the-most-important-skill-of-the-21st-century-only-1-use-it/)
+> 原文：[`thedankoe.com/letters/the-most-important-skill-of-the-21st-century-only-1-use-it/`](https://thedankoe.com/letters/the-most-important-skill-of-the-21st-century-only-1-use-it/)
 
 我要坦白。
 
 我自己和[Justin Scott](https://twitter.com/iamjustincscott)正在进行一封时事通讯的写作比赛。
 
-我们的目标是在7天内写7封时事通讯，以建立库存。
+我们的目标是在 7 天内写 7 封时事通讯，以建立库存。
 
-我甚至更进一步，每天都在录制7个YouTube视频。
+我甚至更进一步，每天都在录制 7 个 YouTube 视频。
 
-今天的写作是在一个忙碌的日子里完成的，我正在准备Sprint课程电话会议。
+今天的写作是在一个忙碌的日子里完成的，我正在准备 Sprint 课程电话会议。
 
-所以……我直接从[数字经济学](https://digitaleconomics.school)（那里面的内容不到1%）复制粘贴了这段话。
+所以……我直接从[数字经济学](https://digitaleconomics.school)（那里面的内容不到 1%）复制粘贴了这段话。
 
 在我看来，这是你可以掌握的最重要的一项技能：**说服性沟通**。
 
 这样，人们实际上会分享你的写作（这意味着你实际上在社交媒体上有所增长）。
 
-作为额外奖励，我包括了一个下载链接到一个PDF文件（无需电子邮件），其中包含我们在这封信中讨论的内容。
+作为额外奖励，我包括了一个下载链接到一个 PDF 文件（无需电子邮件），其中包含我们在这封信中讨论的内容。
 
-[在新标签页中打开此PDF，以免丢失。](https://www.dropbox.com/scl/fi/nhvzkqzbzlp6ro6ocb8a4/ContentPresentation.pdf?rlkey=8kpb8t3wgc21wu9acqg33c80v&dl=0)
+[在新标签页中打开此 PDF，以免丢失。](https://www.dropbox.com/scl/fi/nhvzkqzbzlp6ro6ocb8a4/ContentPresentation.pdf?rlkey=8kpb8t3wgc21wu9acqg33c80v&dl=0)
 
 我强烈建议你在写作内容时将其打开。
 
-它包括10条参与守则和32种你可以仿效的帖子结构——我的个人 swipe 文件。
+它包括 10 条参与守则和 32 种你可以仿效的帖子结构——我的个人 swipe 文件。
 
 让我们深入探讨：
 
@@ -64,13 +64,13 @@
 
 （这不是一个正常的书籍发布会，它很昂贵，而且有很好的理由。）
 
-当纪念版2000份售罄后，平装版将开始发售。
+当纪念版 2000 份售罄后，平装版将开始发售。
 
-## 丹的10条吸引注意力的守则
+## 丹的 10 条吸引注意力的守则
 
 当你在浏览社交媒体或阅读一般内容时——尝试留意这些策略的使用。这是在脑海中巩固这些信息的最佳方式。注意当你的注意力被吸引时，并质疑“为什么”。
 
-有很多种方法可以吸引注意力。我发现这些方法是最可复制和实用的（第8点是最重要的）：
+有很多种方法可以吸引注意力。我发现这些方法是最可复制和实用的（第 8 点是最重要的）：
 
 ### 1) 具体数字
 
@@ -78,13 +78,13 @@
 
 这些可以以以下形式出现：
 
-+   **统计数据** — “地球上共有70亿人口”
++   **统计数据** — “地球上共有 70 亿人口”
 
-+   **金额** — “苹果新的1175美元iPhone有这个新功能”
++   **金额** — “苹果新的 1175 美元 iPhone 有这个新功能”
 
-+   **指标** — “我发送了322封冷邮件”或“293天后……”
++   **指标** — “我发送了 322 封冷邮件”或“293 天后……”
 
-+   **列表** — “7个正在阻碍你的坏习惯……”
++   **列表** — “7 个正在阻碍你的坏习惯……”
 
 数字越具体，就越能吸引人们的注意。
 
@@ -92,13 +92,13 @@
 
 这里有一个我自己的例子，这是许多人加入数字经济学（我的课程）的决定性因素：
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1469">![](../Images/a2e0b698f0489da91e7fa6b9a72c2d27.png)</picture>
+<picture fetchpriority="high" decoding="async" class="wp-image-1469">![](img/a2e0b698f0489da91e7fa6b9a72c2d27.png)</picture>
 
 ### 2) 模式中断
 
 模式中断是打破人们正常条件化模式的东西。
 
-如果有人在X上滚动，并且习惯了大量的政治评论，一个格式良好的列表推文将使他们停止滚动。
+如果有人在 X 上滚动，并且习惯了大量的政治评论，一个格式良好的列表推文将使他们停止滚动。
 
 列表中的大多数内容都是模式中断。
 
@@ -126,7 +126,7 @@
 
 这很简单，指出你正在与之交谈的具体个人。
 
-+   如果你20多岁……
++   如果你 20 多岁……
 
 +   呼吁所有创作者、教练和自由职业者！
 
@@ -136,7 +136,7 @@
 
 我前几天谈到了健身者。即使人们不认为自己是健身者，这也帮助他们描绘出一个他们可以与之产生共鸣的画面：
 
-<picture decoding="async" class="wp-image-1470">![](../Images/84df818ba6e0463d5a4dccecb518a79f.png)</picture>
+<picture decoding="async" class="wp-image-1470">![](img/84df818ba6e0463d5a4dccecb518a79f.png)</picture>
 
 如果有人谈论做父亲，我仍然能够产生共鸣，因为总有一天我会成为父亲。我仍然会关注并采纳这些建议。
 
@@ -154,7 +154,7 @@
 
 这里有一个简单地将“感觉糟糕”作为痛点的例子：
 
-<picture decoding="async" class="wp-image-1471">![](../Images/cd5eea07d5e608395067dc41545fe1df.png)</picture>
+<picture decoding="async" class="wp-image-1471">![](img/cd5eea07d5e608395067dc41545fe1df.png)</picture>
 
 ### 6) 潜在的好处
 
@@ -166,11 +166,11 @@
 
 当你炫耀你的成果或资历时，人们会自动假设你比他们知道得多。他们会更加认真地对待你的内容，并寻找他们“缺失”的信息。
 
-当这不是一种“炫耀”时，效果会好100倍。
+当这不是一种“炫耀”时，效果会好 100 倍。
 
 贾斯汀·韦尔士是这方面的当前王者：
 
-<picture loading="lazy" decoding="async" class="wp-image-1472">![](../Images/bfe0a591b401b5b91cc29cc54ddadad8.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-1472">![](img/bfe0a591b401b5b91cc29cc54ddadad8.png)</picture>
 
 使用社会证据来说明你试图表达的观点。
 
@@ -210,7 +210,7 @@
 
 这里有一个例子，展示了我对自己所说内容的自信：
 
-<picture loading="lazy" decoding="async" class="wp-image-1473">![](../Images/51818d471fcdd77d903d7ee74ddded5c.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-1473">![](img/51818d471fcdd77d903d7ee74ddded5c.png)</picture>
 
 这条推文被一个大型的时事通讯特写，并引发了很多争议。
 
@@ -220,11 +220,11 @@
 
 我在迅速执行了一个想法的时候写了这条推文。这样做给了我很多快乐，所以我想要与他人分享这份快乐。这很有效。
 
-它是100%正确吗？不是。
+它是 100%正确吗？不是。
 
-当我根据我的视角，结合我的个人经验写下它时，它是100%正确吗？
+当我根据我的视角，结合我的个人经验写下它时，它是 100%正确吗？
 
-是的。当时我100%确信那是最伟大的技能。
+是的。当时我 100%确信那是最伟大的技能。
 
 我继续在回复中添加细节。如果我在实际推文中添加了细节，它可能不会表现得那么好，也不会有机会被收录在大型通讯中。
 
@@ -232,7 +232,7 @@
 
 这里还有一个——稍微极端一点的——例子。你能感觉到屏幕上流动的激励和实用能量吗？
 
-<picture loading="lazy" decoding="async" class="wp-image-1474">![](../Images/eacc886e87e8e9a1924ca4d2d060afb7.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-1474">![](img/eacc886e87e8e9a1924ca4d2d060afb7.png)</picture>
 
 顺便说一句，这类高能量建议帖子能吸引很多关注者。
 
@@ -260,7 +260,7 @@
 
 这引发了很多争议，但我有研究来支持这一点，并在回复中提供了细节，以与我的观众建立更深的联系：
 
-<picture loading="lazy" decoding="async" class="wp-image-1475">![](../Images/425dd8c17d7c4ce6cc57503d7752b5a4.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-1475">![](img/425dd8c17d7c4ce6cc57503d7752b5a4.png)</picture>
 
 ## 什么是吸引注意力的因素？
 
@@ -272,11 +272,11 @@
 
 人们想要了解整个故事。他们想知道在给定事件之前、期间和之后发生了什么（从吸引注意力开始）。
 
-在保持注意力方面，这里有2件事需要记住：
+在保持注意力方面，这里有 2 件事需要记住：
 
 ### 1) 结构
 
-我们不再是高中生了。长篇大论的段落不再重要，并且会降低可读性。尤其是在X平台上——人们登录该平台是为了逃离专业世界。
+我们不再是高中生了。长篇大论的段落不再重要，并且会降低可读性。尤其是在 X 平台上——人们登录该平台是为了逃离专业世界。
 
 你如何改进你所有内容的结构？
 
@@ -290,7 +290,7 @@
 
 以下是一个包含上述所有内容的示例：
 
-<picture loading="lazy" decoding="async" class="wp-image-1476">![](../Images/7d113d928c849dcb49212f739b2ca9a9.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-1476">![](img/7d113d928c849dcb49212f739b2ca9a9.png)</picture>
 
 ### 2) 新颖的视角
 
@@ -298,7 +298,7 @@
 
 新奇性可以提高大脑中的多巴胺水平。它为反复讨论过的想法带来了更多的清晰度。
 
-如果你从Twitter上获取所有内容，同时试图在Twitter上成长——你可能会最终拥有与其他人相同的观点。
+如果你从 Twitter 上获取所有内容，同时试图在 Twitter 上成长——你可能会最终拥有与其他人相同的观点。
 
 隐喻、个人经历和创造新概念是你实现这一点的途径。
 
@@ -306,7 +306,7 @@
 
 我在读一篇文章时，了解到一杯水可以产生一英亩的雾，并将这个观点应用到我的一个子主题——正念上。
 
-<picture loading="lazy" decoding="async" class="wp-image-1477">![](../Images/bad79dd99be244146afab487f4caf2e6.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-1477">![](img/bad79dd99be244146afab487f4caf2e6.png)</picture>
 
 内容**消费**（或研究）很重要。具体来说，书籍、有声书、播客或文章。这些会给你提供关于你热爱谈论的事物的不同视角。
 
@@ -356,4 +356,4 @@ P.S. 《专注的艺术》现在可以预订。
 
 精装书、全新的实体计划表、纪念币、现场活动的邀请、私人社区等等。
 
-[在这里获取你1/2000可用的副本](https://theartoffocusbox.com)
+[在这里获取你 1/2000 可用的副本](https://theartoffocusbox.com)

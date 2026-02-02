@@ -1,6 +1,6 @@
 # 失落中的智慧（如何走出困境）
 
-> 原文：[https://thedankoe.com/letters/the-wisdom-in-feeling-lost-how-to-get-out-of-a-rut/](https://thedankoe.com/letters/the-wisdom-in-feeling-lost-how-to-get-out-of-a-rut/)
+> 原文：[`thedankoe.com/letters/the-wisdom-in-feeling-lost-how-to-get-out-of-a-rut/`](https://thedankoe.com/letters/the-wisdom-in-feeling-lost-how-to-get-out-of-a-rut/)
 
 这些信件总是最难写的。
 
@@ -242,7 +242,7 @@
 
 +   除了“工作”之外，什么都不想做，因为工作是你可以做的最有乐趣的事情。
 
-这种纯粹进步的模糊状态通常持续1-3个月，多或少。
+这种纯粹进步的模糊状态通常持续 1-3 个月，多或少。
 
 然后，你达到*强度阈值*。
 
@@ -254,7 +254,7 @@
 
 ## 达到新的基准
 
-在健美中，有3个常见的阶段用于塑造理想的体型：减脂、增肌和维持。
+在健美中，有 3 个常见的阶段用于塑造理想的体型：减脂、增肌和维持。
 
 我们可以将减脂视为获得清晰。
 

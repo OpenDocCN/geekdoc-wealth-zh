@@ -1,6 +1,6 @@
 # 译文：[精神简约主义——停止思考，开始行动](https://thedankoe.com/letters/mental-minimalism-stop-thinking-start-doing/)
 
-> 原文：[https://thedankoe.com/letters/mental-minimalism-stop-thinking-start-doing/](https://thedankoe.com/letters/mental-minimalism-stop-thinking-start-doing/)
+> 原文：[`thedankoe.com/letters/mental-minimalism-stop-thinking-start-doing/`](https://thedankoe.com/letters/mental-minimalism-stop-thinking-start-doing/)
 
 有一个压倒性的问题我们一直在反复出现。它让我对自己无限质疑，只是为了意识到质疑本身就是问题。问题的解决方案是不让问题存在。
 
@@ -30,7 +30,7 @@
 
 1.  保持动力直到完成
 
-[我不需要所有这些生产力技巧和建议来产出3-4小时的工作](https://youtu.be/mZDAx8-iCY4?utm_campaign=The%20Mastery%20Letter&utm_medium=email&utm_source=Revue%20newsletter)。有时甚至12小时不睡觉。当这种情况发生时，你无法把我从我工作中拉走。工作已经变成了比我能参与的任何其他活动都更有趣的“游戏”。没有什么能阻止我把头脑中的想法变成现实。
+[我不需要所有这些生产力技巧和建议来产出 3-4 小时的工作](https://youtu.be/mZDAx8-iCY4?utm_campaign=The%20Mastery%20Letter&utm_medium=email&utm_source=Revue%20newsletter)。有时甚至 12 小时不睡觉。当这种情况发生时，你无法把我从我工作中拉走。工作已经变成了比我能参与的任何其他活动都更有趣的“游戏”。没有什么能阻止我把头脑中的想法变成现实。
 
 这是协调一致的结果。一切各就各位。它“点击”了。神经化学物质的激情药水涌入你的大脑。这一切都变得有意义，你按照微观愿景执行。
 

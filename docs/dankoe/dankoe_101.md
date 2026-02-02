@@ -1,8 +1,8 @@
 # 你应该感到不知所措（如何快速学习任何技能）
 
-> 原文：[https://thedankoe.com/letters/i-discovered-a-way-to-learn-10x-faster-reality-metabolism-universal-thinking/](https://thedankoe.com/letters/i-discovered-a-way-to-learn-10x-faster-reality-metabolism-universal-thinking/)
+> 原文：[`thedankoe.com/letters/i-discovered-a-way-to-learn-10x-faster-reality-metabolism-universal-thinking/`](https://thedankoe.com/letters/i-discovered-a-way-to-learn-10x-faster-reality-metabolism-universal-thinking/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1792">![](../Images/97748acc97a1997e9649b3c31d1444a9.png)</picture>
+<picture fetchpriority="high" decoding="async" class="wp-image-1792">![](img/97748acc97a1997e9649b3c31d1444a9.png)</picture>
 
 人们认为他们不应该感到不知所措。
 
@@ -124,9 +124,9 @@
 
 **3) 宇宙的视角** – 超越所有限制，从最高角度来看，我们的大多数担忧都是不合理的和无意义的。
 
-这三个阶段在我的书《聚焦的艺术》（[The Art of Focus](https://theartoffocusbook.com)）中的FOCI符号表示。
+这三个阶段在我的书《聚焦的艺术》（[The Art of Focus](https://theartoffocusbook.com)）中的 FOCI 符号表示。
 
-<picture decoding="async" class="wp-image-1793">![](../Images/deb7916d606be8d02d0830afb506a74d.png)</picture>
+<picture decoding="async" class="wp-image-1793">![](img/deb7916d606be8d02d0830afb506a74d.png)</picture>
 
 当你足够远地放大视野时，你才能发现潜力、联系、方向和创意想法，让你学习到比你已知更多的东西。
 
@@ -136,11 +136,11 @@
 
 在普遍层面上，你可以注意到肌肉、思想和产品的诞生与消亡——帮助你与你的身体、心智和商业的流动和平共处——或者做出导致指数级增长的决策。
 
-## 如何以10倍的速度学习
+## 如何以 10 倍的速度学习
 
-<picture decoding="async" class="wp-image-1794">![](../Images/a680f3a524c111cf890e919a85c09174.png)</picture>
+<picture decoding="async" class="wp-image-1794">![](img/a680f3a524c111cf890e919a85c09174.png)</picture>
 
-当你学会如何学习时，你可以在6个月内实现5年的成果。
+当你学会如何学习时，你可以在 6 个月内实现 5 年的成果。
 
 让我们把上面学到的所有东西与实际步骤结合起来。
 
@@ -178,7 +178,7 @@
 
 如果你不知道要创建什么项目，看看别人都做了什么。
 
-如果你想学习Photoshop，你的项目可以是任何从图形到数字艺术场景的东西。
+如果你想学习 Photoshop，你的项目可以是任何从图形到数字艺术场景的东西。
 
 如果你想学习如何健身，你的项目就是你的身体、营养计划和训练计划。
 
@@ -204,15 +204,15 @@
 
 你现在还没有资格研究高级策略。
 
-基础知识将带你前进80%（对于大多数人来说，那就是数百万美元、健硕的体格或无压力的生活）。
+基础知识将带你前进 80%（对于大多数人来说，那就是数百万美元、健硕的体格或无压力的生活）。
 
-新的策略将带你前进的20%，但这个心理带宽应该保留给痴迷、精通以及你少数几个特定技能和兴趣的终身事业。
+新的策略将带你前进的 20%，但这个心理带宽应该保留给痴迷、精通以及你少数几个特定技能和兴趣的终身事业。
 
 当你有一个要构建的项目时，做以下一项或两项：
 
 +   购买该主题的入门级课程。
 
-+   观看YouTube上教授基础知识的概述视频。
++   观看 YouTube 上教授基础知识的概述视频。
 
 研究它们，直到你对下一步要做什么有清晰的了解。然后，去做，当你遇到问题时：
 
@@ -226,9 +226,9 @@
 
 ### 3) 教你所学的
 
-<picture loading="lazy" decoding="async" class="wp-image-1795">![](../Images/0d69ea0d9c1f983bb5c1c2da0aab61eb.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-1795">![](img/0d69ea0d9c1f983bb5c1c2da0aab61eb.png)</picture>
 
-我当然推荐通过写作作为[个人品牌](https://thedankoe.com/letters/the-one-person-business-revisited-turn-yourself-into-a-business/)（或你的公开简历）来公开教学，这样你也能在学习的同时吸引高薪机会。（这就是我在[2小时作家](https://2hourwriter.com)中教授的内容）。
+我当然推荐通过写作作为[个人品牌](https://thedankoe.com/letters/the-one-person-business-revisited-turn-yourself-into-a-business/)（或你的公开简历）来公开教学，这样你也能在学习的同时吸引高薪机会。（这就是我在[2 小时作家](https://2hourwriter.com)中教授的内容）。
 
 +   在公共场合写作，并让人们批评你。
 
@@ -240,7 +240,7 @@
 
 你必须构建结构，解释它，并确保你没有提供错误的知识。
 
-当我写这些通讯时，我并不是无所不知。但我可以保证，写作4年加速了我对所爱主题的学习，远远超过了被困在教程地狱中能学到的东西。
+当我写这些通讯时，我并不是无所不知。但我可以保证，写作 4 年加速了我对所爱主题的学习，远远超过了被困在教程地狱中能学到的东西。
 
 当你建立一个品牌（不是在商业意义上，而是在向世界展示你的外部展示意义上）时，构建和教学就会融入你的工作中。
 
@@ -252,13 +252,13 @@
 
 不要编造你的经验。不要对你所知的内容撒谎。从你学习的角度来教学。
 
-就像“我在23小时内阅读了《专注的艺术》，这里是我加入新富行列学到的改变生活的教训”这样简单且引人注目的话，是诚实地反映了你在学习旅程中的位置。
+就像“我在 23 小时内阅读了《专注的艺术》，这里是我加入新富行列学到的改变生活的教训”这样简单且引人注目的话，是诚实地反映了你在学习旅程中的位置。
 
 就像营销产品一样，不要承诺你无法实现的结果。
 
 ### 4) 扩展到新的思维层面
 
-<picture loading="lazy" decoding="async" class="wp-image-1796">![](../Images/75848cb96cf15f67b881b51bca4a2cd1.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-1796">![](img/75848cb96cf15f67b881b51bca4a2cd1.png)</picture>
 
 到这个阶段，你可能仍然感到不知所措，或者觉得你学不到很多东西。
 
@@ -282,9 +282,9 @@
 
 为了使这更加实用：
 
-+   **阅读书籍** – 书籍让你在6个小时的阅读中获得了10年的努力。
++   **阅读书籍** – 书籍让你在 6 个小时的阅读中获得了 10 年的努力。
 
-+   **消费讲座** – 长篇文章和视频让你在20分钟内获得了3天的努力。
++   **消费讲座** – 长篇文章和视频让你在 20 分钟内获得了 3 天的努力。
 
 +   **跟随新的人** – 这更多是关于训练你的思维去融入那个群体的内容消费，而不仅仅是消费短形式的内容。
 
@@ -320,7 +320,7 @@
 
 从在一个领域学习、教学和构建开始，然后随着受众的扩大而扩展。
 
-我们帮助你这样做，并在90天内开始在[Kortex大学](https://university.kortex.co)的数字职业。
+我们帮助你这样做，并在 90 天内开始在[Kortex 大学](https://university.kortex.co)的数字职业。
 
 现在，去学习，去构建，享受你的周末吧。
 

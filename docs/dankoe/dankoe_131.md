@@ -1,6 +1,6 @@
 # 关于金钱的真相（以及如何赚一大笔钱）
 
-> 原文：[https://thedankoe.com/letters/the-truth-about-money-and-how-to-make-a-ton-of-it/](https://thedankoe.com/letters/the-truth-about-money-and-how-to-make-a-ton-of-it/)
+> 原文：[`thedankoe.com/letters/the-truth-about-money-and-how-to-make-a-ton-of-it/`](https://thedankoe.com/letters/the-truth-about-money-and-how-to-make-a-ton-of-it/)
 
 大多数人都与金钱作斗争。
 
@@ -46,15 +46,15 @@
 
 微妙的提醒：
 
-我们正在推出Kortex的访问权限。
+我们正在推出 Kortex 的访问权限。
 
-Kortex是作家、创造者和笔记记录者的第二大脑。
+Kortex 是作家、创造者和笔记记录者的第二大脑。
 
 你可以捕捉任何想法，保存任何高亮或书签，创建原子笔记，并在一个相互关联的数据库中参考任何想法。
 
 如果你厌倦了在随机应用中保存想法并丢失所有最好的想法：
 
-[>> 在这里加入Kortex的等待名单队列。](https://kortex.co)
+[>> 在这里加入 Kortex 的等待名单队列。](https://kortex.co)
 
 * * *
 
@@ -166,7 +166,7 @@ Kortex是作家、创造者和笔记记录者的第二大脑。
 
 你不会把休息看作是一种只有在工作完成后才能享受的奖赏。
 
-如果你有时间去做，你不会把玩耍当作一个每晚只持续30分钟的爱好。
+如果你有时间去做，你不会把玩耍当作一个每晚只持续 30 分钟的爱好。
 
 你将它们都看作是彼此必要的平衡。
 
@@ -380,7 +380,7 @@ Kortex是作家、创造者和笔记记录者的第二大脑。
 
 +   等等
 
-我最喜欢的教育产品是课程大纲，配以你可以在Notion或[Kortex](https://kortex.co)中构建的工作表或资源。
+我最喜欢的教育产品是课程大纲，配以你可以在 Notion 或[Kortex](https://kortex.co)中构建的工作表或资源。
 
 你可以快速构建这些产品。
 
@@ -388,7 +388,7 @@ Kortex是作家、创造者和笔记记录者的第二大脑。
 
 从那里，如果产品做得好，你可以享受高利润率，直到你想要或将其变成另一家业务。
 
-就像2小时作家变成了Kortex，因为Notion对我来说作为一个作家来说不够好。
+就像 2 小时作家变成了 Kortex，因为 Notion 对我来说作为一个作家来说不够好。
 
 但你围绕什么建立产品？
 
@@ -424,7 +424,7 @@ Kortex是作家、创造者和笔记记录者的第二大脑。
 
 你通过与其他人建立联系来借用分发。作为播客嘉宾出现，让你受到数千人的关注。为拥有大量名单的人撰写客座通讯。在论坛网站或社区上发帖。等等。
 
-你通过赞助和广告购买分发。播客赞助、通讯赞助、谷歌广告、Facebook广告、YouTube广告等。
+你通过赞助和广告购买分发。播客赞助、通讯赞助、谷歌广告、Facebook 广告、YouTube 广告等。
 
 在一个理想的世界里，你会做所有这些。但你手头的时间有限，可以雇佣其他人的钱也有限（如果你甚至想这么做）。
 
@@ -438,7 +438,7 @@ Kortex是作家、创造者和笔记记录者的第二大脑。
 
 当然，你可以保留这个受众。他们跟随你是因为你。你可以更加真诚和有目的。
 
-如果你想学习如何做这件事，请观看我的[YouTube上的单人企业播放列表](https://youtube.com/playlist?list=PLB4ePXk6nBaeG3fD13NaRMsRsEc2iCsV4&si=WO--tXj7Ld284oii)，或者考虑购买[2小时作家](https://2hourwriter.com)（写作是建立受众的方式）。
+如果你想学习如何做这件事，请观看我的[YouTube 上的单人企业播放列表](https://youtube.com/playlist?list=PLB4ePXk6nBaeG3fD13NaRMsRsEc2iCsV4&si=WO--tXj7Ld284oii)，或者考虑购买[2 小时作家](https://2hourwriter.com)（写作是建立受众的方式）。
 
 ### 4) 系统化对该受众推广和交付解决方案。
 
@@ -458,7 +458,7 @@ Kortex是作家、创造者和笔记记录者的第二大脑。
 
 +   每周发送一次时事通讯，并在其中推广你的产品或服务。
 
-+   每周积极地在你的私信中与5-10个人谈论你的产品。
++   每周积极地在你的私信中与 5-10 个人谈论你的产品。
 
 现在，你有社交媒体流量流向你的产品和你自己的电子邮件列表。
 
@@ -468,7 +468,7 @@ Kortex是作家、创造者和笔记记录者的第二大脑。
 
 当然，你还可以推出新产品，以看到销售额的显著增长并为你的观众提供更多选择（因为一个产品只会惠及该观众的一部分）。
 
-我在[作为一天工作2-4小时的个人企业家的零到一百万](https://thedankoe.com/letters/zero-to-1-million-as-a-one-person-business-while-working-2-4-hours-per-day/)中谈到了这一点。
+我在[作为一天工作 2-4 小时的个人企业家的零到一百万](https://thedankoe.com/letters/zero-to-1-million-as-a-one-person-business-while-working-2-4-hours-per-day/)中谈到了这一点。
 
 ### 5) 迭代并坚持。
 
@@ -488,7 +488,7 @@ Kortex是作家、创造者和笔记记录者的第二大脑。
 
 拼图最后一块是迭代和坚持的微妙平衡。这是大多数人失败的地方。
 
-上面有4个点。
+上面有 4 个点。
 
 每个这些点都提供了数据。
 

@@ -1,8 +1,8 @@
 # 专注是超能力（如何在信息时代取得成功）
 
-> 原文：[https://thedankoe.com/letters/focus-is-a-superpower-how-to-succeed-in-the-information-age/](https://thedankoe.com/letters/focus-is-a-superpower-how-to-succeed-in-the-information-age/)
+> 原文：[`thedankoe.com/letters/focus-is-a-superpower-how-to-succeed-in-the-information-age/`](https://thedankoe.com/letters/focus-is-a-superpower-how-to-succeed-in-the-information-age/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1331">![](../Images/953db71c77ed360ad6d6b0aba7f304cc.png)</picture>
+<picture fetchpriority="high" decoding="async" class="wp-image-1331">![](img/953db71c77ed360ad6d6b0aba7f304cc.png)</picture>
 
 那就是我们今天要讨论的。
 
@@ -38,15 +38,15 @@
 
 意味着物质是更大生物的一部分，而生物是更大心灵的一部分。
 
-[<picture decoding="async" class="wp-image-1325">![](../Images/ba12ecbbd30271a27d0a3c8f8701ca02.png)</picture>](https://www.integralworld.net/reynolds6.html)
+<picture decoding="async" class="wp-image-1325">![</picture>](https://www.integralworld.net/reynolds6.html)
 
 把旧世界想象成一粒橡子。
 
-把新世界想象成一棵100岁的橡树（它可以活到600-1000岁）。
+把新世界想象成一棵 100 岁的橡树（它可以活到 600-1000 岁）。
 
-![](../Images/53ce53cb7396baaa2b50365976c17b43.png)
+![](img/53ce53cb7396baaa2b50365976c17b43.png)
 
-有一个厚厚的核心，它分裂成3-6个主要区域，并继续分裂成可能存活或掉落的分支，以及数千片叶子。每一片叶子都有其自身的生态系统。
+有一个厚厚的核心，它分裂成 3-6 个主要区域，并继续分裂成可能存活或掉落的分支，以及数千片叶子。每一片叶子都有其自身的生态系统。
 
 当然，你可能需要修剪一个分支来鼓励向正确的方向生长。
 
@@ -76,11 +76,11 @@
 
 你不能在遇到第一个挑战时就退缩。
 
-对于每一个好想法，都有100个坏想法。
+对于每一个好想法，都有 100 个坏想法。
 
 你对成功的版本是赋权的，但随之而来的是对失败的思考，需要多长时间，要学习哪些技能，以及不同的职业和商业路径才能达到那里。
 
-然后，那些负面想法可以分裂成100个更多。
+然后，那些负面想法可以分裂成 100 个更多。
 
 那除非你学会了如何整理你的思想。
 
@@ -120,7 +120,7 @@
 
 随着时间的推移，被编程植入你的心中。
 
-大多数人在40年的机器人生活中醒来， wonder where the time went.
+大多数人在 40 年的机器人生活中醒来， wonder where the time went.
 
 不要成为他们中的一员。
 
@@ -146,9 +146,9 @@
 
 当你选择早逝时，你就错过了生活的深度。
 
-对于大多数人来说，他们所知道的就是“上学，找工作，65岁退休。”
+对于大多数人来说，他们所知道的就是“上学，找工作，65 岁退休。”
 
-这就是为什么我如此重视人们通过创作者经济传播对[新机会]的认识。（[https://thedankoe.com/letters/the-one-person-business-revisited-turn-yourself-into-a-business/](https://thedankoe.com/letters/the-one-person-business-revisited-turn-yourself-into-a-business/)）
+这就是为什么我如此重视人们通过创作者经济传播对[新机会]的认识。（[`thedankoe.com/letters/the-one-person-business-revisited-turn-yourself-into-a-business/`](https://thedankoe.com/letters/the-one-person-business-revisited-turn-yourself-into-a-business/)）
 
 大脑是一个模式识别机器。
 
@@ -158,7 +158,7 @@
 
 ## 专注 = 生活质量
 
-<picture loading="lazy" decoding="async" class="wp-image-1327">![](../Images/cd5e9ff22ba1f74f8afe48367fd9e407.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-1327">![](img/cd5e9ff22ba1f74f8afe48367fd9e407.png)</picture>
 
 > 想象一下有一个电子表格，显示了你在生活的任何特定领域投入了多少注意力。包括心智、身体、精神和商业，这些都影响你与世界及周围人的关系。这个电子表格将直接反映你的生活质量。 —— 《专注的艺术》
 
@@ -196,7 +196,7 @@
 
 随着时间的推移，你将实现那些并非分配给你的目标，并开辟自己的道路。
 
-如果你对获取高价值技能或将自己变成一个企业感兴趣，请查看[2小时作家](https://2hourwriter.com)或[数字经济学](https://digitaleconomics.school)。
+如果你对获取高价值技能或将自己变成一个企业感兴趣，请查看[2 小时作家](https://2hourwriter.com)或[数字经济学](https://digitaleconomics.school)。
 
 这里是你需要做的事情：
 
@@ -210,7 +210,7 @@
 
 拿出笔记本，详细地描述它。
 
-用30分钟写下你认为你想要的东西。
+用 30 分钟写下你认为你想要的东西。
 
 心智、身体、精神、商业，以及这些事物如何以有益的方式影响你生活的各个方面。
 
@@ -236,9 +236,9 @@
 
 写下来：
 
-+   一个10年目标
++   一个 10 年目标
 
-+   一个1年目标
++   一个 1 年目标
 
 +   本月的目标
 
@@ -284,7 +284,7 @@
 
 如果你不训练你的专注力，你可能会迷失在想法、机会、商业模式、人际关系建议、生产力教条、阴谋论、新闻和戏剧中。
 
-在你目前的生活水平上，你接触到的99%的信息都是干扰。
+在你目前的生活水平上，你接触到的 99%的信息都是干扰。
 
 我们必须将我们的注意力集中在那些能让我们过上更好生活的少数事情上。
 
@@ -330,9 +330,9 @@
 
 ### 一小时的专注工作
 
-<picture loading="lazy" decoding="async" class="wp-image-1332">![](../Images/23e28c92e94dbbd25df776f8366445bc.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-1332">![](img/23e28c92e94dbbd25df776f8366445bc.png)</picture>
 
-你不需要每天12小时来实现你的梦想。
+你不需要每天 12 小时来实现你的梦想。
 
 如果是这样，没有人会看到任何形式的成功。
 
@@ -436,7 +436,7 @@
 
 如果你想减肥，在学习训练和营养原则之前就开始阅读关于甲状腺功能减退症的书是愚蠢的。
 
-如果你想要开始创业，在学习流量和报价原则之前购买关于通过Facebook广告获取客户的课程是愚蠢的。
+如果你想要开始创业，在学习流量和报价原则之前购买关于通过 Facebook 广告获取客户的课程是愚蠢的。
 
 如果你想要约会，在学习社交、亲密或商业关系的原则之前学习“游戏”是愚蠢的。
 

@@ -1,10 +1,10 @@
 # 低成本多巴胺阻止你成为高价值
 
-> 原文：[https://thedankoe.com/letters/how-cheap-dopamine-prevents-you-from-becoming-high-value/](https://thedankoe.com/letters/how-cheap-dopamine-prevents-you-from-becoming-high-value/)
+> 原文：[`thedankoe.com/letters/how-cheap-dopamine-prevents-you-from-becoming-high-value/`](https://thedankoe.com/letters/how-cheap-dopamine-prevents-you-from-becoming-high-value/)
 
 嘿***，***你*****必须**成为一个**高价值个体**！
 
-如果这是一条推文，它将获得10,397个赞。
+如果这是一条推文，它将获得 10,397 个赞。
 
 如果我问你成为“有价值”意味着什么，你能否告诉我？
 
@@ -14,7 +14,7 @@
 
 是那些技能为接受价值的人带来的结果吗？
 
-那辆法拉利的价值如何？也许人的价值？那个NFL拉拉队长对你来说比街上刚刚经过的那个女人更有价值吗？
+那辆法拉利的价值如何？也许人的价值？那个 NFL 拉拉队长对你来说比街上刚刚经过的那个女人更有价值吗？
 
 你看，没有人**真正**知道价值方程式的答案。
 
@@ -40,7 +40,7 @@
 
 欲望及其强度取决于**某物离你有多远**。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-799">![](../Images/482119c142675eb47c3282e8ac5e5e91.png)</picture>
+<picture fetchpriority="high" decoding="async" class="wp-image-799">![](img/482119c142675eb47c3282e8ac5e5e91.png)</picture>
 
 当然，多巴胺有许多其他决定因素，比如新奇、期待和复杂性——但我们在这里讨论的是价值。
 
@@ -68,7 +68,7 @@
 > 
 > 一个更好的产品总会输给人们认为更好的产品。
 > 
-> — 丹·科伊 (@thedankoe) [2022年5月28日](https://twitter.com/thedankoe/status/1530479498872889344?ref_src=twsrc%5Etfw)
+> — 丹·科伊 (@thedankoe) [2022 年 5 月 28 日](https://twitter.com/thedankoe/status/1530479498872889344?ref_src=twsrc%5Etfw)
 
 就像任何创作者、影响者或周五晚上出去的普通乔一样。
 
@@ -92,7 +92,7 @@
 
 我和许多代笔作家是朋友。
 
-一个人直接复制了相同的帖子“正文”，交换了“钩子”，但差异却是数百万的曝光量和20,000多个赞。
+一个人直接复制了相同的帖子“正文”，交换了“钩子”，但差异却是数百万的曝光量和 20,000 多个赞。
 
 这太疯狂了。
 
@@ -114,7 +114,7 @@
 
 我先写通讯，然后将其浓缩成简短、有力、能引起欲望的推文。
 
-我在[2小时作家](https://2hourwriter.com)中教授这个过程（以及高影响力数字写作/内容的真正基础）。
+我在[2 小时作家](https://2hourwriter.com)中教授这个过程（以及高影响力数字写作/内容的真正基础）。
 
 就像作者可以凭借最基本的内容获得成千上万的赞一样。原因在于他写了一整本书，提供了独特的视角、信誉和详尽的想法。
 

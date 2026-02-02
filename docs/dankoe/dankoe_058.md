@@ -1,6 +1,6 @@
 # 对你生活中的现状感到愤怒
 
-> 原文：[https://thedankoe.com/letters/get-mad-at-where-you-are-in-life/](https://thedankoe.com/letters/get-mad-at-where-you-are-in-life/)
+> 原文：[`thedankoe.com/letters/get-mad-at-where-you-are-in-life/`](https://thedankoe.com/letters/get-mad-at-where-you-are-in-life/)
 
 见吉米。
 
@@ -12,7 +12,7 @@
 
 Uber Eats. 恋爱。电子游戏。Netflix。Reddit。热狗。
 
-你知道，如果你做出一次有意识的单一选择，那些不是那么糟糕的事情……但如果是无意识的，它可能导致30年的平庸在眨眼间过去。
+你知道，如果你做出一次有意识的单一选择，那些不是那么糟糕的事情……但如果是无意识的，它可能导致 30 年的平庸在眨眼间过去。
 
 吉米得到了一只援手。
 
@@ -124,7 +124,7 @@ Uber Eats. 恋爱。电子游戏。Netflix。Reddit。热狗。
 
 记录你的优先事项。
 
-[如果你还没有（免费）使用Power Planner，请使用它。](https://shop.thedankoe.com/planner)
+[如果你还没有（免费）使用 Power Planner，请使用它。](https://shop.thedankoe.com/planner)
 
 对你每天需要采取的明显明显的行动有清晰的了解。
 
@@ -136,7 +136,7 @@ Uber Eats. 恋爱。电子游戏。Netflix。Reddit。热狗。
 
 不会？学习。
 
-看一个YouTube视频，买一个课程，问一个朋友。看在上帝的份上，你有互联网。一个充满无限潜力的地方，但你却用它来滚动表情包，看色情，麻木你的思想。
+看一个 YouTube 视频，买一个课程，问一个朋友。看在上帝的份上，你有互联网。一个充满无限潜力的地方，但你却用它来滚动表情包，看色情，麻木你的思想。
 
 有意识地思考你当前的生活状况，并因为你不处于你想要的位置而感到愤怒。
 
@@ -168,13 +168,13 @@ Uber Eats. 恋爱。电子游戏。Netflix。Reddit。热狗。
 
 保持脚踏实地，与真理相连，同时看到生活就是一场游戏。然后以你自觉创造的角色来玩游戏。
 
-1小时。每天。至少。
+1 小时。每天。至少。
 
-**专注于你的事业1小时。**
+**专注于你的事业 1 小时。**
 
-**专注于你的健身1小时。**
+**专注于你的健身 1 小时。**
 
-**专注于你的心理健康1小时。**
+**专注于你的心理健康 1 小时。**
 
 *你充满活力，富有，自信，并且不接受任何低于这个标准的东西。*
 
@@ -186,7 +186,7 @@ Uber Eats. 恋爱。电子游戏。Netflix。Reddit。热狗。
 
 行动。现在。
 
-[如果你还没有进来MMHQ，那就进来吧。这次只收5美元加入这个团体。](https://www.modernmastery.co/community/modern-mastery-hq-special)
+[如果你还没有进来 MMHQ，那就进来吧。这次只收 5 美元加入这个团体。](https://www.modernmastery.co/community/modern-mastery-hq-special)
 
 妈的。
 

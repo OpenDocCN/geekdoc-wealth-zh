@@ -1,6 +1,6 @@
 # 大多数人迷失了方向（如何快速毁掉你的生活）
 
-> 原文：[https://thedankoe.com/letters/most-people-are-lost-how-to-ruin-your-life-fast/](https://thedankoe.com/letters/most-people-are-lost-how-to-ruin-your-life-fast/)
+> 原文：[`thedankoe.com/letters/most-people-are-lost-how-to-ruin-your-life-fast/`](https://thedankoe.com/letters/most-people-are-lost-how-to-ruin-your-life-fast/)
 
 毁掉你生活的最快方式：
 
@@ -88,7 +88,7 @@
 
 ## 生活的宏观周期——为什么你总是感到迷茫
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1856">![](../Images/7955a53a9990577250becdff2f5ba82c.png)</picture>
+<picture fetchpriority="high" decoding="async" class="wp-image-1856">![](img/7955a53a9990577250becdff2f5ba82c.png)</picture>
 
 你感到迷茫，因为你不知道接下来该做什么。
 
@@ -148,7 +148,7 @@
 
 注意：避免将此标签为闪亮物体综合症。
 
-我今天的事业之所以可能，仅仅因为我尝试了7种不同的商业模式并“失败”。在反思中，那些失败是技能堆叠、解决问题和增加我对正确机会感知面积的阶段。
+我今天的事业之所以可能，仅仅因为我尝试了 7 种不同的商业模式并“失败”。在反思中，那些失败是技能堆叠、解决问题和增加我对正确机会感知面积的阶段。
 
 现在，理解这个阶段没有时间限制。
 
@@ -202,7 +202,7 @@
 
 ## 数字文艺复兴
 
-<picture decoding="async" class="wp-image-1857">![](../Images/0db151e65261fd3dbd55e50222bfd81b.png)</picture>
+<picture decoding="async" class="wp-image-1857">![](img/0db151e65261fd3dbd55e50222bfd81b.png)</picture>
 
 我们正在经历第二个黄金时代，它属于那些重视：
 
@@ -244,7 +244,7 @@
 
 你所需要的只是一个互联网连接、社交媒体账户，以及教学、失败、改进和坚持的勇气。
 
-我在[2小时作家](https://2hourwriter.com)和[数字经济学](https://digitaleconomics.school)中教授这一点。
+我在[2 小时作家](https://2hourwriter.com)和[数字经济学](https://digitaleconomics.school)中教授这一点。
 
 ### 变得有价值
 
@@ -252,7 +252,7 @@
 
 价值是你所做之事、你为什么这样做、你如何做以及谁从那个等式中受益之间的关系。
 
-价值由4个部分组成。
+价值由 4 个部分组成。
 
 +   **问题** – 当未解决时，会带来痛苦的限制或挑战。
 
@@ -374,7 +374,7 @@
 
 这是一个必须与他人共享的目标，以便赚取创意收入。
 
-我在之前的信件中讨论过这个问题，请去搜索它们，或者我们可以在[Kortex大学](https://university.kortex.co)内部带你成为16周内的合成师。
+我在之前的信件中讨论过这个问题，请去搜索它们，或者我们可以在[Kortex 大学](https://university.kortex.co)内部带你成为 16 周内的合成师。
 
 感谢您阅读这封信。
 

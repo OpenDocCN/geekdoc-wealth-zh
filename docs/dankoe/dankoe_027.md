@@ -1,6 +1,6 @@
 # 如何停止感到迷茫、不知所措和对未来的不确定
 
-> 原文：[https://thedankoe.com/letters/the-cure-to-caring-what-people-think/](https://thedankoe.com/letters/the-cure-to-caring-what-people-think/)
+> 原文：[`thedankoe.com/letters/the-cure-to-caring-what-people-think/`](https://thedankoe.com/letters/the-cure-to-caring-what-people-think/)
 
 问题不是个人的。
 
@@ -12,7 +12,7 @@
 
 你只能通过更好地感知它们来变得更好，这会导致更好的决策（不受情绪影响）。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-811">![](../Images/b4885b21aef4b80fd8bd105a6b5d7913.png)</picture>
+<picture fetchpriority="high" decoding="async" class="wp-image-811">![](img/b4885b21aef4b80fd8bd105a6b5d7913.png)</picture>
 
 在这封信中，我想以一种帮助你思考、行动和变得更好的方式，带来对问题的新视角。
 
@@ -52,7 +52,7 @@
 
 ### 课程
 
-<picture decoding="async" class="wp-image-812">![](../Images/8ead21733feb7e0a96db1d0f9e833a45.png)</picture>
+<picture decoding="async" class="wp-image-812">![](img/8ead21733feb7e0a96db1d0f9e833a45.png)</picture>
 
 理解你的问题是正常的。
 
@@ -98,7 +98,7 @@
 
 如果我们的信念被编程进我们的头脑，而且我们的信念往往会自动化我们的思想，那么我们该怎么办？我们只是接受我们所接受的教导以及随之而来的情感负担吗？
 
-生活在一种你被训练成的生活现实中就像是一个木偶。一个NPC。一个受他人控制而非自己的情感开关。
+生活在一种你被训练成的生活现实中就像是一个木偶。一个 NPC。一个受他人控制而非自己的情感开关。
 
 要逆转这种效果，我们必须掌握我们完全控制的官能：
 
@@ -226,7 +226,7 @@
 
 成为一名策略家。
 
-今晚坐下来用日记本写30分钟。
+今晚坐下来用日记本写 30 分钟。
 
 **绘制**出你的未来。写下你将如何做到这一点。
 
@@ -292,13 +292,13 @@
 
 [查看数字经济学](https://digitaleconomics.school)
 
-一段名为“如果你有价值，就开一家一个人企业”的YouTube视频刚刚上线。
+一段名为“如果你有价值，就开一家一个人企业”的 YouTube 视频刚刚上线。
 
 [在这里观看](https://youtu.be/sgXAQDTa3dA)
 
 在现代掌握中，乔伊发表了一篇文章，讲述了如何创建和推广一个吸引潜在客户的磁铁，这对于试图建立一个人企业的人来说至关重要。
 
-[读者可以以5美元的价格加入](https://modernmastery.co/letter)
+[读者可以以 5 美元的价格加入](https://modernmastery.co/letter)
 
 一档播客于周一上线，标题为“98%的人因这个鲜为人知的原因感到焦虑。”把它看作是这封通讯的扩展。
 

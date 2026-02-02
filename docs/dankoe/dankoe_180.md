@@ -1,6 +1,6 @@
 # 如何像天才一样思考（所有知识的地图）
 
-> 原文：[https://thedankoe.com/letters/how-to-think-like-a-genius-the-map-of-all-knowledge/](https://thedankoe.com/letters/how-to-think-like-a-genius-the-map-of-all-knowledge/)
+> 原文：[`thedankoe.com/letters/how-to-think-like-a-genius-the-map-of-all-knowledge/`](https://thedankoe.com/letters/how-to-think-like-a-genius-the-map-of-all-knowledge/)
 
 自由个体的标志是他们能够得到他们生活中的想要的东西。
 
@@ -42,15 +42,15 @@
 
 听起来很简单，但极其复杂。大多数企业失败是因为它们没有建立一个真正解决问题的产品。大多数关系失败是因为问题从未被识别。大多数人失败是因为他们根本看不到摆脱困境的方法。
 
-因此，如果你能提高你的思考能力，你就可以更快地解决问题或实现目标。当你将其映射到10年的时间线上，你很容易就能看到，你可以实现比大多数人一生中实现的多10倍。
+因此，如果你能提高你的思考能力，你就可以更快地解决问题或实现目标。当你将其映射到 10 年的时间线上，你很容易就能看到，你可以实现比大多数人一生中实现的多 10 倍。
 
-让我向你介绍肯·威尔伯的AQAL模型，他是一位美国哲学家，他将其一生的工作都致力于将所有知识和经验综合成一个全面的理论。
+让我向你介绍肯·威尔伯的 AQAL 模型，他是一位美国哲学家，他将其一生的工作都致力于将所有知识和经验综合成一个全面的理论。
 
-[![](../Images/2e437a4f6bfc1cc928bbf474cdb004de.png)](https://substackcdn.com/image/fetch/$s_!QXDl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd44b6c1-e4d5-4486-9011-11353dbec5d6_1099x736.jpeg)
+![](https://substackcdn.com/image/fetch/$s_!QXDl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd44b6c1-e4d5-4486-9011-11353dbec5d6_1099x736.jpeg)
 
 虽然威尔伯表示他的模型不是终极的，但我可以自信地说，这个模型是那些“隐藏的宝石”之一，大多数人之所以不关心，仅仅是因为他们无法超越自己的世界观。
 
-AQAL代表所有象限，所有层级。
+AQAL 代表所有象限，所有层级。
 
 威尔伯通过数十年的研究和三年的休假，发现所有知识和经验都映射到四个相互关联的象限中：
 
@@ -72,7 +72,7 @@ AQAL代表所有象限，所有层级。
 
 我认为可以说，大多数人都在努力弄清楚他们生活中想要什么。这是一个难题，90%的人都会卡在这里。
 
-如果你听说过日本的IKIGAI概念，那么在这个背景下，你可以将AQAL模型看作是那种概念，但更加强大。
+如果你听说过日本的 IKIGAI 概念，那么在这个背景下，你可以将 AQAL 模型看作是那种概念，但更加强大。
 
 现在，思考是与自己的对话。
 
@@ -152,15 +152,15 @@ AQAL代表所有象限，所有层级。
 
 这听起来如此合理，以至于我感觉我的思维扩展到了一个全新的思考维度。
 
-我们已经涵盖了AQAL的“所有象限”部分，但没有涵盖“所有层次”部分。
+我们已经涵盖了 AQAL 的“所有象限”部分，但没有涵盖“所有层次”部分。
 
 所有层次指的是个体和集体可以经历的意识发展阶段。
 
 当谈到像天才一样思考时，这一点至关重要，因为大多数生活冲突或“不可能”的问题都源于人们处于不同的层次。
 
-我们在讨论螺旋动力学和自我发展九阶段时已经深入讨论过这一点，所以我想要关注这4个关键层次，这将改变你对世界的看法。
+我们在讨论螺旋动力学和自我发展九阶段时已经深入讨论过这一点，所以我想要关注这 4 个关键层次，这将改变你对世界的看法。
 
-[![](../Images/8c026276206fead7528924a51bda35d3.png)](https://substackcdn.com/image/fetch/$s_!Snjt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78cd2529-ea13-4820-9c9a-06d2e8131678_781x715.png)
+![](https://substackcdn.com/image/fetch/$s_!Snjt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78cd2529-ea13-4820-9c9a-06d2e8131678_781x715.png)
 
 这些发展水平展示了一个人或文化的主导价值观。换句话说，这些水平显示了人们、文化或系统认为的中心和重要的事物，这些影响着所做的决策以及如何感知和解决问题。大多数人居住在前三个阶段，而非常少数——为了这封信的方便，我们称他们为天才——落入第四个阶段。
 
@@ -176,13 +176,13 @@ AQAL代表所有象限，所有层级。
 
 后现代主义者重视相对主义思考。每个人的真理都是有效的。包括所有人并确保他们平等。
 
-每个这些阶段都有好的一面和不好的一面，在当今世界，后现代思维已经病态化，导致了像DEI、性别政治和试图摧毁所有等级制度这样的现象，这是愚蠢且不可能的。
+每个这些阶段都有好的一面和不好的一面，在当今世界，后现代思维已经病态化，导致了像 DEI、性别政治和试图摧毁所有等级制度这样的现象，这是愚蠢且不可能的。
 
 这前三个阶段的关键在于它们不能持有多个观点。它们是对的，而你是不对的。这使得它们难以超越自己的阶段思考，甚至更难以解决导致人类有益进步的个人和系统性问题。
 
 这就是为什么聪明人非常愚蠢。
 
-[![](../Images/a259d23d73ba5aa3bd542ef98bee6fa8.png)](https://substackcdn.com/image/fetch/$s_!cXTE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93320fe5-881c-41e3-aef8-60e6351f51f8_800x450.jpeg)
+![](https://substackcdn.com/image/fetch/$s_!cXTE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93320fe5-881c-41e3-aef8-60e6351f51f8_800x450.jpeg)
 
 **4) 二级**
 
@@ -194,9 +194,9 @@ AQAL代表所有象限，所有层级。
 
 天才思想家明白这些是阶段，而不是你余生都拥有的静态身份。他们经常充当不同阶段之间的“翻译者”。
 
-如果问题是与业务相关，他们可以戴上CEO的帽子，比那些永远戴着圣经敲击者帽子的人更快地解决问题，原因很明显。
+如果问题是与业务相关，他们可以戴上 CEO 的帽子，比那些永远戴着圣经敲击者帽子的人更快地解决问题，原因很明显。
 
-如果问题是个人关系，对女性心理的mansplaining可能会有所帮助，但根据*情境*，它并不是同理心的最佳替代品。
+如果问题是个人关系，对女性心理的 mansplaining 可能会有所帮助，但根据*情境*，它并不是同理心的最佳替代品。
 
 如果问题是撰写社交媒体内容以吸引和帮助自助听众，你必须了解他们的心理，以及如何最好地引导他们的思维以达到下一个发展阶段。
 
@@ -212,6 +212,6 @@ AQAL代表所有象限，所有层级。
 
 – 丹
 
-+   相关阅读：关于自我发展9个阶段的阅读材料：《如何比99%的人更聪明》（[How to become more intelligent than 99% of people](https://thedankoe.com/letters/how-to-join-the-top-1-of-intelligence-full-guide/)）
++   相关阅读：关于自我发展 9 个阶段的阅读材料：《如何比 99%的人更聪明》（[How to become more intelligent than 99% of people](https://thedankoe.com/letters/how-to-join-the-top-1-of-intelligence-full-guide/)）
 
 +   通过解锁付费的子栈文章：《单人商业启动平台》（[The One-Person Business Launchpad](https://letters.thedankoe.com/p/full-course-the-one-person-business?lli=1)），将你的兴趣转变为现代商业。

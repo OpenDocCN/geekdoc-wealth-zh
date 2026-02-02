@@ -1,6 +1,6 @@
 # 为什么自我帮助正在毁掉你的生活
 
-> [https://thedankoe.com/letters/why-self-help-is-ruining-your-life/](https://thedankoe.com/letters/why-self-help-is-ruining-your-life/)
+> [`thedankoe.com/letters/why-self-help-is-ruining-your-life/`](https://thedankoe.com/letters/why-self-help-is-ruining-your-life/)
 
 自我帮助让你痛苦。让我们改变这一点。
 
@@ -72,7 +72,7 @@
 
 你怎么能知道卧推对你来说是一个好的练习，除非你一直坚持做？
 
-如果你实施了这项练习，持续增加重量，并且坚持了6-12个月——那么你就可以决定它是好是坏了。
+如果你实施了这项练习，持续增加重量，并且坚持了 6-12 个月——那么你就可以决定它是好是坏了。
 
 这适用于任何其他可以改善你生活的概念。
 

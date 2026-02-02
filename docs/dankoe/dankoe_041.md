@@ -1,10 +1,10 @@
 # 如何在最短的时间内创造一个有意义、有钱、有影响力的人生（尽可能快）
 
-> [https://thedankoe.com/letters/how-to-create-a-life-of-meaning-money-impact-as-fast-as-humanly-possible/](https://thedankoe.com/letters/how-to-create-a-life-of-meaning-money-impact-as-fast-as-humanly-possible/)
+> [`thedankoe.com/letters/how-to-create-a-life-of-meaning-money-impact-as-fast-as-humanly-possible/`](https://thedankoe.com/letters/how-to-create-a-life-of-meaning-money-impact-as-fast-as-humanly-possible/)
 
 如果我能把我的所有进步归功于一件事——那将是**清晰度**。即对意识进行排序的能力。清晰度使专注变得无缝，我们都知道在信息时代这一点有多么重要。
 
-在我还是个孩子，不到12岁的时候，我会随身携带一个笔记本。那种你会在学校购物时买的“大学规则”笔记本。但这个不是用来上学的。这是我画奇怪怪物、机器人以及任何我年轻大脑能想象到的东西的地方。
+在我还是个孩子，不到 12 岁的时候，我会随身携带一个笔记本。那种你会在学校购物时买的“大学规则”笔记本。但这个不是用来上学的。这是我画奇怪怪物、机器人以及任何我年轻大脑能想象到的东西的地方。
 
 这些画通常形状相同。一个有身体、手臂、腿和头的人形生物。有时我会让他们肌肉发达，有时又瘦又像外星人，有时有角，有时有光环。
 
@@ -34,19 +34,19 @@
 
 解决这个问题的唯一方法就是深入未知。思考新的思想。接触新的想法。沉浸在一个有利于成长的环境中（我的战术压力概念）。建立导致积极潜在现实的项目。采取你被告知是“有风险”的不熟悉行动——因为说这些话的人没有经历过“风险”本身。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-563">![](../Images/5dbbf53c47ffb04f0dff279bb42886d8.png)</picture>
+<picture fetchpriority="high" decoding="async" class="wp-image-563">![](img/5dbbf53c47ffb04f0dff279bb42886d8.png)</picture>
 
 90%以上的人口都是一种行动上的矛盾。他们在自动化的“安全”和“确定”的道路上生活——在我们不断变化的世界中，这充满了最大的风险和不确定性。
 
-## 21世纪最重要的技能
+## 21 世纪最重要的技能
 
 我们已经了解到，心灵可以引起很多问题。这是因为心理熵——心灵倾向于混乱和无序。如果你[了解如何导航这些阶段](https://thedankoe.com/if-you-feel-lost-understand-these-3-phases-of-life/)，这并不坏。它们可以非常有益。然而，解决方案是*清晰性*。有序的意识。以非常直接的方式组织信息，使其生动起来的能力。从心灵到物质。
 
-<picture decoding="async" class="wp-image-564">![](../Images/e003a127a133ea8468a9d5d617a69214.png)</picture>
+<picture decoding="async" class="wp-image-564">![](img/e003a127a133ea8468a9d5d617a69214.png)</picture>
 
 没有人知道他们生活中想要做什么。没有人把这看作是一种祝福。不知道自己想要什么意味着你可以在无限的未知潜力中创造自己想要的东西。我们将在未来的信件中更深入地探讨量子领域的科学。只需知道，未知是所有潜力的存在之地。如果已知，那么这种潜力已经实现了。你需要打破习惯，以你已知、熟悉和可预测的自我，在你的已知、熟悉和可预测的生活中生活。
 
-<picture decoding="async" class="wp-image-558">![](../Images/afab64c9dc36304bcbbca3651c442b3c.png)</picture>
+<picture decoding="async" class="wp-image-558">![](img/afab64c9dc36304bcbbca3651c442b3c.png)</picture>
 
 现在，明白这是一个很大的话题。金字塔上的一切都值得有自己的信件。人们已经为金字塔的各个方面写了整本书。该死，我甚至正在写一本关于它的书。我们不可能在一篇帖子中理解这一切。所有未来的和过去的帖子都包含了这个内容。
 
@@ -90,9 +90,9 @@
 
 创建目标的目的不是专注于它们，而是提供更多的清晰度并证明它是可以实现的。*如果你想的话，可以将其视为微观愿景。* 它们只是在这里提供额外的能量来源，以便在实现愿景的时候能够执行一个过程。
 
-这里的一切都是可变的。这就是为什么这是一个如此庞大且难以解决的问题。我正在努力保证在一个成功被保留给理解《创造金字塔》的1%的世界中取得成功。
+这里的一切都是可变的。这就是为什么这是一个如此庞大且难以解决的问题。我正在努力保证在一个成功被保留给理解《创造金字塔》的 1%的世界中取得成功。
 
-我是如何做的呢？根据你试图创造的规模，将其分解为3个目标。如果你试图创造一个更好的生活，要考虑长远。写下10年目标、1年目标和月度目标。
+我是如何做的呢？根据你试图创造的规模，将其分解为 3 个目标。如果你试图创造一个更好的生活，要考虑长远。写下 10 年目标、1 年目标和月度目标。
 
 现在，我们可以通过执行一个特定的过程来完成这些任务、里程碑、检查点或“微观愿景”。
 
@@ -100,7 +100,7 @@
 
 将所有这些阶段视为一个实验。除非你测试特定的部分，否则你不知道什么会产生结果。科学家们不会一开始就提出一个可复制的、能产生结果的过程。这可能需要几周、几个月甚至几年。
 
-<picture loading="lazy" decoding="async" class="wp-image-559">![](../Images/989fcff0a08a3dc77dbd37ce6fd5b055.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-559">![](img/989fcff0a08a3dc77dbd37ce6fd5b055.png)</picture>
 
 耐心、信仰和顺从在这里是必要的。你正在创造一个以前没有人创造过的现实。如果你想回到“安全”、“可预测”和“传统”的生活道路，请随意。如果不这样，就敞开心扉接受失败。
 
@@ -108,7 +108,7 @@
 
 如果这部分让你感到焦虑，你需要自我教育并练习以提高你的技能。如果你感到无聊，你需要增加挑战。
 
-<picture loading="lazy" decoding="async" class="wp-image-546">![](../Images/7462707a9140576b11dca6a3899a7a32.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-546">![](img/7462707a9140576b11dca6a3899a7a32.png)</picture>
 
 **5) 利用内在驱动力**
 
@@ -120,7 +120,7 @@
 
 **6) 控制 & 引导你的注意力**
 
-<picture loading="lazy" decoding="async" class="wp-image-560">![](../Images/435a7806c55eb221425fcf73af2f4094.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-560">![](img/435a7806c55eb221425fcf73af2f4094.png)</picture>
 
 这值得一篇完整的文章。现在，理解你可以从金字塔的任何级别获取能量。这些都是释放创造能量的选项。
 
@@ -134,31 +134,31 @@
 
 **示例分解：**
 
-你对未来愿景的一个方面是利用创意技能组合赚取6位数。我们可以更具体一些，你也应该这样做，但让我们将其分解为目标：
+你对未来愿景的一个方面是利用创意技能组合赚取 6 位数。我们可以更具体一些，你也应该这样做，但让我们将其分解为目标：
 
-+   10年目标：通过销售设计教程的内容赚取6位数（每月2250美元的4个客户或99美元课程的84次销售）
++   10 年目标：通过销售设计教程的内容赚取 6 位数（每月 2250 美元的 4 个客户或 99 美元课程的 84 次销售）
 
-+   1年目标：通过图形设计辅导赚取60,000美元并规划一门课程
++   1 年目标：通过图形设计辅导赚取 60,000 美元并规划一门课程
 
-+   1个月目标：获得一位价值1,000美元的咨询客户
++   1 个月目标：获得一位价值 1,000 美元的咨询客户
 
 现在我们需要一个过程来专注于实现这一点：
 
-+   每天发布3条推文来建立权威和公众简历
++   每天发布 3 条推文来建立权威和公众简历
 
-+   给与我帖子互动的10个人发私信，并运行他们通过[私信外联软脚本](https://modernmastery.co/community/modern-mastery-hq-special)
++   给与我帖子互动的 10 个人发私信，并运行他们通过[私信外联软脚本](https://modernmastery.co/community/modern-mastery-hq-special)
 
 +   每天为你的产品或服务进行一次时间线推广
 
 现在，利用某些内在驱动力。更好的是，通过我的[免费创意流程](https://7daystogeniusideas.com/)将其融入你的日常习惯中。
 
-通过每天留出1小时来执行这一过程，进一步框架化你的焦点。
+通过每天留出 1 小时来执行这一过程，进一步框架化你的焦点。
 
 ## 成为多维度强健的人
 
 创造金字塔不仅是为了让你自己的生活变得更好。它可以应用于你个人和职业生活的各个方面。
 
-![图片](../Images/05c33b7cc0a11df87b7f5af96020b514.png)
+![图片](img/05c33b7cc0a11df87b7f5af96020b514.png)
 
 *开始一个新项目？*
 
@@ -186,10 +186,10 @@
 
 **本周发生了什么**
 
-我为未来的全职创意人士、营销人员和独立创业者开设的学校——数字经济学——将于6月14日开始。 [价格在3天内上涨100美元。](https://digitaleconomics.school)
+我为未来的全职创意人士、营销人员和独立创业者开设的学校——数字经济学——将于 6 月 14 日开始。 [价格在 3 天内上涨 100 美元。](https://digitaleconomics.school)
 
-一段新的YouTube视频上线了，介绍了如何“复制和窃取”成功的方法。[在这里观看。](https://youtu.be/ShdG7cgGA2M)
+一段新的 YouTube 视频上线了，介绍了如何“复制和窃取”成功的方法。[在这里观看。](https://youtu.be/ShdG7cgGA2M)
 
 一档播客上线了，主题是如何产生内容想法，而不在乎别人的看法。[在这里收听。](https://open.spotify.com/episode/0kMCOBqwgApt8m1QgAObvj?si=ac2ae5bf13bb4840)
 
-在MMHQ内部——我发布了用来获得我的第一个1,000名粉丝的增长策略（无需与其他人互动）。个人品牌大师Sana发布了人们常犯的15个真实性错误。[Koe Letter读者可以以5美元的价格加入。](https://modernmastery.co/letter)
+在 MMHQ 内部——我发布了用来获得我的第一个 1,000 名粉丝的增长策略（无需与其他人互动）。个人品牌大师 Sana 发布了人们常犯的 15 个真实性错误。[Koe Letter 读者可以以 5 美元的价格加入。](https://modernmastery.co/letter)

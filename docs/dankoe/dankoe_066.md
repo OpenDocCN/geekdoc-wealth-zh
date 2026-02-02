@@ -1,6 +1,6 @@
 # 自我建筑的艺术（如何改变自己）
 
-> [https://thedankoe.com/letters/the-art-of-self-architecture-how-to-change-who-you-are/](https://thedankoe.com/letters/the-art-of-self-architecture-how-to-change-who-you-are/)
+> [`thedankoe.com/letters/the-art-of-self-architecture-how-to-change-who-you-are/`](https://thedankoe.com/letters/the-art-of-self-architecture-how-to-change-who-you-are/)
 
 生活是一场游戏，你的性格决定了结果。
 
@@ -86,7 +86,7 @@
 
 当你获得必要的技能或知识时，你就达到了解决你所面临问题的下一个心智层次。
 
-就像我在7个不同的商业中失败一样。
+就像我在 7 个不同的商业中失败一样。
 
 我尝试过太阳底下的一切。
 
@@ -136,7 +136,7 @@
 
 我们过去多次讨论过如何设定、追求和实现有意义的目标（[比如这封信](https://thedankoe.com/the-focus-formula-how-to-take-control-of-your-life/))，所以我们将专注于向内雕刻。
 
-![图片](../Images/99caf4846d143f479bb95518fd4f029e.png)
+![图片](img/99caf4846d143f479bb95518fd4f029e.png)
 
 想象一下你是什么样的人，你的自我概念，是你随着时间的推移所构建的智力结构。
 
@@ -192,7 +192,7 @@
 
 关注那些提供与您目标相关具体信息的社交媒体账号。
 
-购买1-3本关于这个主题的书并阅读它们。
+购买 1-3 本关于这个主题的书并阅读它们。
 
 当你有一个心中挂念的目标时，你开始有目的地感知情境。
 
@@ -224,7 +224,7 @@
 
 散步似乎是一个增加能量消耗的好方法。
 
-因此，我开始每天走10,000步。
+因此，我开始每天走 10,000 步。
 
 在那些散步中，我意识到：
 
@@ -240,7 +240,7 @@
 
 +   我可以在一年中的大部分时间保持一个不错的晒黑。
 
-现在，我每天至少走20,000步。
+现在，我每天至少走 20,000 步。
 
 当我无聊时，我会走路。
 

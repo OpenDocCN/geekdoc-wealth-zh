@@ -1,6 +1,6 @@
 # 如何从生活中获得你想要的东西
 
-> 原文：[https://thedankoe.com/letters/how-to-get-what-you-want-out-of-life/](https://thedankoe.com/letters/how-to-get-what-you-want-out-of-life/)
+> 原文：[`thedankoe.com/letters/how-to-get-what-you-want-out-of-life/`](https://thedankoe.com/letters/how-to-get-what-you-want-out-of-life/)
 
 现代教育体系擅长一件事：
 
@@ -28,11 +28,11 @@
 
 当然，我在这里是在夸张。
 
-我已经自雇3-4年了，我对大多数事情都感到**极度**脱节。我对企业工作有一种扭曲的认识，并且对此非常清楚。
+我已经自雇 3-4 年了，我对大多数事情都感到**极度**脱节。我对企业工作有一种扭曲的认识，并且对此非常清楚。
 
 从我所看到的，很少有工作能有一丝自我雇佣的好处。
 
-充足的休息、追求内在的目标层次、而不是坐在人造的蓝光前8小时、追求精通以及随之而来的深刻满足感……等等。
+充足的休息、追求内在的目标层次、而不是坐在人造的蓝光前 8 小时、追求精通以及随之而来的深刻满足感……等等。
 
 为了赚取可预测的金额，人类的心理、健康和实现自我价值的**基本需求**被置于次要位置。
 
@@ -56,7 +56,7 @@
 
 +   研究他们真正想要追求的兴趣（并通过组织他们的想法和在线发布来了解它们）
 
-+   帮助那些在他们后面1-2步的人（因为人们正在失去对“系统”的信任，并希望从人类那里学习）
++   帮助那些在他们后面 1-2 步的人（因为人们正在失去对“系统”的信任，并希望从人类那里学习）
 
 现代教育状况正在我们眼前发生变化。
 
@@ -70,7 +70,7 @@
 
 > 当前的教育体系不会为工作的未来做好准备。
 > 
-> — 丹·科伊 (@thedankoe) [2022年7月12日](https://twitter.com/thedankoe/status/1546816648199507969?ref_src=twsrc%5Etfw)
+> — 丹·科伊 (@thedankoe) [2022 年 7 月 12 日](https://twitter.com/thedankoe/status/1546816648199507969?ref_src=twsrc%5Etfw)
 
 事实上，我要教给你的就是旧的教育体系。
 
@@ -104,9 +104,9 @@
 
 自我教育是答案，但没有人知道如何自我教育…这正是重点。
 
-## 5步让你掌握自己的教育
+## 5 步让你掌握自己的教育
 
-<picture fetchpriority="high" decoding="async" class="wp-image-746">![](../Images/83dd4af91565b770b252d9353dc611a6.png)</picture>
+<picture fetchpriority="high" decoding="async" class="wp-image-746">![](img/83dd4af91565b770b252d9353dc611a6.png)</picture>
 
 我们还没有进入另一个文艺复兴时代。
 
@@ -124,7 +124,7 @@
 
 > 如果你不知道你想要什么，了解你不想什么，然后朝相反的方向努力。
 > 
-> — 丹·科伊 (@thedankoe) [2022年6月15日](https://twitter.com/thedankoe/status/1537030087874420738?ref_src=twsrc%5Etfw)
+> — 丹·科伊 (@thedankoe) [2022 年 6 月 15 日](https://twitter.com/thedankoe/status/1537030087874420738?ref_src=twsrc%5Etfw)
 
 你想要你未来的什么？
 
@@ -136,7 +136,7 @@
 
 **2) 追求你的好奇心**
 
-3件事：
+3 件事：
 
 +   潜在的实用性
 
@@ -162,7 +162,7 @@
 
 > 你可以整天读书和听建议，但除非你应用并体验这些教诲，否则这一切都没有意义。
 > 
-> — 丹·科伊 (@thedankoe) [2021年12月30日](https://twitter.com/thedankoe/status/1476483719653376003?ref_src=twsrc%5Etfw)
+> — 丹·科伊 (@thedankoe) [2021 年 12 月 30 日](https://twitter.com/thedankoe/status/1476483719653376003?ref_src=twsrc%5Etfw)
 
 项目是有力量的。
 
@@ -178,7 +178,7 @@
 
 为你的品牌创建一个横幅，并被迫研究你可以用来创建这些图像的工具。
 
-将你去年想到的“百万美元”应用想法发展起来。你不可能在YouTube上找不到“如何构建应用”的教程，做一些调查，然后花几个月时间真正去做。
+将你去年想到的“百万美元”应用想法发展起来。你不可能在 YouTube 上找不到“如何构建应用”的教程，做一些调查，然后花几个月时间真正去做。
 
 不要让你的思想欺骗你。
 
@@ -192,7 +192,7 @@
 > 
 > 如果你的脚没有踩在油门上，那么一个装满油的坦克、地图上的方向和手握方向盘只是一厢情愿的想法。
 > 
-> — 丹·科伊 (@thedankoe) [2022年8月21日](https://twitter.com/thedankoe/status/1561282467243466753?ref_src=twsrc%5Etfw)
+> — 丹·科伊 (@thedankoe) [2022 年 8 月 21 日](https://twitter.com/thedankoe/status/1561282467243466753?ref_src=twsrc%5Etfw)
 
 构建一个项目会暴露你不知道的东西。
 
@@ -200,7 +200,7 @@
 
 当你遇到障碍时，找到解决方案。
 
-购买一门课程，观看YouTube视频，向你在社交媒体上关注的某人提出具体问题，加入一个社区，总的来说……只是参与一个讨论你兴趣的数字空间。
+购买一门课程，观看 YouTube 视频，向你在社交媒体上关注的某人提出具体问题，加入一个社区，总的来说……只是参与一个讨论你兴趣的数字空间。
 
 这就是这种“新教育体系”的美丽之处。
 
@@ -230,7 +230,7 @@
 
 如果你没有支持你的人，你永远不会因为热爱的事情而得到报酬。
 
-互联网让你可以接触到任何有Wi-Fi连接的人（如果你有策略和进入他们面前的知识）。
+互联网让你可以接触到任何有 Wi-Fi 连接的人（如果你有策略和进入他们面前的知识）。
 
 在公共场合构建你的项目。谈谈你的旅程。激励他人。并获得使它成功的必要反馈。
 
@@ -242,9 +242,9 @@
 
 **本周发生了什么**
 
-《两小时作家》现已上线！我们取得了令人难以置信的启动，昨天有800多名学生获得了访问权限。今天早上开始收到了一些好评：
+《两小时作家》现已上线！我们取得了令人难以置信的启动，昨天有 800 多名学生获得了访问权限。今天早上开始收到了一些好评：
 
-<picture decoding="async" class="wp-image-743">![](../Images/42460cd634ea1f46bcd441e521988551.png)</picture> <picture decoding="async" class="wp-image-744">![](../Images/d826cf9e0041bce2ab30edfd55583619.png)</picture> <picture loading="lazy" decoding="async" class="wp-image-745">![](../Images/a3d12180c91f2775b5f98ba1dcc4dd89.png)</picture>
+<picture decoding="async" class="wp-image-743">![](img/42460cd634ea1f46bcd441e521988551.png)</picture> <picture decoding="async" class="wp-image-744">![](img/d826cf9e0041bce2ab30edfd55583619.png)</picture> <picture loading="lazy" decoding="async" class="wp-image-745">![](img/a3d12180c91f2775b5f98ba1dcc4dd89.png)</picture>
 
 如果你想使用我的写作和内容系统，可以考虑看看。
 
@@ -254,8 +254,8 @@
 
 我们也安排了本周三的品牌研讨会。我们将拆解个人资料，并教你如何最好地在线展示自己。
 
-[读者可以以5美元的价格加入MM。](https://modernmastery.co/letter)
+[读者可以以 5 美元的价格加入 MM。](https://modernmastery.co/letter)
 
-一段关于我从零开始建立写作业务的9个步骤的新YouTube视频刚刚上线。
+一段关于我从零开始建立写作业务的 9 个步骤的新 YouTube 视频刚刚上线。
 
 [在这里观看新视频。](https://youtu.be/N8U5bzSD65Q)

@@ -1,6 +1,6 @@
-# 对你生活中的现状感到愤怒（为了超越99%的人）。
+# 对你生活中的现状感到愤怒（为了超越 99%的人）。
 
-> 原文：[https://thedankoe.com/letters/get-mad-at-where-you-are-in-life-to-get-ahead-of-99-of-people/](https://thedankoe.com/letters/get-mad-at-where-you-are-in-life-to-get-ahead-of-99-of-people/)
+> 原文：[`thedankoe.com/letters/get-mad-at-where-you-are-in-life-to-get-ahead-of-99-of-people/`](https://thedankoe.com/letters/get-mad-at-where-you-are-in-life-to-get-ahead-of-99-of-people/)
 
 我生命中最美好的时光总是在我完全厌倦了取得的进展不足之后。
 
@@ -54,7 +54,7 @@
 
 *视角影响感知*。
 
-任何给定的情况都有太多信息，以至于意识无法处理（我们每秒可以处理大约50比特的信息）。
+任何给定的情况都有太多信息，以至于意识无法处理（我们每秒可以处理大约 50 比特的信息）。
 
 你随着时间的推移培养出的身份或性格将限制你可以处理的信息，这些信息是你能够接触到的视角。
 
@@ -196,7 +196,7 @@
 
 ## 引导到建设。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1288">![](../Images/61f0a01cb9588481cf3b815802d01822.png)</picture>
+<picture fetchpriority="high" decoding="async" class="wp-image-1288">![](img/61f0a01cb9588481cf3b815802d01822.png)</picture>
 
 当你达到那个低点时，你需要一些具体的东西来引导那种新发现的（并且超强大的）能量。
 
@@ -262,7 +262,7 @@
 
 你可以通过将你的个人兴趣与社交媒体（理解社会）的技能、写作、演讲、营销和销售相结合来做这件事。
 
-我在[$1百万美元技能栈](https://thedankoe.com/letters/the-1-million-dollar-skill-stack-learn-in-this-order/)中讨论了这一点。
+我在[$1 百万美元技能栈](https://thedankoe.com/letters/the-1-million-dollar-skill-stack-learn-in-this-order/)中讨论了这一点。
 
 ### 4) 你是最有利可图的细分市场。
 
@@ -288,7 +288,7 @@
 
 这个解决方案是你在社交媒体上获得读者群（通过内容）和销售一个一次购买就能拯救世界的产品（通过教育）的方式([通过教育](https://thedankoe.com/letters/the-new-wave-of-micro-businesses-monetize-your-knowledge/))。
 
-如果你不知道从哪里开始，[尝试2小时作家](https://2hourwriter.com)。
+如果你不知道从哪里开始，[尝试 2 小时作家](https://2hourwriter.com)。
 
 ### 5) “创造者”不是一份工作，而是一种新的生活方式。
 
@@ -304,7 +304,7 @@
 
 你的故事，或身份（你在创造者社会中展示的），与任何人的都不一样——即使你追求的是像“赚更多钱”这样的高级目标。
 
-你一生中可以处理1280亿位的意识信息。
+你一生中可以处理 1280 亿位的意识信息。
 
 那是你的潜力。
 

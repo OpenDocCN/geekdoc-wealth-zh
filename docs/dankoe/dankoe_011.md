@@ -1,10 +1,10 @@
 # 最有利可图的领域是你（如何创建你的领域）
 
-> 原文：[https://thedankoe.com/letters/the-most-profitable-niche-is-you-how-to-create-your-niche/](https://thedankoe.com/letters/the-most-profitable-niche-is-you-how-to-create-your-niche/)
+> 原文：[`thedankoe.com/letters/the-most-profitable-niche-is-you-how-to-create-your-niche/`](https://thedankoe.com/letters/the-most-profitable-niche-is-you-how-to-create-your-niche/)
 
 我买的第一门商业课程是一堂六位数的代理课程。
 
-这是在6年前。
+这是在 6 年前。
 
 在那之前，我看不出课程的价值。
 
@@ -22,7 +22,7 @@
 
 当我对我的多次商业尝试感到厌倦时，我准备投资我的整个银行账户。
 
-我研究了最好的商业模式，找到了一个有良好声誉的人，观看了他的网络研讨会，并支付了999美元。
+我研究了最好的商业模式，找到了一个有良好声誉的人，观看了他的网络研讨会，并支付了 999 美元。
 
 这对我的财务造成了巨大的影响。
 
@@ -46,13 +46,13 @@
 
 但是，有三件事摧毁了我成功的机会：
 
-1.  我对运营一个Facebook广告代理公司根本不感兴趣。我不*想*在我的业务上工作。
+1.  我对运营一个 Facebook 广告代理公司根本不感兴趣。我不*想*在我的业务上工作。
 
 1.  向当地企业发送冷邮件既耗时又压力大，而且他们中没有一个人有钱支付我。
 
 1.  我从未对自己的领域有信心，这导致了我遇到了大量的摩擦和闪亮物体综合症。
 
-我这次Facebook广告之旅教会了我比其他任何商业、课程或观点都多的东西。
+我这次 Facebook 广告之旅教会了我比其他任何商业、课程或观点都多的东西。
 
 即使它没有直接教会我东西，它也识别了我未来所有企业中存在的问题。
 
@@ -60,13 +60,13 @@
 
 *在我们深入探讨之前，这是一篇计划好的文章（但我仍然计划在这里提供尽可能多的价值）。*
 
-[第一个独立创业者冲刺活动将于2月7日开始](https://sprints.digitaleconomics.school)。我们首先要了解的是如何创建一个你自信的领域，一个与你相似的领域。考虑去看看。
+[第一个独立创业者冲刺活动将于 2 月 7 日开始](https://sprints.digitaleconomics.school)。我们首先要了解的是如何创建一个你自信的领域，一个与你相似的领域。考虑去看看。
 
-这是一个150美元的团队，结构有趣且具有影响力（所以我不必为同样的材料收取数千美元）。
+这是一个 150 美元的团队，结构有趣且具有影响力（所以我不必为同样的材料收取数千美元）。
 
 ## 最有利可图的领域是你自己
 
-<picture fetchpriority="high" decoding="async" class="wp-image-981">![](../Images/eaadf62a983870563ed789659ccd16b6.png)</picture>
+<picture fetchpriority="high" decoding="async" class="wp-image-981">![](img/eaadf62a983870563ed789659ccd16b6.png)</picture>
 
 广告公司并不是我的第一次，也不是最后一次商业尝试。
 
@@ -94,7 +94,7 @@
 
 如果我想发布一些励志的建议，我会。
 
-我80%的内容**不**围绕我的服务，这并不重要。
+我 80%的内容**不**围绕我的服务，这并不重要。
 
 为什么会这样呢？
 
@@ -140,7 +140,7 @@
 
 ## 如何创建你的个人细分市场
 
-<picture decoding="async" class="wp-image-982">![](../Images/c20cd49263043e82dfe2cca16e486ea1.png)</picture>
+<picture decoding="async" class="wp-image-982">![](img/c20cd49263043e82dfe2cca16e486ea1.png)</picture>
 
 从精神层面来看，你的“品牌”或“自我”可以是重复的商业理念或有意识的个人创造的结果。
 
@@ -162,7 +162,7 @@
 
 坐下来思考一下。
 
-我们将在第3步回到它。
+我们将在第 3 步回到它。
 
 ### 2) 智能模仿
 
@@ -218,7 +218,7 @@
 
 ### 3) 书籍到品牌内容
 
-<picture decoding="async" class="wp-image-983">![](../Images/9100636ad8217c789033f52e82e41251.png)</picture>
+<picture decoding="async" class="wp-image-983">![](img/9100636ad8217c789033f52e82e41251.png)</picture>
 
 每个故事都有一个理想的结局，一个最终目标。
 
@@ -258,9 +258,9 @@
 
 +   将每个章节的章节写成文章或通讯。
 
-+   将这些写作内容改编成播客或YouTube视频。
++   将这些写作内容改编成播客或 YouTube 视频。
 
-+   将主要观点浓缩成一条线索、轮播图或LinkedIn帖子。
++   将主要观点浓缩成一条线索、轮播图或 LinkedIn 帖子。
 
 +   将那些主要观点重写为引人入胜的推文。
 
@@ -276,7 +276,7 @@
 
 ### 5) 当怀疑时，放大视角
 
-<picture loading="lazy" decoding="async" class="wp-image-984">![](../Images/64b4628cf60b2fd1199720455d3c7dd7.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-984">![](img/64b4628cf60b2fd1199720455d3c7dd7.png)</picture>
 
 解决困境的方法是视角。
 
@@ -314,15 +314,15 @@
 
 **– 丹·科**
 
-P.S. 第一次独立创业者冲刺将于2月7日开始。
+P.S. 第一次独立创业者冲刺将于 2 月 7 日开始。
 
-这是一个为期14天的密集策略，适用于感到不知所措的创作者：
+这是一个为期 14 天的密集策略，适用于感到不知所措的创作者：
 
 +   建立你一个人的企业的基础
 
 +   创造并对你所在领域的信心
 
-+   写20多个基础内容（你可以以1000种不同的方式重新利用）
++   写 20 多个基础内容（你可以以 1000 种不同的方式重新利用）
 
 +   学习零成本策略，让你的内容和个人资料（对于追随者）获得关注
 
@@ -332,4 +332,4 @@ P.S. 第一次独立创业者冲刺将于2月7日开始。
 
 [如果你感兴趣，请在此处报名](https://sprints.digitaleconomics.school)
 
-价格是150美元（这是一个你将终身利用的品牌）。
+价格是 150 美元（这是一个你将终身利用的品牌）。

@@ -1,8 +1,8 @@
-# 消失并重新出现，无法辨认（12条改变你生活的规则）
+# 消失并重新出现，无法辨认（12 条改变你生活的规则）
 
-> [https://thedankoe.com/letters/disappear-and-come-back-unrecognizable-12-rules-to-change-your-life/](https://thedankoe.com/letters/disappear-and-come-back-unrecognizable-12-rules-to-change-your-life/)
+> [`thedankoe.com/letters/disappear-and-come-back-unrecognizable-12-rules-to-change-your-life/`](https://thedankoe.com/letters/disappear-and-come-back-unrecognizable-12-rules-to-change-your-life/)
 
-![图片](../Images/f7d5112739a4a4e1d1bda0ec933216b8.png)
+![图片](img/f7d5112739a4a4e1d1bda0ec933216b8.png)
 
 我这么说并不是为了显得傲慢。
 
@@ -26,7 +26,7 @@
 
 仅从这一点来看，很容易就能想出我必须做什么：
 
-+   成为一名企业家，无论我失败多少次（我失败了7次）
++   成为一名企业家，无论我失败多少次（我失败了 7 次）
 
 +   获得摆脱我不愿意做的工作（在社交媒体上写文章以获得影响力）的力量
 
@@ -52,11 +52,11 @@
 
 这就是我们接下来要讨论的内容。
 
-## 《创造的12条规则》
+## 《创造的 12 条规则》
 
 > 你需要一个计划。因为如果你没有，社会就有，他们已经为你规划了几十年。 —— [《专注的艺术》](https://theartoffocusbook.com)
 
-![图片](../Images/e44594f73ffa45c445760447b39d62c6.png)
+![图片](img/e44594f73ffa45c445760447b39d62c6.png)
 
 你从出生那天起就被社会分配了目标。
 
@@ -110,7 +110,7 @@
 
 *不要错过任何细节，但要知道这是一个迭代的过程。*
 
-你不可能一开始就做对，你可能永远也不会。这不是重点。花30分钟生成一个最小可行愿景。经常回到它那里，随着你的愿望不可避免地随着你的失败而改变，添加、删除和改进。
+你不可能一开始就做对，你可能永远也不会。这不是重点。花 30 分钟生成一个最小可行愿景。经常回到它那里，随着你的愿望不可避免地随着你的失败而改变，添加、删除和改进。
 
 ### **使命**
 
@@ -214,7 +214,7 @@
 
 做你需要做的事情，但把你的愿景作为锚定未知的力量。如果你没有取得进展，那是因为你没有移动杠杆，即使你认为你在移动。
 
-写作是我创作者业务中的主要杠杆（以及几乎所有其他现代业务）。这是我在[2小时作家](https://2hourwriter.com)中教授的，也是我们在[Kortex大学](https://university.kortex.co)帮助那些需要个性化帮助和反馈的人所提供的。
+写作是我创作者业务中的主要杠杆（以及几乎所有其他现代业务）。这是我在[2 小时作家](https://2hourwriter.com)中教授的，也是我们在[Kortex 大学](https://university.kortex.co)帮助那些需要个性化帮助和反馈的人所提供的。
 
 ### **挑战**
 
@@ -268,7 +268,7 @@
 
 ## 做出更好的决定
 
-![图片](../Images/5747c3a446fab8a0880df2104bda392f.png)
+![图片](img/5747c3a446fab8a0880df2104bda392f.png)
 
 你还没有达到你想要的地方，因为你：
 

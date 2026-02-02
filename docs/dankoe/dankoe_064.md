@@ -1,6 +1,6 @@
 # 解决你自己的问题并出售解决方案
 
-> 原文：[https://thedankoe.com/letters/the-self-reliant-career-path-how-to-generate-independent-income/](https://thedankoe.com/letters/the-self-reliant-career-path-how-to-generate-independent-income/)
+> 原文：[`thedankoe.com/letters/the-self-reliant-career-path-how-to-generate-independent-income/`](https://thedankoe.com/letters/the-self-reliant-career-path-how-to-generate-independent-income/)
 
 创作者经济是一个去中心化的社会，在这里人们可以学习、教学，并为自己的生活创造更美好的未来。
 
@@ -8,11 +8,11 @@
 
 当我还是个孩子的时候，我不信任学校体系（或我的父母）能给我提供让我充分利用生活的必要知识。
 
-相反，我消费了YouTube博主、博客作者和社交媒体账户上关于健身、商业和哲学的内容。
+相反，我消费了 YouTube 博主、博客作者和社交媒体账户上关于健身、商业和哲学的内容。
 
 我购买了价格合理的课程，这些课程教给我的东西比昂贵的大学学位还要多。
 
-我的大学学位让我得到了一份年薪6万美元的工作。
+我的大学学位让我得到了一份年薪 6 万美元的工作。
 
 我的网络学习为我建立了一个业务，让我能在这个生活中做任何我想做的事。
 
@@ -36,17 +36,17 @@
 
 这个帖子是我所表达意思的一个典型例子：
 
-> 这就是为什么我制作了Sol短裤
+> 这就是为什么我制作了 Sol 短裤
 > 
 > 一条经典的、短款、100%纯棉短裤，既灵活舒适，又时尚，搭配任何上衣都很合适。
 > 
-> 找不到，所以我制作了它。[https://t.co/vB85NhzpCH](https://t.co/vB85NhzpCH)
+> 找不到，所以我制作了它。[`t.co/vB85NhzpCH`](https://t.co/vB85NhzpCH)
 > 
-> — 🌞 Sol Brah 🌞 (@SolBrah) [2023年4月22日](https://twitter.com/SolBrah/status/1649604730426126338?ref_src=twsrc%5Etfw)
+> — 🌞 Sol Brah 🌞 (@SolBrah) [2023 年 4 月 22 日](https://twitter.com/SolBrah/status/1649604730426126338?ref_src=twsrc%5Etfw)
 
 当然，我有很多个人，我可以从他们那里获取相关领域的专业知识。
 
-如果我想学习股票或房地产投资，我可以以学位费用的一小部分获得这些知识。而且我会得到10倍的结果，因为教授它的人实际上有成果。
+如果我想学习股票或房地产投资，我可以以学位费用的一小部分获得这些知识。而且我会得到 10 倍的结果，因为教授它的人实际上有成果。
 
 创作者经济是你：
 
@@ -66,7 +66,7 @@
 
 然后，建立一个你真正想要建立的业务。
 
-我的这个一人教育业务每年能赚大约150万美元。
+我的这个一人教育业务每年能赚大约 150 万美元。
 
 我现在正在写一本书，开发软件，并规划我想在世界上留下的真正影响。我有做这件事的资金和资源，但仅仅是因为我从我所拥有的开始。
 
@@ -78,7 +78,7 @@ P.S. 这种商业风格（解决你自己的问题并销售解决方案）正是
 
 ## 通过利润和目的解决问题
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1145">![](../Images/08261898f47316a6b4c1c5f2a91f77e1.png)</picture>
+<picture fetchpriority="high" decoding="async" class="wp-image-1145">![](img/08261898f47316a6b4c1c5f2a91f77e1.png)</picture>
 
 我整个商业旅程都是自私的。
 
@@ -114,7 +114,7 @@ P.S. 这种商业风格（解决你自己的问题并销售解决方案）正是
 
 因此，我将解决我生活中的那个领域作为我的目标。
 
-我观看了YouTube视频，购买了补充剂，并订购了几种不同的计划者和日记。
+我观看了 YouTube 视频，购买了补充剂，并订购了几种不同的计划者和日记。
 
 我坚决要解决这个问题，所以我尝试了每一条我得到的建议。
 
@@ -156,9 +156,9 @@ P.S. 这种商业风格（解决你自己的问题并销售解决方案）正是
 
 ## 自给自足的职业道路（如何开始）
 
-<picture decoding="async" class="wp-image-1146">![](../Images/e23ddeff5aa240edef2b8b1b603e8cb3.png)</picture>
+<picture decoding="async" class="wp-image-1146">![](img/e23ddeff5aa240edef2b8b1b603e8cb3.png)</picture>
 
-> 这个星球上有近70亿人。我希望有一天，几乎会有70亿家公司。*——* 纳瓦尔
+> 这个星球上有近 70 亿人。我希望有一天，几乎会有 70 亿家公司。*——* 纳瓦尔
 
 工作的未来是游戏，每个人都将成为企业家。
 
@@ -262,13 +262,13 @@ P.S. 这种商业风格（解决你自己的问题并销售解决方案）正是
 
 你在销售追求该目标所带来的生活方式的好处。
 
-在健康领域，有些人可能会向想要创建一个健康社交圈并参与社区活动的**20-30岁的人**销售跑步产品。
+在健康领域，有些人可能会向想要创建一个健康社交圈并参与社区活动的**20-30 岁的人**销售跑步产品。
 
-其他一些人可能会向想要在健身房只锻炼3天就能变得强壮的商务人士销售体重训练计划。这样他们既有钱又有肌肉，可以过上有趣的生活。谁不会买这个（如果他们与产品的理念产生共鸣）？
+其他一些人可能会向想要在健身房只锻炼 3 天就能变得强壮的商务人士销售体重训练计划。这样他们既有钱又有肌肉，可以过上有趣的生活。谁不会买这个（如果他们与产品的理念产生共鸣）？
 
-我的写作产品，[2小时作家](https://2hourwriter.com)，是我个人品牌建设和通过数字写作获得数百万粉丝的独特经验。
+我的写作产品，[2 小时作家](https://2hourwriter.com)，是我个人品牌建设和通过数字写作获得数百万粉丝的独特经验。
 
-我在2-3年的时间里对想法生成、通讯稿写作和社交媒体内容进行了实验。
+我在 2-3 年的时间里对想法生成、通讯稿写作和社交媒体内容进行了实验。
 
 你不必等那么久。
 
@@ -306,7 +306,7 @@ P.S. 这种商业风格（解决你自己的问题并销售解决方案）正是
 
 其次，你获得的是杠杆。
 
-你可以根据你的生活变化进行转型，并销售任何你想要的东西（只要你不把自己局限于一个狭窄的利基市场[https://thedankoe.com/the-most-profitable-niche-is-you-how-to-create-your-niche/](https://thedankoe.com/the-most-profitable-niche-is-you-how-to-create-your-niche/))。
+你可以根据你的生活变化进行转型，并销售任何你想要的东西（只要你不把自己局限于一个狭窄的利基市场[`thedankoe.com/the-most-profitable-niche-is-you-how-to-create-your-niche/`](https://thedankoe.com/the-most-profitable-niche-is-you-how-to-create-your-niche/))。
 
 第三，大多数其他形式的分销会让你一无所获。
 

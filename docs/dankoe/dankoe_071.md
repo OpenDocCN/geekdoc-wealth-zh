@@ -1,14 +1,14 @@
 # 重新审视一人企业（将自己变成企业）
 
-> 原文：[https://thedankoe.com/letters/the-one-person-business-revisited-turn-yourself-into-a-business/](https://thedankoe.com/letters/the-one-person-business-revisited-turn-yourself-into-a-business/)
+> 原文：[`thedankoe.com/letters/the-one-person-business-revisited-turn-yourself-into-a-business/`](https://thedankoe.com/letters/the-one-person-business-revisited-turn-yourself-into-a-business/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1307">![](../Images/3a9b1933d895ae7b6478bc923c112a28.png)</picture>
+<picture fetchpriority="high" decoding="async" class="wp-image-1307">![](img/3a9b1933d895ae7b6478bc923c112a28.png)</picture>
 
 一个新的社会已经出现。
 
 一个虚拟的。
 
-我们都认为“虚拟现实”离消失只有几年时间，它将由像苹果的新VR头戴设备这样的技术组成。
+我们都认为“虚拟现实”离消失只有几年时间，它将由像苹果的新 VR 头戴设备这样的技术组成。
 
 但进化并非如此运作。
 
@@ -46,7 +46,7 @@
 
 ### 什么是创作者社会？
 
-<picture decoding="async" class="wp-image-1302">![](../Images/ac7a86122d62d9818275545ef2eddbb5.png)</picture>
+<picture decoding="async" class="wp-image-1302">![](img/ac7a86122d62d9818275545ef2eddbb5.png)</picture>
 
 随着互联网的发展，信息传播得无以复加。
 
@@ -130,7 +130,7 @@
 
 ## 我的个人商业哲学
 
-> 这个星球上有近70亿人。我希望有一天，几乎会有70亿家公司。 —— 纳瓦尔
+> 这个星球上有近 70 亿人。我希望有一天，几乎会有 70 亿家公司。 —— 纳瓦尔
 
 最好的企业能改变人们的生活。
 
@@ -174,7 +174,7 @@
 
 ## 自我货币化的路径
 
-<picture decoding="async" class="wp-image-1303">![](../Images/60022e7f9d5090b1fed33b7bf1ae0bf7.png)</picture>
+<picture decoding="async" class="wp-image-1303">![](img/60022e7f9d5090b1fed33b7bf1ae0bf7.png)</picture>
 
 社交媒体是一个新的社会。
 
@@ -204,7 +204,7 @@
 
 ### 路径 2) 在你的兴趣周围成为价值创造者
 
-<picture loading="lazy" decoding="async" class="wp-image-1304">![](../Images/433792543e77ef6202d15412a7aa14a9.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-1304">![](img/433792543e77ef6202d15412a7aa14a9.png)</picture>
 
 这很难表达，因为最常见的问题是，“我没有任何兴趣。”
 
@@ -260,7 +260,7 @@
 
 由于新社会中的互联网内容、课程和非传统教育，你可以以创纪录的时间学习任何东西。
 
-### 路径3）双重行动以获得最大效果
+### 路径 3）双重行动以获得最大效果
 
 拥有一个个人品牌，你将不得不学习大多数现代技能以使其成功。
 
@@ -280,9 +280,9 @@
 
 你极大地提升了自己，你的业务比大多数人都更有杠杆作用。
 
-## 6位数的单人商业的4个支柱
+## 6 位数的单人商业的 4 个支柱
 
-<picture loading="lazy" decoding="async" class="wp-image-1305">![](../Images/50d0208ad71c1a9df6353885bc7af773.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-1305">![](img/50d0208ad71c1a9df6353885bc7af773.png)</picture>
 
 单人商业模式可以有多个定义。
 
@@ -298,9 +298,9 @@
 
 简而言之，这就是你真正需要做的以成功。
 
-为了清晰起见，让我们深入了解单人商业的4个支柱：
+为了清晰起见，让我们深入了解单人商业的 4 个支柱：
 
-<picture loading="lazy" decoding="async" class="wp-image-1310">![](../Images/1cc066aea85798e0bb39c83f5576e1e2.png)</picture>
+<picture loading="lazy" decoding="async" class="wp-image-1310">![](img/1cc066aea85798e0bb39c83f5576e1e2.png)</picture>
 
 ### 品牌 – 你是细分市场
 
@@ -368,7 +368,7 @@
 
 +   将其转化为一个最小可行性产品
 
-+   开始以500-1000美元的价格销售（自由职业或咨询）
++   开始以 500-1000 美元的价格销售（自由职业或咨询）
 
 +   在过程中通过内容建立你的受众
 
@@ -376,7 +376,7 @@
 
 +   当你准备好时，将其产品化，这样它就可以在睡眠中销售
 
-这可能需要1-3年。
+这可能需要 1-3 年。
 
 如果你的目标是增加商业或职业生涯中的收入，你可以学习像电子邮件营销这样的技能。
 
@@ -468,7 +468,7 @@
 
 目前你所需要了解的就是关于单人商业模式的全部。
 
-欢迎观看我YouTube上的[单人商业播放列表](https://youtube.com/playlist?list=PLB4ePXk6nBaeG3fD13NaRMsRsEc2iCsV4)的其余部分。
+欢迎观看我 YouTube 上的[单人商业播放列表](https://youtube.com/playlist?list=PLB4ePXk6nBaeG3fD13NaRMsRsEc2iCsV4)的其余部分。
 
 享受你余下的这一天。
 
