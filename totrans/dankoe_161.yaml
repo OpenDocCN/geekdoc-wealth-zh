@@ -1,0 +1,822 @@
+- en: Learn AI To 10x Any Other Skill (Full Beginner Guide)
+  prefs:
+  - PREF_H1
+  type: TYPE_NORMAL
+- en: 原文：[https://thedankoe.com/letters/learn-ai-to-10x-any-other-skill-full-beginner-guide/](https://thedankoe.com/letters/learn-ai-to-10x-any-other-skill-full-beginner-guide/)
+  prefs:
+  - PREF_BQ
+  type: TYPE_NORMAL
+- en: AI is the latest and greatest high-value skill you can acquire.
+  prefs: []
+  type: TYPE_NORMAL
+- en: But it isn’t like other skills.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Most “high-income” skills you are told to learn right now—like email marketing,
+    social media, web design, programming, and more—are bound to change as technology
+    evolves, and that’s happening right now.
+  prefs: []
+  type: TYPE_NORMAL
+- en: AI is one of the new meta skills that becomes 10x more valuable when paired
+    with any digital skill you have.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now, some of you are skeptical.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '**“Dan, didn’t you write like 5 newsletters on how AI won’t replace creative
+    work?”**'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Correct, and many misinterpret that, thinking I’m anti-AI because they think
+    in black and white.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '**“AI is going to destroy the world, ruin all creativity, and take away our
+    source of purpose.”**'
+  prefs: []
+  type: TYPE_NORMAL
+- en: No, it will simply ruin the lives of people who are already machines conditioned
+    by a system that breeds useful workers. Those who *don’t* pursue their own path,
+    create their own work, and find their own purpose.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '**“The more people use AI, the dumber they will become.”**'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Yes, some people, if they outsource their thinking to AI. The reality is that
+    AI can drastically sharpen your thinking, help you learn faster, and remove a
+    lot of the busy work from your life—allowing you to focus on what you enjoy. Your
+    craft.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The thing is, 95% of people don’t understand the pure basics of AI.
+  prefs: []
+  type: TYPE_NORMAL
+- en: They type one sentence into it and expect it to change their life.
+  prefs: []
+  type: TYPE_NORMAL
+- en: AI is a skill.
+  prefs: []
+  type: TYPE_NORMAL
+- en: And the thing about skills is that you need to learn them, practice them, and
+    implement them in your life.
+  prefs: []
+  type: TYPE_NORMAL
+- en: So, I want to give you a mini-masterclass on AI as it is right now.
+  prefs: []
+  type: TYPE_NORMAL
+- en: That way, you can change your life and work faster than most people who will
+    be late to catch on.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'We’re going to:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Break down the absolute basics of how AI works
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Explain the different models, tools, and use cases for AI (because most people
+    think that ChatGPT is the only thing that exists)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Learn how to write effective prompts by shifting from tasks thinking to systems
+    thinking
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: I’ll give you a prompt for writing more effective prompts so you can get ahead
+    of 99% of people using AI
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Learn use cases for AI to save multiple hours of work each week, improve your
+    quality of life, and increase your chances at creative success
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: I’ll also show you how I write prompts that writes 15 viral social posts in
+    10 seconds.
+  prefs: []
+  type: TYPE_NORMAL
+- en: And how to copy anyone’s voice to a T or generate profitable business ideas.
+  prefs: []
+  type: TYPE_NORMAL
+- en: We’ve got a lot to talk about.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The first part of this may be boring to you.
+  prefs: []
+  type: TYPE_NORMAL
+- en: But if you’re here to learn, you understand that learning isn’t always fun.
+    It requires effort and sticking around even if it’s not a continuous series of
+    cheap dopamine hits like you’re used to. Most of learning is feeling like you
+    aren’t learning anything.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Pull out your notes and lets get started.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The Basics Of AI Models & Tools
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: I’m going to keep this part as brief as I can.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I actually had AI condense this section down to half it’s size because I don’t
+    care for technical writing.
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you only care about learning how to write prompts and implement AI in your
+    workflow, you can skip ahead.
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you aren’t building the AI, or working for an AI company, you probably don’t
+    need to understand all of the inner workings, just like you don’t need to know
+    how to build an email marketing software in order to use it, but it helps to have
+    a big picture understanding.
+  prefs: []
+  type: TYPE_NORMAL
+- en: If you want a full deep dive into LLMs, check out [Andrej Karpathy’s videos](https://youtu.be/7xTGNNLPyMI).
+    As a founding member of OpenAI, he knows his stuff.
+  prefs:
+  - PREF_BQ
+  type: TYPE_NORMAL
+- en: Basic Models
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: LLMs (Large Language Models) are what we call “AI” today.
+  prefs: []
+  type: TYPE_NORMAL
+- en: When you chat with one, your text gets converted into “tokens” for processing.
+    Think of tokens as pieces of words – sometimes a full word, sometimes part of
+    one. For example, “chatting” might be broken into “chat” and “ting” as separate
+    tokens. This is how the AI digests text, with most models processing thousands
+    of tokens at once.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Each new chat starts a fresh “context window” that determines what tokens the
+    AI can access or remember. The more you chat with an AI, the larger the token
+    stream becomes, and if you go over the context window (ChatGPT 4o has a 128k token
+    context window) it can start to forget what’s inside because it gets pushed out.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Major players and models include:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: OpenAI (ChatGPT)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Anthropic (Claude)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Google (Gemini)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: xAI (Grok)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Meta (Llama)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: LeChat (Mistral)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Deepseek (V3)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: 'Each company releases improved models over time (like Claude Sonnet 3.7 or
+    ChatGPT 4.5). Models differ based on:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '**Pre-training**: Models learn from data that’s typically 6+ months old, which
+    means they don’t know recent events unless connected to search. It’s like they
+    read the internet until a specific date and then stopped.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: '**Post-training**: Determines personality and tone (compare ChatGPT 4o vs 4.5,
+    or try Grok’s “unfiltered mode”)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: '**Context Window**: The amount of text the AI can “remember” in one conversation.
+    Some models like Gemini can handle entire books at once, while others might forget
+    earlier parts of a long conversation.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: '**Pricing**: Ranges widely (Deepseek V3 and Gemini are cheaper than Claude)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Different models excel at different tasks. Claude Sonnet dominates writing and
+    programming, but using it for massive information processing could get expensive
+    compared to Gemini.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I’d recommend experimenting with free tiers or use a software that allows you
+    to switch between models to use any of them for the task you need. [Kortex](https://kortex.co)
+    has this feature coming this week.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Thinking Models
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: When basic models aren’t enough, “Reasoning” or “Thinking” models like ChatGPT
+    o1, Claude Sonnet 3.7 (in Thinking Mode), or Deepseek R1 provide extra processing
+    power.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'These models are more expensive but simulate human-like problem-solving with
+    visible “thinking” processes:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: <picture fetchpriority="high" decoding="async" class="wp-image-2543">![](../Images/7d92145cedec2d2c9b300a92c567cc63.png)</picture>
+  prefs: []
+  type: TYPE_NORMAL
+- en: They’re worth the cost when you need deeper analysis for complex writing or
+    specialized programming beyond basic basic knowledge.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Tools
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: 'Despite their capabilities, LLMs have limitations:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Can’t access current information
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Process one prompt at a time
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Are general-purpose unless specifically instructed
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Internet search and DeepResearch tools address these gaps. Perplexity stands
+    out as “Google Search on steroids” – delivering highly relevant information with
+    an excellent UI. I use this much more than Google search now.
+  prefs: []
+  type: TYPE_NORMAL
+- en: DeepResearch, available in Perplexity, ChatGPT, and others, combines internet
+    search with extended thinking capabilities. It spits out comprehensive research
+    and sources to explore and fact check, saving hours for writers and researchers
+    when properly instructed.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Wrappers
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: <picture decoding="async" class="wp-image-2545">![](../Images/dca257a654c6242ad6ec12bc72d428df.png)</picture>
+  prefs: []
+  type: TYPE_NORMAL
+- en: Wrappers integrate LLMs with specialized tools for specific workflows.
+  prefs: []
+  type: TYPE_NORMAL
+- en: These are what the majority of startups are building now, because they can take
+    basic models and make them more effective for specific use cases.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '**Perplexity**: Combines multiple LLMs with internet search ($80M ARR as of
+    January)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: '**Cursor**: Programming IDE with AI that can access your codebase (grew from
+    $1M to $100M ARR in under 2 years – faster than OpenAI)'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: '**Kortex**: A central hub for your work, notes, highlights, and ideas that
+    you can reference with AI fast.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: While you could use ChatGPT alongside your work, these specialized wrappers
+    have more prompt engineering and a different UI to make them more useful in specific
+    cases.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Think of OpenAI as the new Walmart and wrappers as the new health supplement
+    store.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Learn This New Skill — Prompt Engineering
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: Becoming “good” at AI is about shifting from tasks thinker to systems thinker.
+  prefs: []
+  type: TYPE_NORMAL
+- en: When you write prompts, or strings of prompts to achieve something like writing
+    15 social media posts, you are building a system in written text.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Similar to writing code:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: You have a vision for the project
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: You understand the steps to get there
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: You execute tasks to the best of your knowledge until it’s complete
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: AI doesn’t change the process of achieving something, it only helps do it faster,
+    with more knowledge available, and may help overcome or avoid blind spots as a
+    whole. It helps make higher quality decisions with speed.
+  prefs: []
+  type: TYPE_NORMAL
+- en: So, if you learn how to use AI, you can build faster, learn faster, and decrease
+    your chances of failure.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'But that presents a trap:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: AI doesn’t make up for a lack of competency.
+  prefs: []
+  type: TYPE_NORMAL
+- en: AI is not the get rich quick ticket you keep subconsciously looking for, and
+    probably the reason you are reading this.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Typing one sentence into AI hoping that it one shots whatever task you want
+    to complete is idiotic and will get you nowhere.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Of course, if you’re just searching for information to get a quick answer, popping
+    one sentence into Perplexity is just fine.
+  prefs: []
+  type: TYPE_NORMAL
+- en: But for most other use cases, you need something much longer and detailed.
+  prefs: []
+  type: TYPE_NORMAL
+- en: How To Write Banger Prompts
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: 'There are 2 types of prompts:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '**A system or meta prompt** – The first prompt you send to frame the entire
+    chat or task you are trying to achieve.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: '**Subsequent prompts** – Shorter prompts to refine the output or dig further.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: We will focus on meta prompts as that will make the most difference for you.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'A good meta prompt can be written in many ways, but I like to write them in
+    5 parts:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '**System** – assign a role and description of the task.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: '**Context** – reference information or an expectation of what you want to do.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: '**Instructions** – detailed instructions to accomplish the task.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: '**Examples (Optional)** – if you have specific examples, like social post templates,
+    you can add them like we will below.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: '**Constraints** – what to avoid or include that may not be taken into account.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: '**Output** – how you want the output to be formatted, different from examples.'
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Here’s an example of a content summarizer prompt I made to summarize books and
+    YouTube videos because most general AI summaries suck and don’t give you useful
+    information.
+  prefs: []
+  type: TYPE_NORMAL
+- en: This, on the other hand, gives me exactly what I need for deep and nuanced writing
+    when I want to reference a source for information.
+  prefs: []
+  type: TYPE_NORMAL
+- en: <picture decoding="async" class="wp-image-2537">![](../Images/9e81347c00b306fd2f9a10ee5085134c.png)</picture>
+  prefs: []
+  type: TYPE_NORMAL
+- en: The beautiful thing about this is that you can write the prompt once, store
+    it in a note or document in a software like Kortex, and reference it whenever
+    you need it.
+  prefs: []
+  type: TYPE_NORMAL
+- en: The even more beautiful thing is that [I have a prompt you can use to *write
+    better prompts for you.*](https://stan.store/thedankoe/p/prompt-library)
+  prefs: []
+  type: TYPE_NORMAL
+- en: Most of the prompts we discuss will be in there.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Yes it’s behind an email wall because I wanted to include them in a course style
+    platform with instructions.
+  prefs: []
+  type: TYPE_NORMAL
+- en: So, any time you want to create a prompt, paste the Meta Prompt Creator into
+    an AI tool first, preferably a reasoning model like Claude 3.7 or ChatGPT o1.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Now, you will have to refine this a few times to get it just right, so let’s
+    walk through the process.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'If I want AI to help me write a batch of viral social media posts, here’s what
+    I would do:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '**1) Give as much detail as you can.**'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Think of AI as an intelligent person who has *no specific information.*
+  prefs: []
+  type: TYPE_NORMAL
+- en: They can do something with decent quality if you ask them, but to make it incredible,
+    you need to give them specific instructions and details.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '**1.5) Or write a short guide to yourself on how you write posts.**'
+  prefs: []
+  type: TYPE_NORMAL
+- en: This may take some time, but remember, if you get the prompt right you can use
+    it over and over again—shaving hours upon hours off of your work time.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I pasted the Meta Prompt Creator into Claude Sonnet (soon to be inside Kortex
+    as well).
+  prefs: []
+  type: TYPE_NORMAL
+- en: Then, I took a [previous prompt I’d written myself](https://app.kortex.co/public/document/4db696c4-bbf3-4032-b0f1-8caa68c83f6b)
+    that I knew could be better into it.
+  prefs: []
+  type: TYPE_NORMAL
+- en: '**2) Test it out and refine.**'
+  prefs: []
+  type: TYPE_NORMAL
+- en: The initial output was okay. But I knew it could be better with examples.
+  prefs: []
+  type: TYPE_NORMAL
+- en: So, I searched through my own swipe file and searched X for my own top-performing
+    posts, along with posts I liked from others.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I added an “Examples” subsection under the “Instructions” section of the prompt
+    and tried again.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Much better results.
+  prefs: []
+  type: TYPE_NORMAL
+- en: <picture loading="lazy" decoding="async" class="wp-image-2538">![](../Images/51920ada973126cb9887380d47796818.png)</picture>
+  prefs: []
+  type: TYPE_NORMAL
+- en: '**3) Nail the output.**'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Sometimes AI can get messy with it’s formatting.
+  prefs: []
+  type: TYPE_NORMAL
+- en: For the social posts, it had them all jumbled together without line breaks or
+    separation. It worked, but I wanted them to all come out looking like actual posts.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Here’s an example of me asking kAI to use the social posts prompt to pull ideas
+    from my newsletter from 2 weeks ago.
+  prefs: []
+  type: TYPE_NORMAL
+- en: While the posts are decent and sound like me, I treat this as a way to pull
+    ideas that I would have *already pulled* from the newsletter. It’s easier to “think”
+    in tweets when you have potential tweets there.
+  prefs: []
+  type: TYPE_NORMAL
+- en: <picture loading="lazy" decoding="async" class="wp-image-2539">![](../Images/13ff0def3230403466fc0cd38daab664.png)</picture>
+    <picture loading="lazy" decoding="async" class="wp-image-2540">![](../Images/4f6879b18de8d56798f32e0fd6ff58e3.png)</picture>
+  prefs: []
+  type: TYPE_NORMAL
+- en: After you use this prompt a few times, continue to make subtle adjustments until
+    it is consistent.
+  prefs: []
+  type: TYPE_NORMAL
+- en: How To Save Hours Each Week – AI Use Cases
+  prefs:
+  - PREF_H2
+  type: TYPE_NORMAL
+- en: I cannot give up my writing.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I enjoy it too much (even though I had AI condense the first section of this
+    letter… I don’t like writing technical stuff).
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'So that got me thinking about what AI should be used for:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: '*AI should be used to enhance the creative work you love and automate the busy
+    work you hate.*'
+  prefs: []
+  type: TYPE_NORMAL
+- en: For some people their busy work may be writing. They may hate it. I don’t see
+    it as a problem if they want AI to spit out of a bunch of SEO articles or write
+    a bunch of social posts for them.
+  prefs: []
+  type: TYPE_NORMAL
+- en: AI should be used to help you focus on and perform better at your craft.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'So, in order to find out how AI can best help you, write this out:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: What do you do every day?
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Which parts do you love and not want to give up?
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Which parts do you hate and don’t require creativity?
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: How can you incorporate AI into your routine and build a library of prompts
+    to help you get through the work you hate faster?
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Even if AI doesn’t save you time on your creative work, does it matter? Because
+    better information increases the quality of that work.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Below are a few potential use cases, but there are many more that you can create
+    your own prompts for.
+  prefs: []
+  type: TYPE_NORMAL
+- en: When you create prompts, store them in your notes app so you can access them
+    fast.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Use Case 1 – The New Google Search
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: If AI models right now aren’t improving your productivity by at least 2x, you
+    are using them wrong, or haven’t changed your current habits to bias AI.
+  prefs: []
+  type: TYPE_NORMAL
+- en: For those around my age, you probably understand the struggle of your mom asking
+    you a question, and you immediately thinking, “Why doesn’t she just Google search
+    it?”
+  prefs: []
+  type: TYPE_NORMAL
+- en: As kids, my generation and those before me had a natural productivity superpower
+    because we had access to Google. We could find new opportunities, explore our
+    curiosity, and get answers to questions without digging through textbooks or sending
+    a letter to an expert who could answer it.
+  prefs: []
+  type: TYPE_NORMAL
+- en: That is a crazy amount of power that every individual has.
+  prefs: []
+  type: TYPE_NORMAL
+- en: This may seem like a “lame” AI use cases for you, but I ensure you it is the
+    most powerful out of any of them.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Imagine what Google search has done for your life, and multiply that affect
+    by 10x.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Here’s what you do:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Retrain your habits to open up an AI tool whenever you would ask Google a question.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Use a search tool like Perplexity to ask questions fast – you can also continue
+    adding to the search to dig deeper.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: When on your computer, use a tool like [Kortex](https://kortex.co/download)
+    where you can press Alt or Option+C to open up a floating AI chat as you’re working.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: When you get stuck in Photoshop, Canva, Figma, editing a video, writing a post,
+    programming, or whatever it is you are doing, choose the right model and ask your
+    question to overcome problems faster.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Use Case 2 – Learning Faster & Intellectual Sparring Partner
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: If success is a matter of having the right knowledge and implementing it, AI
+    can at least help with the first part.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'It doesn’t matter if you’re:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Learning a new language
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Trying to understand a dense book
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Attempting to find a specific piece of information in a PDF and summarize it
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: AI can be treated as an intellectual sparring partner.
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can paste chapters of a book into an AI model and ask it to dig deeper into
+    specific concepts as you read.
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can write a prompt that turns the AI into a language coach that teaches
+    and tests you on your progress.
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can feed models like Gemini an entire PDF and find the information you need
+    without scrolling through the pages or having a bookmark.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I’m going to write an entirely separate letter on how to read books with AI,
+    because I’ve heard some pretty stupid takes that “AI is going to make reading
+    books irrelevant.”
+  prefs: []
+  type: TYPE_NORMAL
+- en: Use Case 3 – Idea Generation For Creative Work Or Starting A Business
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: 'If you’re writing a book, newsletter, YouTube script, or anything that requires
+    creative ideas, there a few things you can do:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Feed AI a source of inspiration, like a book chapter or social post, and ask
+    it to break down the structure of it and why it works.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Give AI your target audience and ask it for 10 relevant pain points, 10 desires,
+    and 20 headline or post ideas based on each.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Create a prompt to write posts, outlines, or full pieces like we did above and
+    use those to pull potential ideas from. I have my newsletter and YT script prompt
+    inside of my [Prompts and Templates library.](https://thedankoe.com/links)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: As you’re writing, ask AI to rewrite specific sentences or sections in the voice
+    of another person, like a stoic philosopher, to get a different angle on the idea.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: When you’re looking to start something new, like a business or startup, there
+    are a lot of things to take into account. Is the idea viable? Is it worth pursuing?
+    Are there competitors in the market?
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can use or create prompts like a [Business Idea Analysis prompt](https://prompt-files.com/prompts/index.html)
+    to get all of the info at once. AI can research much faster than you.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Use Case 4 – Customer Avatar & Voice Analysis
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: If you’re a writer who doesn’t care to focus on marketing, write landing pages,
+    promotions, and other things, you can get pretty creative with this.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Extract a YouTube video and have a prompt that breaks down the structure, style,
+    and voice to write YouTube scripts based on that.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Create a customer avatar that you can reference anytime you go to create marketing
+    materials with AI. Like taking the YouTube script above and having it create content
+    specifically for your customer avatar.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Lastly, and my favorite, is creating a [full voice analysis](https://app.kortex.co/public/document/115739af-596f-46fb-95b7-56a18fb76e7a)
+    based on a reference piece of writing.
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can feed any book chapter, newsletter, or transcript into the extensive
+    voice analysis prompt, then store that in your notes for later.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Then, you can pair that with something like an outline framework, a few ideas,
+    and have AI write exactly as that person would.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Pretty insane. Seriously, try this one.
+  prefs: []
+  type: TYPE_NORMAL
+- en: Use Case 5 – Personal Growth & Clarity
+  prefs:
+  - PREF_H3
+  type: TYPE_NORMAL
+- en: I think most of you have seen how great the Strategic Advisor prompt was from
+    previous letters and videos.
+  prefs: []
+  type: TYPE_NORMAL
+- en: But you can use it for much more than that.
+  prefs: []
+  type: TYPE_NORMAL
+- en: You can have it break down your goals into actionable tasks and habits.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: You can journal straight into AI and ask it to tell you about yourself, the
+    good and bad.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: You can have it [identify the root cause of your problems](https://prompt-files.com/prompts/index.html)
+    and give you an insight to fix them.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: You can have AI become a logical problem solver to remove your emotions from
+    the mix.
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: I’ll stop here as I’m just spamming you with potential use cases now, it will
+    probably get overwhelming.
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'What I want you to do is this:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: 'Think about the things that you need to do, but don’t want to do like:'
+  prefs: []
+  type: TYPE_NORMAL
+- en: Writing blog posts for SEO
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Staying active on social media (creative writing isn’t for everyone)
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: Booking flights, hiring a personal assistant, or organizing tasks
+  prefs:
+  - PREF_UL
+  type: TYPE_NORMAL
+- en: And start to think big picture about the series of prompts you can create that
+    helps you get through those things faster, or completely automate them all together.
+  prefs: []
+  type: TYPE_NORMAL
+- en: I hope this letter was helpful, and I hope you have some cool things to try
+    🙂
+  prefs: []
+  type: TYPE_NORMAL
