@@ -208,7 +208,7 @@ Mihaly Csikszentmihalyi，畅销书《心流》的作者，也是心流心理学
 
 在这个甜蜜点上，你的技能足以应对任何给定情境的挑战。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2061">![](img/8f18ed9440b60be2d4d53b8f1bde0c81.png)</picture>
+![](img/8f18ed9440b60be2d4d53b8f1bde0c81.png)
 
 你以前经历过...
 
@@ -396,7 +396,7 @@ Mihaly Csikszentmihalyi，畅销书《心流》的作者，也是心流心理学
 
 而不是只有一个有意义的事情占据他们的注意力，有 10 种消极的想法有可能分裂成 100 种。比如你感到胸部疼痛，然后想到爷爷的心脏病发作，你忽视吃的 10 种不同的心脏健康食品，以及早逝可能对你的家庭产生的影响。
 
-<picture decoding="async" class="wp-image-2066">![](img/ee8618ef6b4712b0e5e1dec53f3c5abe.png)</picture>
+![](img/ee8618ef6b4712b0e5e1dec53f3c5abe.png)
 
 我想让你把你的大脑想象成一个超级计算机。
 
@@ -444,7 +444,7 @@ Mihaly Csikszentmihalyi，畅销书《心流》的作者，也是心流心理学
 
 有更高和更低的状态意识，它们都不是“更好”的……它们只是“存在”，但在某些时候，更高的意识状态可能更可取，比如进行深度工作时进入心流状态。
 
-<picture decoding="async" class="wp-image-2067">![](img/a667fbe2c1caa663f983c0404adb7bbb.png)</picture>
+![](img/a667fbe2c1caa663f983c0404adb7bbb.png)
 
 睡眠、醉酒、兴奋、焦虑、做梦、压力、无聊或不知所措都是意识或无意识、开放或狭窄心态的连续体。
 
@@ -456,7 +456,7 @@ Mihaly Csikszentmihalyi，畅销书《心流》的作者，也是心流心理学
 
 阶段或水平代表你的发展基础。你仍然可以到达较低的状态，但你很快就会回到基础水平，并且倾向于停留在你的发展阶段。
 
-<picture loading="lazy" decoding="async" class="wp-image-2068">![](img/2b0b1c4401075300ae4b78fd963715b4.png)</picture>
+![](img/2b0b1c4401075300ae4b78fd963715b4.png)
 
 那么，是什么导致我们内心出现混乱状态，让我们觉得生活正在崩溃？
 

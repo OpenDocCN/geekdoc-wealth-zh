@@ -54,7 +54,7 @@
 
 ## 为什么是写作？
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1763">![](img/d5f3a1fb0160b7464c1e1f51dbc08892.png)</picture>
+![](img/d5f3a1fb0160b7464c1e1f51dbc08892.png)
 
 媒体的未来是去中心化的。
 

@@ -64,7 +64,7 @@
 
 ### 拥有型分发的实现
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1416">![](img/191214d43747aa8c07676eb302d27f24.png)</picture>
+![](img/191214d43747aa8c07676eb302d27f24.png)
 
 我与许多高级企业家建立了联系并关注他们。
 

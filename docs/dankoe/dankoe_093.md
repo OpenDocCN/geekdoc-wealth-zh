@@ -44,7 +44,7 @@
 
 ### 就业的心理学与危险
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1362">![](img/554041d72500cd418eacd92d8971282f.png)</picture>
+![](img/554041d72500cd418eacd92d8971282f.png)
 
 我认为朝九晚五的工作是一个垫脚石。
 
@@ -294,7 +294,7 @@
 
 ## 如何创造你自己的职业生涯
 
-<picture decoding="async" class="wp-image-1692">![](img/d7985688f7a206534d320653c2ed85ed.png)</picture>
+![](img/d7985688f7a206534d320653c2ed85ed.png)
 
 好奇心导致学习。
 

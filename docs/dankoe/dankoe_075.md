@@ -202,7 +202,7 @@
 
 ## 创业是现代生存之道
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1362">![](img/554041d72500cd418eacd92d8971282f.png)</picture>
+![](img/554041d72500cd418eacd92d8971282f.png)
 
 对于长期思考者来说，创业是唯一合理的选项。
 

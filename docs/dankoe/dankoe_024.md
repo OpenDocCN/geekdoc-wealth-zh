@@ -130,7 +130,7 @@
 
 **你可以选择无数条道路**
 
-<picture fetchpriority="high" decoding="async" class="wp-image-880">![](img/30c2b936f80377cd6224a1c6ff60a5fa.png)</picture>
+![](img/30c2b936f80377cd6224a1c6ff60a5fa.png)
 
 在《魔兽世界》中，你有一系列的选择需要做出：
 

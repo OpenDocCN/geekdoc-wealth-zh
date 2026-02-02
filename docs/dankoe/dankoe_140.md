@@ -6,7 +6,7 @@
 
 这张图表是你将在本信的结尾学会掌握的内容：
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2198">![](img/665d51f8424df3b002623e6a6104be10.png)</picture>
+![](img/665d51f8424df3b002623e6a6104be10.png)
 
 这封信是为初学者准备的，因为我感觉在 60 天内赚取 1000 美元是合情合理的，但如果你不是初学者，你将学会的东西在 60 天内可以让你赚取比这更多的钱。
 
@@ -98,7 +98,7 @@
 
 大多数时候，它涉及到创建某种类型的主题树。
 
-<picture decoding="async" class="wp-image-2196">![](img/7f0082d539834486ba3a415ca5b8f1a3.png)</picture>
+![](img/7f0082d539834486ba3a415ca5b8f1a3.png)
 
 这仍然很有用，我鼓励你使用它，但我希望让事情变得稍微容易一点。
 
@@ -230,7 +230,7 @@
 
 这是一个微型文章的例子：
 
-<picture decoding="async" class="wp-image-2197">![](img/53288acf63cd01244b8637bf31d871bb.png)</picture>
+![](img/53288acf63cd01244b8637bf31d871bb.png)
 
 对于短或长帖子来说，美丽之处在于你可以将它们发布到任何平台。只需确保图像的尺寸是 4×5，这样它们就可以适合 Instagram。
 

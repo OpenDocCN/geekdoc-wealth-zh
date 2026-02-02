@@ -284,7 +284,7 @@
 
 这种发展进程可以通过臭名昭著的钟形曲线梗最好地说明：
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1314">![](img/b1bd4b4ff236c5bf0b7bc234ca704114.png)</picture>
+![](img/b1bd4b4ff236c5bf0b7bc234ca704114.png)
 
 当人们在生活的任何领域开始自我发展时，他们会依附于特定教义和相关的意识形态原则。
 
@@ -346,7 +346,7 @@
 
 ### 不要细分市场——将你的品牌视为一个实现等级制度
 
-<picture decoding="async" class="wp-image-1315">![](img/5ec1fbea6b4d016ecb8e8cee364426d4.png)</picture>
+![](img/5ec1fbea6b4d016ecb8e8cee364426d4.png)
 
 你是复杂的。
 
@@ -454,7 +454,7 @@
 
 **1) 确定导致你愿景的 2-3 个主题**
 
-<picture decoding="async" class="wp-image-1316">![](img/c47af8cfcbbfbf1c1876cff43e4f5619.png)</picture>
+![](img/c47af8cfcbbfbf1c1876cff43e4f5619.png)
 
 确定你想要的生活，以及你引导追随者走向的目标。
 

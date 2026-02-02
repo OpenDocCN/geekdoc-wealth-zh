@@ -70,7 +70,7 @@
 
 ## 如何找到一个价值一百万美元的想法——要构建什么产品
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2479">![](img/a054faf8c1b88db4a53820c412fcbba2.png)</picture>
+![](img/a054faf8c1b88db4a53820c412fcbba2.png)
 
 这里有一个让你感到震惊的想法：
 
@@ -226,7 +226,7 @@
 
 您可以去 Charisma On Command 的 YouTube 频道，研究他们的视频标题，并挑选出一些明显比其他视频做得更好的。
 
-<picture decoding="async" class="wp-image-2473">![](img/d3d5e88d3e59328e6827aa4500eb2db3.png)</picture>
+![](img/d3d5e88d3e59328e6827aa4500eb2db3.png)
 
 如果您查看他们的顶级视频，您可以立刻看出，有趣、自信、不缺乏安全感是人们*真正*想要的。
 
@@ -246,7 +246,7 @@
 
 ## 如何营销和构建产品
 
-<picture decoding="async" class="wp-image-2481">![](img/a8910c9a3d2c3847395486653c074274.png)</picture>
+![](img/a8910c9a3d2c3847395486653c074274.png)
 
 大多数人浪费 2-3 个月的时间来构建一个产品，结果它从未被推出，更糟糕的是，从未卖出任何东西。
 
@@ -484,7 +484,7 @@ Stronglifts 5×5 是一个个人系统，现在已成为大多数健身房新手
 
 我知道这是一个经过验证的想法，因为我事先研究了 YouTube。人们*想要*长时间专注。
 
-<picture loading="lazy" decoding="async" class="wp-image-2474">![](img/b487e4bec53a280048461478ab691959.png)</picture>
+![](img/b487e4bec53a280048461478ab691959.png)
 
 现在我们有了软营销计划和提供概述，我们需要决定我们如何交付实际提供。
 
@@ -568,7 +568,7 @@ Stronglifts 5×5 是一个个人系统，现在已成为大多数健身房新手
 
 有很多种方法可以做到这一点，我建议你进行研究，但以下是我构建页面的方式：
 
-<picture loading="lazy" decoding="async" class="wp-image-2475">![](img/f54fb4a17ae364fce0e874de628d665d.png)</picture>
+![](img/f54fb4a17ae364fce0e874de628d665d.png)
 
 再次强调，构建和托管这些产品的最佳方式是在[像 Stan 这样的平台上](https://join.stan.store/thedankoe)。
 

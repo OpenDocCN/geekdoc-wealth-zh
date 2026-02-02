@@ -66,7 +66,7 @@
 
 ## 闭塞性的迹象
 
-<picture fetchpriority="high" decoding="async" class="wp-image-973">![](img/1f47e18cb4d18a491727fbdc68698a72.png)</picture>
+![](img/1f47e18cb4d18a491727fbdc68698a72.png)
 
 思想狭隘是无法在任何情况下超越你狭隘观点的能力。
 

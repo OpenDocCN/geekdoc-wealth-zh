@@ -48,7 +48,7 @@
 
 但当我们深入挖掘现实的四个维度时，我们发现了一个更有用的应用，它超越了过去十年困扰我们的浅薄的自助解释。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2746">![](img/ac2257e0b35e8a2614efa046ceb5b221.png)</picture>
+![](img/ac2257e0b35e8a2614efa046ceb5b221.png)
 
 现实性的四个维度或视角是：
 
@@ -62,7 +62,7 @@
 
 我将这些称为“维度”，因为它们各自都按照自然发展的复杂性和深度层次递增 – 就像外部四象限从原子到分子到细胞到生物体，内部则从以自我为中心到以民族为中心再到以世界为中心的价值体系。
 
-<picture decoding="async" class="wp-image-2745">![](img/b3fe1ea042f9c594305bd9c9d4b14b47.png)</picture>
+![](img/b3fe1ea042f9c594305bd9c9d4b14b47.png)
 
 西方思想倾向于重视客观、科学和物质主义，这影响了主观 – 我们成长的文化，它影响我们对世界的看法。我们将世界简化为原子，追求物质成功。
 
@@ -118,7 +118,7 @@
 
 “发展线”就像视频游戏中技能树上的能力。
 
-<picture decoding="async" class="wp-image-2744">![](img/49340b0af6f8d934bbca7fb3a954e164.png)</picture>
+![](img/49340b0af6f8d934bbca7fb3a954e164.png)
 
 一旦你达到一定水平的经验，你可以选择为像智力、耐力这样的特质添加“点”。这样做会解锁更多的机会。它通过用深层问题替换浅层问题来使生活变得更简单。
 

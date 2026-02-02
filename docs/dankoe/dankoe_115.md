@@ -2,7 +2,7 @@
 
 > 原文：[`thedankoe.com/letters/the-1-million-dollar-creative-how-to-monetize-your-interests/`](https://thedankoe.com/letters/the-1-million-dollar-creative-how-to-monetize-your-interests/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2005">![](img/b2e02f866232d58e5db00c799b19bdb6.png)</picture>
+![](img/b2e02f866232d58e5db00c799b19bdb6.png)
 
 我小时候曾被欺骗过。
 
@@ -98,7 +98,7 @@
 
 ## 一百万美元的创意者
 
-<picture decoding="async" class="wp-image-2004">![](img/e1b999077a31eb0892f5a2aa09fb29fe.png)</picture>
+![](img/e1b999077a31eb0892f5a2aa09fb29fe.png)
 
 我一直相信激情是在一项特定的技能中找到的。
 

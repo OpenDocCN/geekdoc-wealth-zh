@@ -2,7 +2,7 @@
 
 > 原文：[`thedankoe.com/letters/the-power-of-long-walks-daily-walks-will-change-your-life/`](https://thedankoe.com/letters/the-power-of-long-walks-daily-walks-will-change-your-life/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2026">![](img/2e749c151dcda272a47d0748e8dd19be.png)</picture>
+![](img/2e749c151dcda272a47d0748e8dd19be.png)
 
 我曾经***讨厌***走路。
 

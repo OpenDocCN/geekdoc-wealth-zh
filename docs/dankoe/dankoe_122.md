@@ -82,7 +82,7 @@
 
 ## 自律源于清晰，而非强制
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1976">![](img/9ed52e958e8c98cca816235c04ce948d.png)</picture>
+![](img/9ed52e958e8c98cca816235c04ce948d.png)
 
 大多数人都不理解自律。
 

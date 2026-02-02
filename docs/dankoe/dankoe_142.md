@@ -214,7 +214,7 @@ LinkedIn 有最多的资金，但它相当无聊且专业。
 
 这是你将获得关于要写什么和要卖什么的想法的地方。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2371">![](img/449d02ad0824c3adc6d69e40160d9f58.png)</picture>
+![](img/449d02ad0824c3adc6d69e40160d9f58.png)
 
 从那里，按照上面的截图操作。
 

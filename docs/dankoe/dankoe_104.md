@@ -88,7 +88,7 @@
 
 ## 生活的宏观周期——为什么你总是感到迷茫
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1856">![](img/7955a53a9990577250becdff2f5ba82c.png)</picture>
+![](img/7955a53a9990577250becdff2f5ba82c.png)
 
 你感到迷茫，因为你不知道接下来该做什么。
 
@@ -202,7 +202,7 @@
 
 ## 数字文艺复兴
 
-<picture decoding="async" class="wp-image-1857">![](img/0db151e65261fd3dbd55e50222bfd81b.png)</picture>
+![](img/0db151e65261fd3dbd55e50222bfd81b.png)
 
 我们正在经历第二个黄金时代，它属于那些重视：
 

@@ -48,7 +48,7 @@
 
 ## 数字杠杆
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1899">![](img/d687921474d56a1684df0f3219652cd8.png)</picture>
+![](img/d687921474d56a1684df0f3219652cd8.png)
 
 社交媒体为任何人去做他们热爱的事情创造了条件。
 

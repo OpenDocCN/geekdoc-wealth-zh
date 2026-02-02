@@ -54,7 +54,7 @@
 
 ## 数字世界没有障碍
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1010">![](img/97704700e7ddea480870675ba40e0703.png)</picture>
+![](img/97704700e7ddea480870675ba40e0703.png)
 
 在过去，通往顶峰的唯一途径是通过你的人脉。
 

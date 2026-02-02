@@ -34,7 +34,7 @@
 
 ## 如何弄清楚你生活中想要什么
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2416">![](img/1dd4c789661d67c7448ca3db2d52e247.png)</picture>
+![](img/1dd4c789661d67c7448ca3db2d52e247.png)
 
 人类是自然的多面手。
 
@@ -78,7 +78,7 @@
 
 ### 自然指南针
 
-<picture decoding="async" class="wp-image-2417">![](img/3282f30bf7c89bc4f221dc54f5275fa3.png)</picture>
+![](img/3282f30bf7c89bc4f221dc54f5275fa3.png)
 
 问题是，你与众不同。
 

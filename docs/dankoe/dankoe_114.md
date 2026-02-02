@@ -120,7 +120,7 @@
 
 ## 为什么通才在创作者经济中蓬勃发展
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1993">![](img/289f684cab189d26f21d5740a6d7c9a9.png)</picture>
+![](img/289f684cab189d26f21d5740a6d7c9a9.png)
 
 只有奴隶才会被期望一生只做一项任务。
 
@@ -218,7 +218,7 @@
 
 ## 如何成为一名通才
 
-<picture decoding="async" class="wp-image-1994">![](img/61bbeced457e850be0cbb59f5d53d0bb.png)</picture>
+![](img/61bbeced457e850be0cbb59f5d53d0bb.png)
 
 成为通才以谋生的第一步是选择一条不会将你局限于一种特定技能或兴趣的职业道路。
 

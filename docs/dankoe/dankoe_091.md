@@ -2,7 +2,7 @@
 
 > 原文：[`thedankoe.com/letters/the-anti-niche-why-being-nicheless-makes-you-irreplaceable/`](https://thedankoe.com/letters/the-anti-niche-why-being-nicheless-makes-you-irreplaceable/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1652">![](img/ada0e2616d7d8d7c5aa335dfaa0c621a.png)</picture>
+![](img/ada0e2616d7d8d7c5aa335dfaa0c621a.png)
 
 我在经历了多年的痛苦之后才意识到这一点。
 
@@ -78,7 +78,7 @@
 
 ## 《最赚钱的细分市场就是你》（将你的思维产品化）
 
-<picture decoding="async" class="wp-image-1653">![](img/9af7a7b630d22bf5887c51ec08665c78.png)</picture>
+![](img/9af7a7b630d22bf5887c51ec08665c78.png)
 
 大多数人没有意识到他们属于一个非常特定的细分市场。
 
@@ -124,7 +124,7 @@
 
 ### “利基”是一种世界观或视角
 
-<picture decoding="async" class="wp-image-1654">![](img/804825ab5735aa78b9cc4284b44a70f2.png)</picture>
+![](img/804825ab5735aa78b9cc4284b44a70f2.png)
 
 让我们分析一下“利基”实际上是什么。
 

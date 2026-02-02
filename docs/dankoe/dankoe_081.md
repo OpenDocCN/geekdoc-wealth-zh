@@ -80,7 +80,7 @@
 
 它们都有其好处，并改变了我们大脑的运作方式。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-923">![](img/97a9cc4cdb34a7d6be521e68b2ee64c0.png)</picture>
+![](img/97a9cc4cdb34a7d6be521e68b2ee64c0.png)
 
 当我们分心于干扰时，我们增加了熵增——陷入混乱的机会。心理熵是指心灵倾向于无序的意识状态。
 
@@ -110,7 +110,7 @@
 
 如果我们想在意识中保持秩序，就必须有一个技能挑战匹配。
 
-<picture decoding="async" class="wp-image-889">![](img/54b7637af6648b2b93f2bd5248e3d364.png)</picture>
+![](img/54b7637af6648b2b93f2bd5248e3d364.png)
 
 如果挑战超出了你的技能范围，你会感到焦虑。
 
@@ -222,7 +222,7 @@
 
 ## 自我帮助：如何重塑自我（你的角色）
 
-<picture decoding="async" class="wp-image-1405">![](img/0b45017d26ffd2bcbc736d3b42393f02.png)</picture>
+![](img/0b45017d26ffd2bcbc736d3b42393f02.png)
 
 生活是一场游戏。
 
@@ -362,7 +362,7 @@
 
 你是否在进行价值交换的互利？产品换钱？或者，你通过不生产任何东西来换取你所获取的价值，从而耗尽你的注意力，超负荷你的大脑，浪费你的创造力？
 
-<picture loading="lazy" decoding="async" class="wp-image-820">![](img/75ba6da0a10209fe7aa743204651f0e0.png)</picture>
+![](img/75ba6da0a10209fe7aa743204651f0e0.png)
 
 ### 品牌——你是最有利可图的细分市场
 

@@ -56,7 +56,7 @@
 
 然后根据反馈再次行动。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2269">![](img/2993d9b7c72516dfeaf147fa9a6a7502.png)</picture>
+![](img/2993d9b7c72516dfeaf147fa9a6a7502.png)
 
 **你可以根据系统在试错中迭代和坚持的能力来判断智慧**。
 

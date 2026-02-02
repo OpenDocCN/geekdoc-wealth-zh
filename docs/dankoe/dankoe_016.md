@@ -82,7 +82,7 @@
 
 但是，这个神秘的焦点光谱也有负面方面。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-923">![](img/97a9cc4cdb34a7d6be521e68b2ee64c0.png)</picture>
+![](img/97a9cc4cdb34a7d6be521e68b2ee64c0.png)
 
 就像当你专注于一个问题，它就会扩展并占据你的注意力。这会关闭你的思维，对潜在的创造性解决方案视而不见。一个小问题很快就会成为你的整个世界。
 
@@ -172,7 +172,7 @@
 
 ## 四小时哲学——我专注工作的十诫
 
-<picture decoding="async" class="wp-image-924">![](img/480b5405931b8d03c8190f9a9ce54b13.png)</picture>
+![](img/480b5405931b8d03c8190f9a9ce54b13.png)
 
 人类在概念层面上生存。
 
@@ -264,7 +264,7 @@
 
 这确保了我的业务持续增长，可持续的销售也在不断进行。
 
-<picture decoding="async" class="wp-image-925">![](img/4785a0d8e92dc4858dac3459cb984323.png)</picture>
+![](img/4785a0d8e92dc4858dac3459cb984323.png)
 
 这也有助于将这些具体化，比如“写 1000 个字”。
 

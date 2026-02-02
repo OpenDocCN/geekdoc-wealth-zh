@@ -2,7 +2,7 @@
 
 > 原文：[`thedankoe.com/letters/the-uncertainty-crisis-why-everyone-feels-so-lost/`](https://thedankoe.com/letters/the-uncertainty-crisis-why-everyone-feels-so-lost/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2158">![](img/e7d1f8ce9cf23405e9817ae7c192373c.png)</picture>
+![](img/e7d1f8ce9cf23405e9817ae7c192373c.png)
 
 每次妈妈打电话给我，她都会问：
 
@@ -256,7 +256,7 @@
 
 ## 信息时代的机会
 
-<picture decoding="async" class="wp-image-2159">![](img/66abd96eee29b10ecf3e1d1d9cce6964.png)</picture>
+![](img/66abd96eee29b10ecf3e1d1d9cce6964.png)
 
 这并不是为了让你用虚无主义来安慰自己保持现状的日常剂量。
 
@@ -670,7 +670,7 @@
 
 **1) 制定全面的未来规划**
 
-<picture decoding="async" class="wp-image-2160">![](img/ac9e9066d81dfad2e3469a44a0bfab9a.png)</picture>
+![](img/ac9e9066d81dfad2e3469a44a0bfab9a.png)
 
 你需要有一个愿景和反愿景。
 

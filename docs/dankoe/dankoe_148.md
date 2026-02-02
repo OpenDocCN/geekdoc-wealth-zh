@@ -62,7 +62,7 @@
 
 ## 如何形成自己的观点
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2446">![](img/17c22219e1bbae3e3efbc60f8602b4b2.png)</picture>
+![](img/17c22219e1bbae3e3efbc60f8602b4b2.png)
 
 你没有自己的观点，因为你的生存依赖于同意他人的观点。
 

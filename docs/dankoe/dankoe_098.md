@@ -214,7 +214,7 @@
 
 随着你扩展和超越到新的心态层次，你行动背后的推理变得更加全面。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1549">![](img/9017dae355b54dd7aba2da3798fa4bd9.png)</picture>
+![](img/9017dae355b54dd7aba2da3798fa4bd9.png)
 
 你的心态决定了你的价值观。
 

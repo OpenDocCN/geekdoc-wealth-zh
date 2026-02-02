@@ -92,7 +92,7 @@
 
 这里有一个我自己的例子，这是许多人加入数字经济学（我的课程）的决定性因素：
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1469">![](img/a2e0b698f0489da91e7fa6b9a72c2d27.png)</picture>
+![](img/a2e0b698f0489da91e7fa6b9a72c2d27.png)
 
 ### 2) 模式中断
 
@@ -136,7 +136,7 @@
 
 我前几天谈到了健身者。即使人们不认为自己是健身者，这也帮助他们描绘出一个他们可以与之产生共鸣的画面：
 
-<picture decoding="async" class="wp-image-1470">![](img/84df818ba6e0463d5a4dccecb518a79f.png)</picture>
+![](img/84df818ba6e0463d5a4dccecb518a79f.png)
 
 如果有人谈论做父亲，我仍然能够产生共鸣，因为总有一天我会成为父亲。我仍然会关注并采纳这些建议。
 
@@ -154,7 +154,7 @@
 
 这里有一个简单地将“感觉糟糕”作为痛点的例子：
 
-<picture decoding="async" class="wp-image-1471">![](img/cd5eea07d5e608395067dc41545fe1df.png)</picture>
+![](img/cd5eea07d5e608395067dc41545fe1df.png)
 
 ### 6) 潜在的好处
 
@@ -170,7 +170,7 @@
 
 贾斯汀·韦尔士是这方面的当前王者：
 
-<picture loading="lazy" decoding="async" class="wp-image-1472">![](img/bfe0a591b401b5b91cc29cc54ddadad8.png)</picture>
+![](img/bfe0a591b401b5b91cc29cc54ddadad8.png)
 
 使用社会证据来说明你试图表达的观点。
 
@@ -210,7 +210,7 @@
 
 这里有一个例子，展示了我对自己所说内容的自信：
 
-<picture loading="lazy" decoding="async" class="wp-image-1473">![](img/51818d471fcdd77d903d7ee74ddded5c.png)</picture>
+![](img/51818d471fcdd77d903d7ee74ddded5c.png)
 
 这条推文被一个大型的时事通讯特写，并引发了很多争议。
 
@@ -232,7 +232,7 @@
 
 这里还有一个——稍微极端一点的——例子。你能感觉到屏幕上流动的激励和实用能量吗？
 
-<picture loading="lazy" decoding="async" class="wp-image-1474">![](img/eacc886e87e8e9a1924ca4d2d060afb7.png)</picture>
+![](img/eacc886e87e8e9a1924ca4d2d060afb7.png)
 
 顺便说一句，这类高能量建议帖子能吸引很多关注者。
 
@@ -260,7 +260,7 @@
 
 这引发了很多争议，但我有研究来支持这一点，并在回复中提供了细节，以与我的观众建立更深的联系：
 
-<picture loading="lazy" decoding="async" class="wp-image-1475">![](img/425dd8c17d7c4ce6cc57503d7752b5a4.png)</picture>
+![](img/425dd8c17d7c4ce6cc57503d7752b5a4.png)
 
 ## 什么是吸引注意力的因素？
 
@@ -290,7 +290,7 @@
 
 以下是一个包含上述所有内容的示例：
 
-<picture loading="lazy" decoding="async" class="wp-image-1476">![](img/7d113d928c849dcb49212f739b2ca9a9.png)</picture>
+![](img/7d113d928c849dcb49212f739b2ca9a9.png)
 
 ### 2) 新颖的视角
 
@@ -306,7 +306,7 @@
 
 我在读一篇文章时，了解到一杯水可以产生一英亩的雾，并将这个观点应用到我的一个子主题——正念上。
 
-<picture loading="lazy" decoding="async" class="wp-image-1477">![](img/bad79dd99be244146afab487f4caf2e6.png)</picture>
+![](img/bad79dd99be244146afab487f4caf2e6.png)
 
 内容**消费**（或研究）很重要。具体来说，书籍、有声书、播客或文章。这些会给你提供关于你热爱谈论的事物的不同视角。
 

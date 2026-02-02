@@ -16,7 +16,7 @@
 
 上个月，Fiverr 的 CEO 向他的团队发送了一封电子邮件。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2680">![](img/22b92e5a4b3127e5334b775cc0f9d6b3.png)</picture>
+![](img/22b92e5a4b3127e5334b775cc0f9d6b3.png)
 
 虽然我对 Fiverr 有一些假设，考虑到大多数 Fiverr 的工作都是过时的 AI 质量（开火），但也有一些有趣的关键点：
 

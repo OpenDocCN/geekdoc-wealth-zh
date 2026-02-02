@@ -74,7 +74,7 @@
 
 ## 不可替代的个体
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1876">![](img/862895a3dadc21e14d5d437766528f1d.png)</picture>
+![](img/862895a3dadc21e14d5d437766528f1d.png)
 
 预知未来是不可能的。
 
@@ -200,7 +200,7 @@
 
 ## 数字文艺复兴
 
-<picture decoding="async" class="wp-image-1881">![](img/4408e027cf459b7a8a3697c198636d3c.png)</picture>
+![](img/4408e027cf459b7a8a3697c198636d3c.png)
 
 大多数人并不试图成为任何技能的前 5%，因为他们没有意识到那 95%的人只是在父母或社会告诉他们做什么的时候才会付出 0%的努力。
 

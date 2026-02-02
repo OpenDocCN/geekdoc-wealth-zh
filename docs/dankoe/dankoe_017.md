@@ -76,7 +76,7 @@
 
 ## 为盈利堆叠常青技能
 
-<picture fetchpriority="high" decoding="async" class="wp-image-945">![](img/db8f53c722608943fa50a5435986a61b.png)</picture>
+![](img/db8f53c722608943fa50a5435986a61b.png)
 
 如果你关注以成功为导向的社交媒体账户，你可能被要求学习某些技能。
 

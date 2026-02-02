@@ -198,7 +198,7 @@
 
 ### 3) 基础为王
 
-<picture fetchpriority="high" decoding="async" class="wp-image-752">![](img/79755d1f4ac63d0036ceb23f72bd56b9.png)</picture>
+![](img/79755d1f4ac63d0036ceb23f72bd56b9.png)
 
 在商业中，你需要两样东西：
 

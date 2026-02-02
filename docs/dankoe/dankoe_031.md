@@ -54,7 +54,7 @@
 
 媒体是互联网的前端。它是如何在一片自我贬低和毫无价值的内容海洋中捕捉、保持和转化注意力的方式。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-711">![](img/0c879d7451fd3e20f5dff970d6d5754d.png)</picture>
+![](img/0c879d7451fd3e20f5dff970d6d5754d.png)
 
 媒体的基础是写作。
 

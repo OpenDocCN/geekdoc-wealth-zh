@@ -60,7 +60,7 @@
 
 我可能无法给你一条通往更多金钱、激情和满足感的确切路径——但我可以给你一个大致的指南。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-645">![](img/208f7cdf8405fa9e7334b0f436bf0f7e.png)</picture>
+![](img/208f7cdf8405fa9e7334b0f436bf0f7e.png)
 
 在人生的新道路上迈出第一步，你需要的是*教育*。
 
@@ -204,7 +204,7 @@
 
 你可以通过[出售一个创意解决方案](https://thedankoe.com/how-to-make-money-as-a-creative-on-the-internet/)来实现这一点，这将帮助某人更快地导航你的道路。
 
-<picture decoding="async" class="wp-image-605">![](img/4cb358f849ef5ede17c10ff80c72a818.png)</picture>
+![](img/4cb358f849ef5ede17c10ff80c72a818.png)
 
 有趣的是——通过帮助他人达到你所在的发展阶段（无论是免费还是付费），你被迫组织信息并建立联系。
 

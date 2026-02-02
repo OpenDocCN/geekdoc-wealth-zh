@@ -56,7 +56,7 @@
 
 你可以在任何时刻进入心流状态的各个层次。你需要一个期望的结果，对如何达到那里的清晰认识，以及与你技能相匹配的挑战。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-554">![](img/27b1a40ab468635b27d4ec24bfb45ca0.png)</picture>
+![](img/27b1a40ab468635b27d4ec24bfb45ca0.png)
 
 最佳体验
 
@@ -68,7 +68,7 @@
 
 ## 在你想要生活的世界中创造你想要玩的游戏
 
-<picture decoding="async" class="wp-image-553">![](img/e88711e08829d2684bf5fb5d4d5a2193.png)</picture>
+![](img/e88711e08829d2684bf5fb5d4d5a2193.png)
 
 生命游戏
 

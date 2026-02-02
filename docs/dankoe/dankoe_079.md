@@ -72,7 +72,7 @@
 
 ## 你不需要更多的建议，你需要改变自己
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1384">![](img/a72a814947e6009a1896bf5d558b300d.png)</picture>
+![](img/a72a814947e6009a1896bf5d558b300d.png)
 
 你没有实现目标的原因是你不是那个能够实现目标的人。
 
@@ -222,7 +222,7 @@
 
 ## 自我实验的力量（如何永久解决问题）
 
-<picture decoding="async" class="wp-image-1385">![](img/e14fb76e2d3ee88d9073bcca21ba5cb5.png)</picture>
+![](img/e14fb76e2d3ee88d9073bcca21ba5cb5.png)
 
 自我实验是解决你问题的唯一方法。
 

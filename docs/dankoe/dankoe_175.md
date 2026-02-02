@@ -76,7 +76,7 @@
 
 很明显，我们的思维——我们的价值观、信仰和世界观，这些在很大程度上影响我们的思考和决策——随着时间的推移会通过可预测的阶段进化。这些阶段可以分为第一层次意识和第二层次意识。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2717">![](img/2844ed0c03a8f659e842b7e4951dbd35.png)</picture>
+![](img/2844ed0c03a8f659e842b7e4951dbd35.png)
 
 *第一层次思维者的决定性因素是他们无法持有多个观点。他们的信仰是正确的，你的信仰是错误的，你是他们的敌人*。
 
@@ -288,7 +288,7 @@
 
 那就是你在挑战中失去自我并与挑战合为一体的时刻。
 
-<picture decoding="async" class="wp-image-2719">![](img/9a7a90cee259ac71d790ca544c9a6d3e.png)</picture>
+![](img/9a7a90cee259ac71d790ca544c9a6d3e.png)
 
 因此，有三种类型的目标：容易的、困难的和不可能的。
 

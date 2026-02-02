@@ -70,7 +70,7 @@
 
 成为“研究员”意味着有意识地消费信息。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-829">![](img/0afd9e47b0793ff85a1e5e1023065ece.png)</picture>
+![](img/0afd9e47b0793ff85a1e5e1023065ece.png)
 
 价值创造者用他的头脑赚钱，而不是用他的时间。这意味着，他最大的资产是信息、想法和知识，这些让你兴奋地醒来并分享来自你研究发现的发现。
 
@@ -350,7 +350,7 @@
 
 这里是 Notion 仪表板内部 30%的内容（这些内容都包含使商业变得容易的系统）：
 
-<picture decoding="async" class="wp-image-834">![](img/69706f16baede822bc2da2909269d5d1.png)</picture>
+![](img/69706f16baede822bc2da2909269d5d1.png)
 
 在 60 天内，我们掌握个人品牌建设、内容创作、创建你的产品（无论经验如何），并制定营销策略，这样你就可以立即开始盈利。
 

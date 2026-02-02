@@ -280,7 +280,7 @@
 
 这不是关于长期或短期关注，而是关于两者都要有。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1356">![](img/3f4914a4af9d81aeac4bc2aa579330d3.png)</picture>
+![](img/3f4914a4af9d81aeac4bc2aa579330d3.png)
 
 现在你已经为你的未来创造了一个具体的反愿景，你已经为你的大脑做好了模式识别的准备。
 

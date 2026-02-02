@@ -156,7 +156,7 @@
 
 ## 使用法则
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1104">![](img/f32b44ab4223d6e0198c6ec32352ee0c.png)</picture>
+![](img/f32b44ab4223d6e0198c6ec32352ee0c.png)
 
 大多数人不需要更多的建议。
 

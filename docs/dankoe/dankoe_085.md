@@ -52,7 +52,7 @@
 
 [在 2023 年 10 月 24 日之前在此处预订您的副本。](https://theartoffocusbox.com)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1511">![](img/2c2d8a76ee4b38bc0212754ad5166409.png)</picture>
+![](img/2c2d8a76ee4b38bc0212754ad5166409.png)
 
 并向 [Jack Moses](https://twitter.com/jackmoses0) 致敬，因为他看到了如何将通讯拼凑在一起，创作出一本关于宇宙、生活方式设计、创造你理想自我以及在现代商业中找到目的（当它表面上似乎充满了卑鄙的营销时）的连贯书籍。
 
@@ -100,7 +100,7 @@
 
 我一次花上 6-8 小时的时间，全神贯注地坐在电脑前，努力实现我脑海中那个超现实的图像。这些是一些结果：
 
-<picture decoding="async" class="wp-image-579">![](img/757ed82c274935bff996f6a7f70c8f92.png)</picture> <picture decoding="async" class="wp-image-580">![](img/4e44e772308d5980d02830faa8ab2318.png)</picture> <picture loading="lazy" decoding="async" class="wp-image-581">![](img/be207d7f5afff00e4b6f0eb941f6758f.png)</picture> <picture loading="lazy" decoding="async" class="wp-image-582">![](img/1f30eb2184165345864e94746211e6ea.png)</picture>
+![](img/757ed82c274935bff996f6a7f70c8f92.png) ![](img/4e44e772308d5980d02830faa8ab2318.png) ![](img/be207d7f5afff00e4b6f0eb941f6758f.png) ![](img/1f30eb2184165345864e94746211e6ea.png)
 
 大多数这些都是股票图片的混搭，其中一些是我的照片（比如建筑和飞机）。
 
@@ -126,7 +126,7 @@
 
 我利用了我之前对 Facebook 广告的知识，花费了大约 100 美元的广告费用，并卖出了一件闪亮的内衣（哈哈）。
 
-<picture loading="lazy" decoding="async" class="wp-image-583">![](img/19f601f2b6fbacb8305ba3e2b8a49c92.png)</picture>
+![](img/19f601f2b6fbacb8305ba3e2b8a49c92.png)
 
 第一个在线美元感觉太棒了，但当我看到人们等待 30 天从中国发货的产品时，我感到自己像垃圾一样。
 
@@ -168,7 +168,7 @@
 
 这是我的一张广告图片：
 
-<picture loading="lazy" decoding="async" class="wp-image-584">![](img/31dd17cda6b292346dc11f788d2943da.png)</picture>
+![](img/31dd17cda6b292346dc11f788d2943da.png)
 
 是的。那是一只刺猬。它的名字叫 Momo。尽管它有刺，但非常可爱。它最终生病了——经过多次尝试用注射器喂它恢复健康——它去世了。
 
@@ -274,7 +274,7 @@
 
 **5) 我推出了一款实物计划表。**
 
-<picture loading="lazy" decoding="async" class="wp-image-596">![](img/ecf341f576e3ad7afe02d128743c86cd.png)</picture> <picture loading="lazy" decoding="async" class="wp-image-597">![](img/edac2ffe2e5b6986354dba0ced2f4ba4.png)</picture>
+![](img/ecf341f576e3ad7afe02d128743c86cd.png) ![](img/edac2ffe2e5b6986354dba0ced2f4ba4.png)
 
 我喜欢在我的写作中谈论生产力。
 

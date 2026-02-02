@@ -124,7 +124,7 @@
 
 我刚从去看 Joey Justice 和 Justin Scott 的旅行回来。你不会在日常生活中找到我们之间的对话。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1086">![](img/047729d2a733f86615a43e915dc9f966.png)</picture>
+![](img/047729d2a733f86615a43e915dc9f966.png)
 
 我不想说服你这一点，因为你最终会得出这个结论。
 
@@ -144,7 +144,7 @@
 
 ## 经验模型
 
-<picture decoding="async" class="wp-image-1087">![](img/615076c30d09418f3681d2b5b7825948.png)</picture>
+![](img/615076c30d09418f3681d2b5b7825948.png)
 
 我过去多次讨论过个人品牌策略，所以我就不多说了。
 

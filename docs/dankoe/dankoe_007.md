@@ -252,7 +252,7 @@
 
 ### 3) 达到感知阈值的临界点
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1064">![](img/c21b44e18747ab061b5743d43b961671.png)</picture>
+![](img/c21b44e18747ab061b5743d43b961671.png)
 
 如果你遇到了写作瓶颈…
 

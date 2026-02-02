@@ -182,7 +182,7 @@
 
 ## 不寻常的自信之路
 
-<picture decoding="async" class="wp-image-1370">![](img/6b45bb4262b51ac8eab1a372c01fd19e.png)</picture>
+![](img/6b45bb4262b51ac8eab1a372c01fd19e.png)
 
 创业是你的天性。
 
@@ -304,7 +304,7 @@
 
 ## 自我提升者的潜在进步路径
 
-<picture decoding="async" class="wp-image-1371">![](img/269e1478376572e9e545595c47177fd5.png)</picture>
+![](img/269e1478376572e9e545595c47177fd5.png)
 
 当你试图变得更加自信时，焦虑陷阱是危险的。
 

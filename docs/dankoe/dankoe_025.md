@@ -36,7 +36,7 @@
 
 知道人们讨厌他们不理解的东西，对许多人来说，失败是一种自动的、无意识的、预先编程的“讨厌”。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-791">![](img/4521605559b0ba9de9e5b5e208ae77f8.png)</picture>
+![](img/4521605559b0ba9de9e5b5e208ae77f8.png)
 
 *真正的学习的第一步是改变你对失败的看法*。
 
@@ -54,7 +54,7 @@
 
 ## 失败的档案
 
-<picture decoding="async" class="wp-image-781">![](img/27fad4918f1a8cf998f6bf2e184e364d.png)</picture>
+![](img/27fad4918f1a8cf998f6bf2e184e364d.png)
 
 每个成功的人似乎都要经历一个失败的阈值。
 
@@ -78,7 +78,7 @@
 
 到最后，我积累了一整套通过斗争精炼的教训，使我想要追求的任何事情都能成功。
 
-<picture decoding="async" class="wp-image-790">![](img/8a01891dbbcbc5eed63d9fa6c10052cb.png)</picture>
+![](img/8a01891dbbcbc5eed63d9fa6c10052cb.png)
 
 这是一种在任何“白手起家”的成功中都可以看到的模式。白手起家意味着他们没有继承财富。去听听你最喜欢的任何人的起源故事播客，他们会告诉你同样的故事。失败是不可避免的，是必要的，也是你找到的“快速致富”的最近似物。
 
@@ -152,7 +152,7 @@
 
 国际象棋大师可能会从教初学者的挑战中找到乐趣，但与初学者对弈？**无聊**。大师的技能必须得到考验，以便他进入心流状态。[为了使他的注意力完全沉浸在他追求的目标中](https://thedankoe.com/why-you-always-feel-overwhelmed/)。
 
-<picture loading="lazy" decoding="async" class="wp-image-782">![](img/11fff48579ac0701a56dc27b6c0c69a2.png)</picture>
+![](img/11fff48579ac0701a56dc27b6c0c69a2.png)
 
 *舒适存在于已知之中。*
 
@@ -160,7 +160,7 @@
 
 *满足感存在于边缘。*
 
-<picture loading="lazy" decoding="async" class="wp-image-788">![](img/7bb7d3964a9908b2d7b65a2d8650d70d.png)</picture>
+![](img/7bb7d3964a9908b2d7b65a2d8650d70d.png)
 
 我相信这是古人解释“无念”或“非二”时提到的一部分。
 

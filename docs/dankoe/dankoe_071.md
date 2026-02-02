@@ -2,7 +2,7 @@
 
 > 原文：[`thedankoe.com/letters/the-one-person-business-revisited-turn-yourself-into-a-business/`](https://thedankoe.com/letters/the-one-person-business-revisited-turn-yourself-into-a-business/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1307">![](img/3a9b1933d895ae7b6478bc923c112a28.png)</picture>
+![](img/3a9b1933d895ae7b6478bc923c112a28.png)
 
 一个新的社会已经出现。
 
@@ -46,7 +46,7 @@
 
 ### 什么是创作者社会？
 
-<picture decoding="async" class="wp-image-1302">![](img/ac7a86122d62d9818275545ef2eddbb5.png)</picture>
+![](img/ac7a86122d62d9818275545ef2eddbb5.png)
 
 随着互联网的发展，信息传播得无以复加。
 
@@ -174,7 +174,7 @@
 
 ## 自我货币化的路径
 
-<picture decoding="async" class="wp-image-1303">![](img/60022e7f9d5090b1fed33b7bf1ae0bf7.png)</picture>
+![](img/60022e7f9d5090b1fed33b7bf1ae0bf7.png)
 
 社交媒体是一个新的社会。
 
@@ -204,7 +204,7 @@
 
 ### 路径 2) 在你的兴趣周围成为价值创造者
 
-<picture loading="lazy" decoding="async" class="wp-image-1304">![](img/433792543e77ef6202d15412a7aa14a9.png)</picture>
+![](img/433792543e77ef6202d15412a7aa14a9.png)
 
 这很难表达，因为最常见的问题是，“我没有任何兴趣。”
 
@@ -282,7 +282,7 @@
 
 ## 6 位数的单人商业的 4 个支柱
 
-<picture loading="lazy" decoding="async" class="wp-image-1305">![](img/50d0208ad71c1a9df6353885bc7af773.png)</picture>
+![](img/50d0208ad71c1a9df6353885bc7af773.png)
 
 单人商业模式可以有多个定义。
 
@@ -300,7 +300,7 @@
 
 为了清晰起见，让我们深入了解单人商业的 4 个支柱：
 
-<picture loading="lazy" decoding="async" class="wp-image-1310">![](img/1cc066aea85798e0bb39c83f5576e1e2.png)</picture>
+![](img/1cc066aea85798e0bb39c83f5576e1e2.png)
 
 ### 品牌 – 你是细分市场
 

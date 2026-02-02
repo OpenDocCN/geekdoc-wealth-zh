@@ -44,7 +44,7 @@
 
 （这些图片是从[Hosun 的 X 帖子](https://x.com/hosun_chung/status/1845491689793982641)中关于类似主题的内容中提取的。这是我对此的看法，我们过去讨论过很多次，但这次没有像这次这样精炼。）
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2258">![](img/7c86d25589533f1ae4dbfbf05dd610a1.png)</picture>
+![](img/7c86d25589533f1ae4dbfbf05dd610a1.png)
 
 在我看来，创作者的成长是进入一个由 AI 和自动化使无意义工作变得可选的世界中唯一合理的选项。
 
@@ -54,7 +54,7 @@
 
 让我们更进一步。
 
-<picture decoding="async" class="wp-image-2259">![](img/bdcd42fe67941e6f6efc439e6f5b709b.png)</picture>
+![](img/bdcd42fe67941e6f6efc439e6f5b709b.png)
 
 SignalFire 的一张图表显示，现在有 5000 万内容创作者。除此之外：
 
@@ -96,7 +96,7 @@ SignalFire 的一张图表显示，现在有 5000 万内容创作者。除此之
 
 人们开始失去对那些未能给他们带来承诺的稳定未来的机构和意识形态的信任。
 
-<picture decoding="async" class="wp-image-2260">![](img/a60b0bffefd6c48cfcc788f2be973d89.png)</picture>
+![](img/a60b0bffefd6c48cfcc788f2be973d89.png)
 
 学校使你的思想局限于美好工作和丰厚薪水的虚幻地位。
 
@@ -250,13 +250,13 @@ SignalFire 的一张图表显示，现在有 5000 万内容创作者。除此之
 
 这是为了那些热爱学习、在特定技能或兴趣上有成果，并且想要通过他们的自然愿望去帮助他人和进化的人。
 
-<picture loading="lazy" decoding="async" class="wp-image-2262">![](img/d26a5aec755311eba369050f85b8ff4a.png)</picture>
+![](img/d26a5aec755311eba369050f85b8ff4a.png)
 
 并不是每个人都不能做这件事。而是它甚至不会在大多数人的视角中作为一个机会。它没有意义。在较低阶段，他们的需求不同——关注生存和自我。他们不关心这些。
 
 成就者阶段是大多数已经接触并理解自我提升和价值实现重要性的大多数人。
 
-<picture loading="lazy" decoding="async" class="wp-image-2261">![](img/18d78ea1b9aa61d0669d859d76b3b1b3.png)</picture>
+![](img/18d78ea1b9aa61d0669d859d76b3b1b3.png)
 
 创造者商业模式最美丽的地方在于，它在很大程度上不受阶段限制。
 

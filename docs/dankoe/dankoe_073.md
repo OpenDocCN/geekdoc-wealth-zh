@@ -248,7 +248,7 @@ DJ 们播放音乐集。
 
 **1) 创建一个视角**
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1345">![](img/7eed814e883b35a45fb3f506eca3a497.png)</picture>
+![](img/7eed814e883b35a45fb3f506eca3a497.png)
 
 当你收集信息、想法和价值时，你需要一种方法来应用这些信息以测试现实。
 

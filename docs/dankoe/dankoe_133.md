@@ -92,7 +92,7 @@
 
 ## 受众建设的未来
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2251">![](img/ab451d892b3db0a19113e8f7d8698127.png)</picture>
+![](img/ab451d892b3db0a19113e8f7d8698127.png)
 
 自从那时起，社交媒体已经发生了变化。
 
@@ -128,7 +128,7 @@ Instagram、X、LinkedIn、TikTok 和短视频。
 
 ### 时事通讯是新的受众。
 
-<picture decoding="async" class="wp-image-2252">![](img/3b60ac2fd1da05c4ba7aeda50e390770.png)</picture>
+![](img/3b60ac2fd1da05c4ba7aeda50e390770.png)
 
 我已经谈论了这个话题 2-3 年了，现在似乎其他人也开始注意到了。
 

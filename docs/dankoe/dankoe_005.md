@@ -48,7 +48,7 @@
 
 ## 新富
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1029">![](img/62558483a4b5579d2f61cb84da311a39.png)</picture>
+![](img/62558483a4b5579d2f61cb84da311a39.png)
 
 我们正处于一场巨大转变的中间。
 
@@ -124,7 +124,7 @@
 
 ## 成为数字文艺复兴人
 
-<picture decoding="async" class="wp-image-1030">![](img/4680faeb22b10c28d5a1fdea5e2071d4.png)</picture>
+![](img/4680faeb22b10c28d5a1fdea5e2071d4.png)
 
 自从疫情以来，工作状态已经发生了很大的变化。
 

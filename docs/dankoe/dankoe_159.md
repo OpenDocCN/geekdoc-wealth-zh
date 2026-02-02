@@ -246,7 +246,7 @@
 
 当我请求关于建立听众的指导时，这是它输出的一个例子：
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2528">![](img/6aed16fac8a4eee2e6a7326ed951666c.png)</picture>
+![](img/6aed16fac8a4eee2e6a7326ed951666c.png)
 
 我可以要求 kAI 帮助我学习上述任何内容，并在过程中引导我。
 

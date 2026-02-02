@@ -114,7 +114,7 @@
 
 ## 在新世界中开始构建你的遗产
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1169">![](img/9cd8a383bcf7ca3b26dd3fb7c3258ef2.png)</picture>
+![](img/9cd8a383bcf7ca3b26dd3fb7c3258ef2.png)
 
 我们正处于第二次文艺复兴的中间，未来的思想领袖正在左右涌现。
 

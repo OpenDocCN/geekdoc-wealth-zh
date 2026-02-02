@@ -48,7 +48,7 @@
 
 *你的身份——或者说“自我”——只有在你将自己与周围的一切区分开来时才能存在。*
 
-<picture fetchpriority="high" decoding="async" class="wp-image-850">![](img/911a2aed7e0fbb13bfd7aa732d0ba6cb.png)</picture>
+![](img/911a2aed7e0fbb13bfd7aa732d0ba6cb.png)
 
 这正是灵性、非二元论和佛教所指的方向。他们的目标是让你意识到自我并非与宇宙分离，它就是宇宙。
 
@@ -74,7 +74,7 @@
 
 狭窄的焦点对于追求有意义的目标时，如生产力、目的等，是非常好的，但这对大多数人来说并不适用。
 
-<picture decoding="async" class="wp-image-851">![](img/608328b10bf0de75c8071b472af212cc.png)</picture>
+![](img/608328b10bf0de75c8071b472af212cc.png)
 
 大多数人处于一种由压力引起的持续狭窄（收缩）的专注状态。一个消极的想法出现在他们脑海中，就会占据他们所有的注意力。他们看不到这个想法本身之外的东西。这个想法变成了他们的世界，而世界的重要性也随之消失。
 

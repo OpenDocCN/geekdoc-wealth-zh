@@ -46,7 +46,7 @@
 
 ## 1) 从写作开始
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1967">![](img/e6350d2a1d21e333be49bda51d305f91.png)</picture>
+![](img/e6350d2a1d21e333be49bda51d305f91.png)
 
 我在成为 YouTube 主播的梦想上失败了。
 
@@ -132,7 +132,7 @@
 
 ## 3) 用想法成为 DJ
 
-<picture decoding="async" class="wp-image-1961">![](img/d79aecf5d5c1df6973691f257102f4ff.png)</picture>
+![](img/d79aecf5d5c1df6973691f257102f4ff.png)
 
 作家是带着想法的 DJ。
 

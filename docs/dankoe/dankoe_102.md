@@ -40,7 +40,7 @@
 
 ### 1) 现实并非分割的
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1078">![](img/cf6e07b8113086cb7234f80ec6a3087f.png)</picture>
+![](img/cf6e07b8113086cb7234f80ec6a3087f.png)
 
 互联网营销行业遵循了与学校系统相同的路径。
 
@@ -208,7 +208,7 @@
 
 ## 一种新的生活方式
 
-<picture decoding="async" class="wp-image-1077">![](img/87bbf2a8371ecce10dbebc61707986cb.png)</picture>
+![](img/87bbf2a8371ecce10dbebc61707986cb.png)
 
 创造者哲学不是商业模式，而是一种生活方式。
 

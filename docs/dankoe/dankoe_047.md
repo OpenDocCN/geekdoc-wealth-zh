@@ -16,7 +16,7 @@
 
 ## 进步的三个驱动力
 
-<picture fetchpriority="high" decoding="async" class="wp-image-404">![](img/5c384072804d56e68af6eb0296e2c678.png)</picture>
+![](img/5c384072804d56e68af6eb0296e2c678.png)
 
 进步的三个驱动力
 

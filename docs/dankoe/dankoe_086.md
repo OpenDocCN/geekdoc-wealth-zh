@@ -56,7 +56,7 @@
 
 在我们开始之前，艺术焦点纪念盒现在可以预购：
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1489">![](img/4701ae247b8cef003d4a0cd034d080f8.png)</picture>
+![](img/4701ae247b8cef003d4a0cd034d080f8.png)
 
 +   纪念版精装本——我们只印刷 2000 本。
 

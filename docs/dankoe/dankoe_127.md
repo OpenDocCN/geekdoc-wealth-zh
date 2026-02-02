@@ -86,7 +86,7 @@
 
 ## 最有利可图的细分市场是你自己（产品化你的思维）
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1653">![](img/9af7a7b630d22bf5887c51ec08665c78.png)</picture>
+![](img/9af7a7b630d22bf5887c51ec08665c78.png)
 
 大多数人没有意识到他们属于一个非常具体的细分市场。
 
@@ -142,7 +142,7 @@
 
 ### “细分市场”是一种世界观或观点。
 
-<picture decoding="async" class="wp-image-1654">![](img/804825ab5735aa78b9cc4284b44a70f2.png)</picture>
+![](img/804825ab5735aa78b9cc4284b44a70f2.png)
 
 让我们分析一下细分市场实际上是什么。
 

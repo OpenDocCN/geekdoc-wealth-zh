@@ -66,7 +66,7 @@
 
 ## 最有利可图的领域是你自己
 
-<picture fetchpriority="high" decoding="async" class="wp-image-981">![](img/eaadf62a983870563ed789659ccd16b6.png)</picture>
+![](img/eaadf62a983870563ed789659ccd16b6.png)
 
 广告公司并不是我的第一次，也不是最后一次商业尝试。
 
@@ -140,7 +140,7 @@
 
 ## 如何创建你的个人细分市场
 
-<picture decoding="async" class="wp-image-982">![](img/c20cd49263043e82dfe2cca16e486ea1.png)</picture>
+![](img/c20cd49263043e82dfe2cca16e486ea1.png)
 
 从精神层面来看，你的“品牌”或“自我”可以是重复的商业理念或有意识的个人创造的结果。
 
@@ -218,7 +218,7 @@
 
 ### 3) 书籍到品牌内容
 
-<picture decoding="async" class="wp-image-983">![](img/9100636ad8217c789033f52e82e41251.png)</picture>
+![](img/9100636ad8217c789033f52e82e41251.png)
 
 每个故事都有一个理想的结局，一个最终目标。
 
@@ -276,7 +276,7 @@
 
 ### 5) 当怀疑时，放大视角
 
-<picture loading="lazy" decoding="async" class="wp-image-984">![](img/64b4628cf60b2fd1199720455d3c7dd7.png)</picture>
+![](img/64b4628cf60b2fd1199720455d3c7dd7.png)
 
 解决困境的方法是视角。
 

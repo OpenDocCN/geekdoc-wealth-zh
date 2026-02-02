@@ -40,7 +40,7 @@
 
 欲望及其强度取决于**某物离你有多远**。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-799">![](img/482119c142675eb47c3282e8ac5e5e91.png)</picture>
+![](img/482119c142675eb47c3282e8ac5e5e91.png)
 
 当然，多巴胺有许多其他决定因素，比如新奇、期待和复杂性——但我们在这里讨论的是价值。
 

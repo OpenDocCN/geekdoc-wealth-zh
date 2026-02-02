@@ -50,7 +50,7 @@
 
 ## 不可替代的个体
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1890">![](img/c012ee1b1f0aeb4fecf474495b41c16b.png)</picture>
+![](img/c012ee1b1f0aeb4fecf474495b41c16b.png)
 
 你担心 20 年后什么会有价值，因为你依赖于除了自己以外的每个人来获得成功。
 
@@ -182,7 +182,7 @@
 
 ### 4) 学习销售
 
-<picture decoding="async" class="wp-image-1891">![](img/ac1bfba431df1f9c151cab7663940027.png)</picture>
+![](img/ac1bfba431df1f9c151cab7663940027.png)
 
 销售 = 生存。
 

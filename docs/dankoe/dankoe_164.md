@@ -40,7 +40,7 @@
 
 +   **AQAL 模型** (肯·威尔伯对上述所有内容的扩展，将它们综合在一起)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2630">![](img/c2797f1e2e7fa3a779626a62e97d9cff.png)</picture>
+![](img/c2797f1e2e7fa3a779626a62e97d9cff.png)
 
 为了这封信的目的，我们将专注于螺旋动力学模型。
 
@@ -140,7 +140,7 @@
 
 然而，第二级阶段认识到每个阶段都是人类发展的必要且宝贵的部分，每个阶段都有其对应于其生活条件的适当反应。
 
-<picture decoding="async" class="wp-image-2631">![](img/e153d33fe3a27e0f9354e9236f90fe7d.png)</picture>
+![](img/e153d33fe3a27e0f9354e9236f90fe7d.png)
 
 格雷夫斯和贝克——那些发展这些发展心理学理论的人——认为从第一级到第二级的转变是意识上的一个重大飞跃。这是从生存价值到“存在价值”的飞跃，这与人类意识的产生本身可以相提并论。
 
@@ -238,7 +238,7 @@
 
 ## 如何让你的生活不再糟糕
 
-<picture decoding="async" class="wp-image-2632">![](img/b56fd450d6017fa36a48bbb7a4c4b515.png)</picture>
+![](img/b56fd450d6017fa36a48bbb7a4c4b515.png)
 
 首先，我们需要理解*变化的顺序*。
 

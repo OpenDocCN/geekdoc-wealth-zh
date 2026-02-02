@@ -64,7 +64,7 @@
 
 ### 1) 困惑
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2244">![](img/252f0af66631f84e1f22005a012733a0.png)</picture>
+![](img/252f0af66631f84e1f22005a012733a0.png)
 
 有四个进步周期。
 

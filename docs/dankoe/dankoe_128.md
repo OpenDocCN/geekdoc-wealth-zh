@@ -10,7 +10,7 @@
 
 换句话说，你需要对所有数字商业技能有一个一般性的了解，同时也要在你每天热爱做的事情上专业化。擅长很多事情，在一件事情上出类拔萃，因为这种一般性的理解是*让你在这件事上出类拔萃的原因*。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2178">![](img/5f6c1641f3603e1702ecf87a2447187f.png)</picture>
+![](img/5f6c1641f3603e1702ecf87a2447187f.png)
 
 初出茅庐的创作者想要开始赚钱。这是合理的。尝试销售自己的产品以停止销售他人的产品并没有什么不妥。
 
@@ -284,7 +284,7 @@
 
 回到专业通才主义的话题。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2178">![](img/5f6c1641f3603e1702ecf87a2447187f.png)</picture>
+![](img/5f6c1641f3603e1702ecf87a2447187f.png)
 
 Valve，这家创造了《半条命》这款视频游戏的公司，提到他们的公司由“T 形”的人组成。
 

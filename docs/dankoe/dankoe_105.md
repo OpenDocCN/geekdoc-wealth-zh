@@ -2,7 +2,7 @@
 
 > 原文：[`thedankoe.com/letters/you-are-obligated-to-get-rich-in-your-20s/`](https://thedankoe.com/letters/you-are-obligated-to-get-rich-in-your-20s/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1843">![](img/448f153bfacd04f7f9e6b5b556a0b64d.png)</picture>
+![](img/448f153bfacd04f7f9e6b5b556a0b64d.png)
 
 我总是觉得想要赚钱是件坏事。
 
@@ -90,7 +90,7 @@
 
 ## 金钱是一种精神能量 – 去中心化的新经济
 
-<picture decoding="async" class="wp-image-1844">![](img/6d4e6b31e0aceb8e04b8f09c48cda9d2.png)</picture>
+![](img/6d4e6b31e0aceb8e04b8f09c48cda9d2.png)
 
 大多数人都不理解什么是精神。
 
@@ -146,7 +146,7 @@
 
 ## 创造者哲学——这不仅仅是一个光鲜的互联网工作，而是一种生活方式。
 
-<picture decoding="async" class="wp-image-1845">![](img/53d6157eee708ac7caa6bdf768242b49.png)</picture>
+![](img/53d6157eee708ac7caa6bdf768242b49.png)
 
 创造者哲学不是一种商业模式，而是一种生活方式。
 

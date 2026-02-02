@@ -20,7 +20,7 @@
 
 ## 未来的职业道路。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-489">![](img/96cea3db43aa9ba6e2710184258ca9c8.png)</picture>
+![](img/96cea3db43aa9ba6e2710184258ca9c8.png)
 
 未来的职业道路。
 

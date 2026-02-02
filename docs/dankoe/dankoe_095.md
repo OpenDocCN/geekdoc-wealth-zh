@@ -52,7 +52,7 @@
 
 这里是我们第一次面对面产品演示的场景（对于那些在加拿大的人）。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1708">![](img/beeedaaadad96ce67627a54cfc6d6e57.png)</picture>
+![](img/beeedaaadad96ce67627a54cfc6d6e57.png)
 
 哦...我正在[Kortex](https://kortex.co)内部撰写这封通讯邮件 🙂
 
@@ -62,7 +62,7 @@
 
 ## 好奇心是你在未知中的指南针
 
-<picture decoding="async" class="wp-image-1712">![](img/b58bcf139af5d22ae4646127bb409a43.png)</picture>
+![](img/b58bcf139af5d22ae4646127bb409a43.png)
 
 > 做出伟大工作的方法是探索你的好奇心。因为历史上所有做出伟大工作的人都是那些创造足迹而不是跟随他人的人。 —— 马修·奥
 

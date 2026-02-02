@@ -72,7 +72,7 @@
 
 我一次粘在电脑前 6-8 个小时，努力实现我脑海中的一些超现实图像。这些是一些结果：
 
-<picture fetchpriority="high" decoding="async" class="wp-image-579">![](img/757ed82c274935bff996f6a7f70c8f92.png)</picture> <picture decoding="async" class="wp-image-580">![](img/4e44e772308d5980d02830faa8ab2318.png)</picture> <picture decoding="async" class="wp-image-581">![](img/be207d7f5afff00e4b6f0eb941f6758f.png)</picture> <picture loading="lazy" decoding="async" class="wp-image-582">![](img/1f30eb2184165345864e94746211e6ea.png)</picture>
+![](img/757ed82c274935bff996f6a7f70c8f92.png) ![](img/4e44e772308d5980d02830faa8ab2318.png) ![](img/be207d7f5afff00e4b6f0eb941f6758f.png) ![](img/1f30eb2184165345864e94746211e6ea.png)
 
 这些大多是股票图片的混搭，一些是我的照片（比如建筑和飞机）。
 
@@ -96,7 +96,7 @@
 
 我运用了之前在 Facebook 广告方面的知识，投入了大约~$100 的广告费用，并成功卖出了一件闪亮的胸罩（哈哈）。
 
-<picture loading="lazy" decoding="async" class="wp-image-583">![](img/19f601f2b6fbacb8305ba3e2b8a49c92.png)</picture>
+![](img/19f601f2b6fbacb8305ba3e2b8a49c92.png)
 
 第一个在线收入感觉太棒了，但当我看到人们要等 30 天才能从中国发货的产品时，我感觉自己像垃圾一样。
 
@@ -200,7 +200,7 @@
 
 +   我推出了一款实物计划表，厌倦了实物产品电子商务和从我家发货，因此推出了免费数字版本（The Power Planner）。
 
-<picture loading="lazy" decoding="async" class="wp-image-596">![](img/ecf341f576e3ad7afe02d128743c86cd.png)</picture> <picture loading="lazy" decoding="async" class="wp-image-597">![](img/edac2ffe2e5b6986354dba0ced2f4ba4.png)</picture>
+![](img/ecf341f576e3ad7afe02d128743c86cd.png) ![](img/edac2ffe2e5b6986354dba0ced2f4ba4.png)
 
 +   我在数字产品销售中达到了六位数。
 

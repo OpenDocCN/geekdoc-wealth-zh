@@ -76,7 +76,7 @@
 
 *创造 + 清晰 = 创造力*。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-605">![](img/4cb358f849ef5ede17c10ff80c72a818.png)</picture>
+![](img/4cb358f849ef5ede17c10ff80c72a818.png)
 
 现代问题的创造性解决方案是你吸引大量资金的方式。
 
@@ -94,7 +94,7 @@
 
 当你的注意力是清醒和开放的，你就可以充分发挥你的创造力。
 
-<picture decoding="async" class="wp-image-604">![](img/cbf468779bb0ba6825d15d73db37ab8a.png)</picture>
+![](img/cbf468779bb0ba6825d15d73db37ab8a.png)
 
 我们可以整天讨论这个问题，但我想要给你提供一些实用的步骤，帮助你利用你的创造力，在接下来的十年里蓬勃发展。
 

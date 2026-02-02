@@ -124,7 +124,7 @@
 
 ## 企业家方法（明白了吗？就像科学方法？）
 
-<picture fetchpriority="high" decoding="async" class="wp-image-762">![](img/fea83790c2a11c66d6e81f633c9896cc.png)</picture>
+![](img/fea83790c2a11c66d6e81f633c9896cc.png)
 
 大多数人手头都有丰富的信息、技能和经验。
 

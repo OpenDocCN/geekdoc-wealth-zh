@@ -36,7 +36,7 @@ NPC，或非玩家角色，是一个受其编程奴役的个人。
 
 ## 你是主观现实中的视角容器
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1155">![](img/0adaf7127453fd183284fef8dd9a53cd.png)</picture>
+![](img/0adaf7127453fd183284fef8dd9a53cd.png)
 
 现实是视角，而你是一个视角容器。
 

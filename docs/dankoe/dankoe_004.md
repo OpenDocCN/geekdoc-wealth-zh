@@ -72,7 +72,7 @@
 
 但这一条引起了我的注意：
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1118">![](img/36931d26aab7be0db2b6188bf7d2aefa.png)</picture> <picture decoding="async" class="wp-image-1119">![](img/f4430e391b192ac847705ffc1565510f.png)</picture>
+![](img/36931d26aab7be0db2b6188bf7d2aefa.png) ![](img/f4430e391b192ac847705ffc1565510f.png)
 
 我不会撒谎，一开始这让我很恼火。
 

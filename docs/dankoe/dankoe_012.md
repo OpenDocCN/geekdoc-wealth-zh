@@ -118,7 +118,7 @@
 
 用这 3 个兴趣，拿一个笔记本，像这样分解它们：
 
-<picture fetchpriority="high" decoding="async" class="wp-image-993">![](img/5c93faa6e14c2754ae90ae24124e2781.png)</picture>
+![](img/5c93faa6e14c2754ae90ae24124e2781.png)
 
 你的任务是覆盖这个整个领域，用 6-12 个月的所有长度的内容。
 
@@ -218,7 +218,7 @@
 
 这里有一个很好的例子，我从 Twitter 上的 Taylin Simmonds 那里借鉴过来的：
 
-<picture decoding="async" class="wp-image-994">![](img/96a3cec66f52575026b9562561decd70.png)</picture>
+![](img/96a3cec66f52575026b9562561decd70.png)
 
 尝试一下。
 
@@ -320,7 +320,7 @@
 
 如果我拿我这条有 9,000 个赞的高绩效推文结构：
 
-<picture decoding="async" class="wp-image-992">![](img/0c9ece1f514bb38568a050e3a1c39860.png)</picture>
+![](img/0c9ece1f514bb38568a050e3a1c39860.png)
 
 然后，我可以写一条新的推文：
 

@@ -60,7 +60,7 @@
 
 让我们深入*探讨*。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-679">![](img/06f1ade21865a1527215545b9067ce75.png)</picture>
+![](img/06f1ade21865a1527215545b9067ce75.png)
 
 在我的定义中，专注是意识的注意。
 

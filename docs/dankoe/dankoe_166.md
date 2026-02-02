@@ -2,7 +2,7 @@
 
 > 原文：[`thedankoe.com/letters/how-to-launch-into-a-completely-new-life/`](https://thedankoe.com/letters/how-to-launch-into-a-completely-new-life/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2650">![](img/364a374a132eac70c95d716ce7b88b0e.png)</picture>
+![](img/364a374a132eac70c95d716ce7b88b0e.png)
 
 首先，了解生活是分章节展开的。
 

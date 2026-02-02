@@ -602,7 +602,7 @@
 
 我的做法，体验模型，将你变成客户形象。你的经验和故事使你成为细分市场。
 
-<picture decoding="async" class="wp-image-2153">![](img/2dd549f3cfbdb6d7a0289b56d702ed6c.png)</picture>
+![](img/2dd549f3cfbdb6d7a0289b56d702ed6c.png)
 
 这样，你可以解决你自己的问题，吸引与你处于相似路径的人，并帮助他们做同样的事情。
 
@@ -672,7 +672,7 @@
 
 在[数字经济学](https://digitaleconomics.school/)中，我教授关于掌握领域。
 
-<picture decoding="async" class="wp-image-2154">![](img/65f60fc6beb02b4b7ae0e3a6a542b6f8.png)</picture>
+![](img/65f60fc6beb02b4b7ae0e3a6a542b6f8.png)
 
 你选择 3 个*广泛的*主题，然后你可以将其分解为原则、灵感导师和子主题。
 

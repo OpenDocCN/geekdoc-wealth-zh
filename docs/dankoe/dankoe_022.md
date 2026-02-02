@@ -286,7 +286,7 @@
 
 **5) 教授你所知**
 
-<picture fetchpriority="high" decoding="async" class="wp-image-867">![](img/6e7d52ebbef46fde94ded7511101a223.png)</picture>
+![](img/6e7d52ebbef46fde94ded7511101a223.png)
 
 正如我们讨论的那样，构建是与你试图构建的生活相一致，保留特定知识的一种了不起的方式。
 

@@ -42,7 +42,7 @@
 
 ## 现代文艺复兴男子
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1397">![](img/9397911b1aad41658e6e8ef88931c82f.png)</picture>
+![](img/9397911b1aad41658e6e8ef88931c82f.png)
 
 出生时，我们被指定了一种生活方式。
 
@@ -178,7 +178,7 @@
 
 **1) 大的理性目标，小的非理性步骤**
 
-<picture decoding="async" class="wp-image-1393">![](img/4a0ea7d76c10f25f5d81fd6f75bf86bc.png)</picture>
+![](img/4a0ea7d76c10f25f5d81fd6f75bf86bc.png)
 
 大目标比小目标更好，因为它们给你提供了实现目标所需的愿景、动力和长期关注。
 

@@ -2,7 +2,7 @@
 
 > 原文：[`thedankoe.com/letters/focus-is-a-superpower-how-to-succeed-in-the-information-age/`](https://thedankoe.com/letters/focus-is-a-superpower-how-to-succeed-in-the-information-age/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1331">![](img/953db71c77ed360ad6d6b0aba7f304cc.png)</picture>
+![](img/953db71c77ed360ad6d6b0aba7f304cc.png)
 
 那就是我们今天要讨论的。
 
@@ -38,7 +38,7 @@
 
 意味着物质是更大生物的一部分，而生物是更大心灵的一部分。
 
-<picture decoding="async" class="wp-image-1325">![</picture>](https://www.integralworld.net/reynolds6.html)
+![](https://www.integralworld.net/reynolds6.html)
 
 把旧世界想象成一粒橡子。
 
@@ -158,7 +158,7 @@
 
 ## 专注 = 生活质量
 
-<picture loading="lazy" decoding="async" class="wp-image-1327">![](img/cd5e9ff22ba1f74f8afe48367fd9e407.png)</picture>
+![](img/cd5e9ff22ba1f74f8afe48367fd9e407.png)
 
 > 想象一下有一个电子表格，显示了你在生活的任何特定领域投入了多少注意力。包括心智、身体、精神和商业，这些都影响你与世界及周围人的关系。这个电子表格将直接反映你的生活质量。 —— 《专注的艺术》
 
@@ -330,7 +330,7 @@
 
 ### 一小时的专注工作
 
-<picture loading="lazy" decoding="async" class="wp-image-1332">![](img/23e28c92e94dbbd25df776f8366445bc.png)</picture>
+![](img/23e28c92e94dbbd25df776f8366445bc.png)
 
 你不需要每天 12 小时来实现你的梦想。
 

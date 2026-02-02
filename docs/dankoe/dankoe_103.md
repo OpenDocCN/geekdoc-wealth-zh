@@ -24,11 +24,11 @@
 
 第一种，来自 OpenAI 的萨姆·奥特曼。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1805">![](img/0569bc163f26e48cf26c94807f491efc.png)</picture>
+![](img/0569bc163f26e48cf26c94807f491efc.png)
 
 第二种，特杰·多萨。一个低调的文案作家，擅长写优秀的 X 内容：
 
-<picture decoding="async" class="wp-image-1806">![](img/138bc09c01ece337edff00ec72f26b01.png)</picture>
+![](img/138bc09c01ece337edff00ec72f26b01.png)
 
 第三，我自己。
 
@@ -110,7 +110,7 @@ RAM —— 或“随机访问内存”——是计算机最重要的部分之一
 
 ## 心理熵：分心的危险
 
-<picture decoding="async" class="wp-image-1807">![](img/5b63633caf96a252188625fa4840e597.png)</picture>
+![](img/5b63633caf96a252188625fa4840e597.png)
 
 *熵是宇宙的最高法则。*
 
@@ -136,7 +136,7 @@ RAM —— 或“随机访问内存”——是计算机最重要的部分之一
 
 **无聊和焦虑。**
 
-<picture loading="lazy" decoding="async" class="wp-image-889">![](img/54b7637af6648b2b93f2bd5248e3d364.png)</picture>
+![](img/54b7637af6648b2b93f2bd5248e3d364.png)
 
 如果你正在完成的任务的挑战性低于你的技能水平，你会感到无聊。
 

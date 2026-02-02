@@ -36,7 +36,7 @@
 
 ### 我的从时间到思维的演变
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1579">![](img/53f2a0ed373d368acbc6c04cdb40299d.png)</picture>
+![](img/53f2a0ed373d368acbc6c04cdb40299d.png)
 
 当我刚开始创业时，逻辑的选择是使用有价值的技能进行自由职业。
 
@@ -304,7 +304,7 @@ James Clear 将获得更多的参与度和影响力，因为：
 
 ## 将你的自我转化为商业（精神货币化）
 
-<picture loading="lazy" decoding="async" class="wp-image-1580">![](img/85df55dffa2fee70be3624c39cd10553.png)</picture>
+![](img/85df55dffa2fee70be3624c39cd10553.png)
 
 你的自我，或者说身份，是你的精神体。
 

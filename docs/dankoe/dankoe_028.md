@@ -248,7 +248,7 @@
 
 我的做法，体验模型，将你变成客户形象。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-820">![](img/75ba6da0a10209fe7aa743204651f0e0.png)</picture>
+![](img/75ba6da0a10209fe7aa743204651f0e0.png)
 
 这样，你可以解决自己的问题，吸引与你路径相似的人，并帮助他们做到同样的事情。
 
@@ -322,7 +322,7 @@
 
 在[数字经济学](https://digitaleconomics.school)中，我教授关于掌握领域。
 
-<picture decoding="async" class="wp-image-821">![](img/a4f456f23d4fd3ff12b55740e64328f3.png)</picture>
+![](img/a4f456f23d4fd3ff12b55740e64328f3.png)
 
 你选择三个*广泛*的主题，然后你可以将它们分解为原则、灵感导师和子主题。
 

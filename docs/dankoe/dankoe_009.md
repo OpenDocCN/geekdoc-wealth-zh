@@ -40,7 +40,7 @@
 
 ## 全面的日常例行程序
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1092">![](img/451f312b7f9b9968d431aa1b9bca053c.png)</picture>
+![](img/451f312b7f9b9968d431aa1b9bca053c.png)
 
 你每天都需要专门的时间来培养创造力、生产力和实验。
 
@@ -88,7 +88,7 @@
 
 ## 优先级阶梯
 
-<picture decoding="async" class="wp-image-1093">![](img/f3bd37c45e14162b07a71654eca62008.png)</picture>
+![](img/f3bd37c45e14162b07a71654eca62008.png)
 
 你可以通过每天 1 小时的纯粹专注在 6 个月内彻底改变你的生活。
 

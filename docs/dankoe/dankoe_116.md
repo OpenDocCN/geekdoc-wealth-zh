@@ -260,7 +260,7 @@
 
 ### 2) 生产力与创造力时段
 
-<picture decoding="async" class="wp-image-2010">![](img/b44062cfe9d7ba318c1f6c32a9bf31e0.png)</picture>
+![](img/b44062cfe9d7ba318c1f6c32a9bf31e0.png)
 
 我喜欢在早上在两种宏观意识状态之间波动：生产力和创造力。
 

@@ -2,7 +2,7 @@
 
 > 原文：[`thedankoe.com/letters/the-daily-routine-that-changed-my-life-4-focus-habits/`](https://thedankoe.com/letters/the-daily-routine-that-changed-my-life-4-focus-habits/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1559">![](img/8ae2cbfc5aed4c828f68948c22a55696.png)</picture>
+![](img/8ae2cbfc5aed4c828f68948c22a55696.png)
 
 **你需要一个常规。**
 

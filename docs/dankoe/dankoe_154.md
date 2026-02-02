@@ -42,7 +42,7 @@
 
 ## 加工食品与有机内容
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2487">![](img/7d8564ddabbc4f0a910b93a89fba1f44.png)</picture>
+![](img/7d8564ddabbc4f0a910b93a89fba1f44.png)
 
 加工食品很糟糕。
 
@@ -66,7 +66,7 @@
 
 一旦公司发现了这个机制，他们现在可以测试和创造这些成分的组合，以最大化客户的愉悦感，并让他们不断回来。上瘾。
 
-<picture decoding="async" class="wp-image-2488">![](img/6e7ec9b5180ddd011c0c3a36831cc79b.png)</picture>
+![](img/6e7ec9b5180ddd011c0c3a36831cc79b.png)
 
 互联网公司也效仿了这一做法。他们采用了广告模式进行盈利，很快发现极端和煽情的标题能吸引最多的关注。现在他们只需要向用户即时可访问的屏幕上提供更多他们“喜欢”的内容即可。你好，“为你推荐”页面！
 
@@ -90,7 +90,7 @@
 
 ### 在数字农夫市场购物
 
-<picture decoding="async" class="wp-image-2489">![</picture>](https://twitter.com/KevinEspiritu/status/1888066576064332260)
+![](https://twitter.com/KevinEspiritu/status/1888066576064332260)
 
 在加工食品和内容的一侧，有有机食品和内容。
 
@@ -194,7 +194,7 @@ AI 并没有取代内容，它只是让制作糟糕内容变得更加容易。
 
 ## 一生一次的机会
 
-<picture loading="lazy" decoding="async" class="wp-image-2490">![](img/2a022a2831a00ca6109729aced57a48e.png)</picture>
+![](img/2a022a2831a00ca6109729aced57a48e.png)
 
 大多数人不会喜欢这一点。
 

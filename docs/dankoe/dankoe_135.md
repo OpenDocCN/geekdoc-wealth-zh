@@ -86,7 +86,7 @@
 
 你现在之所以能获得任何形式的收入，仅仅是因为你在一家公司中扮演了一个**特定**的角色，该公司通过销售产品或服务来赚取这些收入。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2315">![](img/d5d8964927cb6c7aabe9632b56cd8a13.png)</picture>
+![](img/d5d8964927cb6c7aabe9632b56cd8a13.png)
 
 换句话说，如果你想获得自由，首先，你需要一个企业，其次，你需要一个产品，人们可以自愿用他们的钱来交换该产品中封装的价值。
 

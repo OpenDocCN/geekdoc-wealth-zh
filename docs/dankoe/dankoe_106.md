@@ -2,7 +2,7 @@
 
 > 原文：[`thedankoe.com/letters/the-value-equation-how-to-become-a-top-1-individual-fast/`](https://thedankoe.com/letters/the-value-equation-how-to-become-a-top-1-individual-fast/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1865">![](img/5416b86120120ce70d16d10de9284a67.png)</picture>
+![](img/5416b86120120ce70d16d10de9284a67.png)
 
 你在追求地位。
 

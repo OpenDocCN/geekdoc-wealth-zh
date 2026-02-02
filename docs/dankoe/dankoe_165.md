@@ -26,7 +26,7 @@
 
 如果我不对自己撒谎关于如何优先安排我的时间，我会有 1 到 4 个小时。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2643">![](img/88e8547e8b58edc503f23a12332a359e.png)</picture>
+![](img/88e8547e8b58edc503f23a12332a359e.png)
 
 这是我真正感到愤怒的一件事。否则我相当冷静（至少我认为是这样）。
 

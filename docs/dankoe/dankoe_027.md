@@ -12,7 +12,7 @@
 
 你只能通过更好地感知它们来变得更好，这会导致更好的决策（不受情绪影响）。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-811">![](img/b4885b21aef4b80fd8bd105a6b5d7913.png)</picture>
+![](img/b4885b21aef4b80fd8bd105a6b5d7913.png)
 
 在这封信中，我想以一种帮助你思考、行动和变得更好的方式，带来对问题的新视角。
 
@@ -52,7 +52,7 @@
 
 ### 课程
 
-<picture decoding="async" class="wp-image-812">![](img/8ead21733feb7e0a96db1d0f9e833a45.png)</picture>
+![](img/8ead21733feb7e0a96db1d0f9e833a45.png)
 
 理解你的问题是正常的。
 

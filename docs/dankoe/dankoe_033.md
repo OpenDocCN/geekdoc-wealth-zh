@@ -106,7 +106,7 @@
 
 ## 5 步让你掌握自己的教育
 
-<picture fetchpriority="high" decoding="async" class="wp-image-746">![](img/83dd4af91565b770b252d9353dc611a6.png)</picture>
+![](img/83dd4af91565b770b252d9353dc611a6.png)
 
 我们还没有进入另一个文艺复兴时代。
 
@@ -244,7 +244,7 @@
 
 《两小时作家》现已上线！我们取得了令人难以置信的启动，昨天有 800 多名学生获得了访问权限。今天早上开始收到了一些好评：
 
-<picture decoding="async" class="wp-image-743">![](img/42460cd634ea1f46bcd441e521988551.png)</picture> <picture decoding="async" class="wp-image-744">![](img/d826cf9e0041bce2ab30edfd55583619.png)</picture> <picture loading="lazy" decoding="async" class="wp-image-745">![](img/a3d12180c91f2775b5f98ba1dcc4dd89.png)</picture>
+![](img/42460cd634ea1f46bcd441e521988551.png) ![](img/d826cf9e0041bce2ab30edfd55583619.png) ![](img/a3d12180c91f2775b5f98ba1dcc4dd89.png)
 
 如果你想使用我的写作和内容系统，可以考虑看看。
 

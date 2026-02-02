@@ -56,7 +56,7 @@
 
 ## 高潮与低潮
 
-<picture fetchpriority="high" decoding="async" class="wp-image-638">![](img/399cc4a2c5fcc65ff86d0d0491672326.png)</picture>
+![](img/399cc4a2c5fcc65ff86d0d0491672326.png)
 
 当我们处于浪尖之上时，还有希望。
 
@@ -218,7 +218,7 @@
 
 做这件事的最简单方法是将你生活的每一个方面都视为一个项目。
 
-<picture decoding="async" class="wp-image-559">![](img/989fcff0a08a3dc77dbd37ce6fd5b055.png)</picture>
+![](img/989fcff0a08a3dc77dbd37ce6fd5b055.png)
 
 这里是你开始改变生活的所有你需要的东西：
 

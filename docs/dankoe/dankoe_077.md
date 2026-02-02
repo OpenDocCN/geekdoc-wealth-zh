@@ -132,7 +132,7 @@
 
 想象一下视频游戏中的天赋树。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1297">![](img/10da956c063d51c26b1d31c96d5f943e.png)</picture>
+![](img/10da956c063d51c26b1d31c96d5f943e.png)
 
 如果你只专注于一条路径，你将无法接触到更高层次的技术发展。
 
@@ -150,7 +150,7 @@
 
 这两种都是由你的注意力集中在哪里、如何集中以及为什么集中在哪里所决定的心态。
 
-<picture decoding="async" class="wp-image-923">![](img/97a9cc4cdb34a7d6be521e68b2ee64c0.png)</picture>
+![](img/97a9cc4cdb34a7d6be521e68b2ee64c0.png)
 
 **生产力模式**
 
@@ -226,7 +226,7 @@
 
 最好的解释方式是使用*技能：挑战匹配*：
 
-<picture decoding="async" class="wp-image-881">![](img/ae54bb0e77c9ab85ec1e90153b42afa1.png)</picture>
+![](img/ae54bb0e77c9ab85ec1e90153b42afa1.png)
 
 挑战是最大享受（心流状态）的关键。
 
@@ -350,7 +350,7 @@
 
 +   将它们重新用于所有平台（我的通讯是我的 YouTube 脚本，[我在这里教你如何写它们](https://2hourwriter.com)）。
 
-<picture loading="lazy" decoding="async" class="wp-image-1294">![](img/8ba2cd1bb30a228febba1c293c706b70.png)</picture>
+![](img/8ba2cd1bb30a228febba1c293c706b70.png)
 
 你必须用**想法**来吸引、保持和培养他们的注意力。
 

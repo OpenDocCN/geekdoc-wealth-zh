@@ -6,7 +6,7 @@
 
 这是我最喜欢的一件作品（如果你滚动到我的 Instagram 底部，你可以找到它们全部）。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1111">![](img/5cdd4df0d1f400e99535ba0f696884a0.png)</picture>
+![](img/5cdd4df0d1f400e99535ba0f696884a0.png)
 
 这次尝试是我第一次意识到社交媒体的力量。
 
@@ -56,7 +56,7 @@
 
 ## 人类心理学的通用模式
 
-<picture decoding="async" class="wp-image-1112">![](img/9ba4c95d64151919f06e3d86c43d99ac.png)</picture>
+![](img/9ba4c95d64151919f06e3d86c43d99ac.png)
 
 人们告诉你要学习的每一个“赚钱”的技能都与宇宙模式和人类心理学相关联。
 
@@ -218,7 +218,7 @@
 
 ### 2) 定位
 
-<picture decoding="async" class="wp-image-1113">![](img/082f4810ec33030cf6604ae7eabddfac.png)</picture>
+![](img/082f4810ec33030cf6604ae7eabddfac.png)
 
 现在我们已经了解了意识层次，我们可以开始构建一个有说服力的信息。
 

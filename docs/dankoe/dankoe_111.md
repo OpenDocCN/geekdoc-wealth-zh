@@ -72,7 +72,7 @@
 
 ## 建立观众群体的重要性
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1942">![](img/79c260f2e50e1b72946f9056c8ab1439.png)</picture>
+![](img/79c260f2e50e1b72946f9056c8ab1439.png)
 
 大多数人在开始创业时甚至不会想到社交媒体。
 
@@ -170,7 +170,7 @@
 
 ## 如何为你的初创公司筹集资金
 
-<picture decoding="async" class="wp-image-1941">![你拥有构建你想要的一切所需的东西。现在是 2024 年。如果你有互联网连接，你可以自由。](img/1003cc0ed6c82a32ed29936828db8a6c.png)</picture>
+![你拥有构建你想要的一切所需的东西。现在是 2024 年。如果你有互联网连接，你可以自由。](img/1003cc0ed6c82a32ed29936828db8a6c.png)
 
 最后，回答你的问题，我们如何在还没有推出应用的情况下，在 6 个月内几乎赚了 80 万美元？
 

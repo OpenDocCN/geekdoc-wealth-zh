@@ -10,7 +10,7 @@
 
 去年，在搬到奥斯汀之前，我骑着我的雅马哈 R1。（更快，就像……太快……但很适合我高大的身材）。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-660">![](img/a294e53268b97322e338e4580ac6f790.png)</picture>
+![](img/a294e53268b97322e338e4580ac6f790.png)
 
 我之前的 R1
 
@@ -24,7 +24,7 @@
 
 我最终买了一辆这辆美丽的车。
 
-<picture decoding="async" class="wp-image-661">![](img/052f2256da932c628888e32e0559ea61.png)</picture>
+![](img/052f2256da932c628888e32e0559ea61.png)
 
 手中拿着咖啡杯（当然）
 
@@ -248,7 +248,7 @@
 
 我称之为“生活享受 5”。
 
-<picture decoding="async" class="wp-image-667">![生活享受 5 - 好奇心、清晰、连接、挑战和意识](img/51e94026cf10a9fe8e22069d77150d6b.png)</picture>
+![生活享受 5 - 好奇心、清晰、连接、挑战和意识](img/51e94026cf10a9fe8e22069d77150d6b.png)
 
 享受的五个“C”都是工具和迹象。
 

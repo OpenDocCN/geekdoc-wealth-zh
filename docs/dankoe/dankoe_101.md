@@ -2,7 +2,7 @@
 
 > 原文：[`thedankoe.com/letters/i-discovered-a-way-to-learn-10x-faster-reality-metabolism-universal-thinking/`](https://thedankoe.com/letters/i-discovered-a-way-to-learn-10x-faster-reality-metabolism-universal-thinking/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1792">![](img/97748acc97a1997e9649b3c31d1444a9.png)</picture>
+![](img/97748acc97a1997e9649b3c31d1444a9.png)
 
 人们认为他们不应该感到不知所措。
 
@@ -126,7 +126,7 @@
 
 这三个阶段在我的书《聚焦的艺术》（[The Art of Focus](https://theartoffocusbook.com)）中的 FOCI 符号表示。
 
-<picture decoding="async" class="wp-image-1793">![](img/deb7916d606be8d02d0830afb506a74d.png)</picture>
+![](img/deb7916d606be8d02d0830afb506a74d.png)
 
 当你足够远地放大视野时，你才能发现潜力、联系、方向和创意想法，让你学习到比你已知更多的东西。
 
@@ -138,7 +138,7 @@
 
 ## 如何以 10 倍的速度学习
 
-<picture decoding="async" class="wp-image-1794">![](img/a680f3a524c111cf890e919a85c09174.png)</picture>
+![](img/a680f3a524c111cf890e919a85c09174.png)
 
 当你学会如何学习时，你可以在 6 个月内实现 5 年的成果。
 
@@ -226,7 +226,7 @@
 
 ### 3) 教你所学的
 
-<picture loading="lazy" decoding="async" class="wp-image-1795">![](img/0d69ea0d9c1f983bb5c1c2da0aab61eb.png)</picture>
+![](img/0d69ea0d9c1f983bb5c1c2da0aab61eb.png)
 
 我当然推荐通过写作作为[个人品牌](https://thedankoe.com/letters/the-one-person-business-revisited-turn-yourself-into-a-business/)（或你的公开简历）来公开教学，这样你也能在学习的同时吸引高薪机会。（这就是我在[2 小时作家](https://2hourwriter.com)中教授的内容）。
 
@@ -258,7 +258,7 @@
 
 ### 4) 扩展到新的思维层面
 
-<picture loading="lazy" decoding="async" class="wp-image-1796">![](img/75848cb96cf15f67b881b51bca4a2cd1.png)</picture>
+![](img/75848cb96cf15f67b881b51bca4a2cd1.png)
 
 到这个阶段，你可能仍然感到不知所措，或者觉得你学不到很多东西。
 

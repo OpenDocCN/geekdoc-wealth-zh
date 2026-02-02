@@ -6,7 +6,7 @@
 
 现在，我只是为这个人感到难过：
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2617">![](img/a1863fa92a90615b9327c4dc54147b04.png)</picture>
+![](img/a1863fa92a90615b9327c4dc54147b04.png)
 
 屏幕截图
 
@@ -164,7 +164,7 @@
 
 然后，转到聊天 > 成为我的阅读伴侣。
 
-<picture decoding="async" class="wp-image-2618">![](img/26af8ac06ecb067d5efcb187fb7cc546.png)</picture>
+![](img/26af8ac06ecb067d5efcb187fb7cc546.png)
 
 将所有占位符文本替换为“帮助我理解我正在阅读的这本书”并点击发送。
 
@@ -216,7 +216,7 @@
 
 因此，你可以使用 Kortex 中的“理解一个主题或想法”工作流程。
 
-<picture decoding="async" class="wp-image-2619">![](img/6025cada70d6415ee01d2966ca7cb05e.png)</picture>
+![](img/6025cada70d6415ee01d2966ca7cb05e.png)
 
 这个工作流程的目的是：
 
@@ -250,7 +250,7 @@
 
 当你完成那个工作流程后，它将输出你的生活重启地图，你可以将其添加为文档（AI 消息输出底部的按钮之一）以供日后参考。
 
-<picture loading="lazy" decoding="async" class="wp-image-2620">![](img/e0ea74e72755371fae3c90df66a10fe5.png)</picture>
+![](img/e0ea74e72755371fae3c90df66a10fe5.png)
 
 这非常全面。
 

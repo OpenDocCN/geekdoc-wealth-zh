@@ -36,7 +36,7 @@
 
 ## 战术压力 – 强迫自己生存
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1920">![](img/8a171eabf3f8e9d749ec77226d2b5122.png)</picture>
+![](img/8a171eabf3f8e9d749ec77226d2b5122.png)
 
 我做出的最好的决定是最愚蠢的。
 
@@ -292,7 +292,7 @@
 
 我的朋友尼克·维奇前几天问起这个过程。如果这有助于从大局上理解，这里有一个截图。
 
-<picture decoding="async" class="wp-image-1918">![](img/b41cae9b09f056f887e7e8eee6abbce8.png)</picture>
+![](img/b41cae9b09f056f887e7e8eee6abbce8.png)
 
 写作是这个策略的必要基础。我不能告诉你具体该怎么做，因为我不了解你的情况，但我可以告诉你我怎么做。
 

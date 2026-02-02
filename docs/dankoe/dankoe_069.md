@@ -196,7 +196,7 @@
 
 ## 引导到建设。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1288">![](img/61f0a01cb9588481cf3b815802d01822.png)</picture>
+![](img/61f0a01cb9588481cf3b815802d01822.png)
 
 当你达到那个低点时，你需要一些具体的东西来引导那种新发现的（并且超强大的）能量。
 

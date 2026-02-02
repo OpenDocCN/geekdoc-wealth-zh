@@ -2,7 +2,7 @@
 
 > 原文：[`thedankoe.com/letters/reading-change-your-life-with-one-simple-habit/`](https://thedankoe.com/letters/reading-change-your-life-with-one-simple-habit/)
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2132">![](img/22971bb5176092c90f7464d7a7aa6e45.png)</picture>
+![](img/22971bb5176092c90f7464d7a7aa6e45.png)
 
 你能去的最糟糕的地方就是陷入**就在**谷底之前的困境。
 
@@ -110,7 +110,7 @@ Lol。
 
 ## 第一部分) 阅读的理由
 
-<picture decoding="async" class="wp-image-2137">![](img/822af1eba1b72e7f1a275b023afd26ce.png)</picture>
+![](img/822af1eba1b72e7f1a275b023afd26ce.png)
 
 你不需要理由来阅读。
 
@@ -202,7 +202,7 @@ Lol。
 
 “每天进步 1%”，他们这么说。
 
-<picture decoding="async" class="wp-image-2133">![](img/0ca3c5cfa341c65b71dfa18f3729d0c9.png)</picture>
+![](img/0ca3c5cfa341c65b71dfa18f3729d0c9.png)
 
 现在的问题是：
 
@@ -214,7 +214,7 @@ Lol。
 
 ## 第二部分）该读什么
 
-<picture loading="lazy" decoding="async" class="wp-image-2134">![](img/1ae7feaf6b91a0c9f5acb90732f943a1.png)</picture>
+![](img/1ae7feaf6b91a0c9f5acb90732f943a1.png)
 
 你是否曾思考过“意图”这个词的意义？
 
@@ -346,7 +346,7 @@ Lol。
 
 ### 7 本我无法停止阅读的书
 
-<picture loading="lazy" decoding="async" class="wp-image-2138">![](img/26991713fd640d0989d803e587272493.png)</picture>
+![](img/26991713fd640d0989d803e587272493.png)
 
 我过去常常听着艾伦·瓦茨（Alan Watts）的演讲入睡。
 
@@ -356,7 +356,7 @@ Lol。
 
 顺便说一句，这正是我为什么写这么长的通讯的原因。我不在乎每天把你的思维局限在很小的一部分。我想通过呈现一系列相连的想法来帮助你感受到那种扩展思维的感觉，这些想法改变了我的人生（这也是我们建设 Kortex 的原因之一，帮助他人以这种方式写作）。
 
-<picture loading="lazy" decoding="async" class="wp-image-2135">![](img/d1c1f20d794cae01894faa45e6ee34f1.png)</picture> <picture loading="lazy" decoding="async" class="wp-image-2136">![](img/382c84f4f909cf504fb72819f247975d.png)</picture>
+![](img/d1c1f20d794cae01894faa45e6ee34f1.png) ![](img/382c84f4f909cf504fb72819f247975d.png)
 
 这是我们当前作家训练营*第 0 周*的一个例子。
 
@@ -456,7 +456,7 @@ Lol。
 
 ## 第四部分）写作不仅仅是作家的专利
 
-<picture loading="lazy" decoding="async" class="wp-image-2139">![](img/2b89b54bd9f857b3d8898346e8c6b070.png)</picture>
+![](img/2b89b54bd9f857b3d8898346e8c6b070.png)
 
 写作 = 有序思考。
 

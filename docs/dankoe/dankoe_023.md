@@ -228,7 +228,7 @@
 
 ## 创建一个有利可图的产物（以我能解释的最简单方式）
 
-<picture fetchpriority="high" decoding="async" class="wp-image-873">![](img/85b303bc0005a6303e7bc991a858c2ed.png)</picture>
+![](img/85b303bc0005a6303e7bc991a858c2ed.png)
 
 在我们开始之前，我想重申这封信的背景。
 

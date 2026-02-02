@@ -128,7 +128,7 @@ $83,333 / 30 = 每天收入$2,777
 
 首先，前往[Kortex 并开始一个新的聊天](https://kortex.co)，在“市场”类别下选择“个人品牌策略”选项。
 
-<picture fetchpriority="high" decoding="async" class="wp-image-2606">![](img/5aaf4e9ef99df3ef1d06bd5232055880.png)</picture>
+![](img/5aaf4e9ef99df3ef1d06bd5232055880.png)
 
 按“enter”键开始面试。
 
@@ -170,7 +170,7 @@ $83,333 / 30 = 每天收入$2,777
 
 使用您从个人品牌策略中获得的目标受众描述填写空白。
 
-<picture decoding="async" class="wp-image-2608">![](img/e7d05548b2cfebba2ea8b01f6b9dc2f9.png)</picture>
+![](img/e7d05548b2cfebba2ea8b01f6b9dc2f9.png)
 
 回答 AI 的所有面试问题，将您的客户头像保存到新文档中，并准备好在您现在做的所有其他事情中参考它。
 
@@ -208,7 +208,7 @@ $83,333 / 30 = 每天收入$2,777
 
 +   通用定位建议以使其更加出色
 
-<picture loading="lazy" decoding="async" class="wp-image-2609">![](img/45f8582dc20472999684a28f35fb9d3b.png)</picture>
+![](img/45f8582dc20472999684a28f35fb9d3b.png)
 
 再次，将此文档保存到您的工位中以便进行下一步操作。
 
@@ -232,7 +232,7 @@ $83,333 / 30 = 每天收入$2,777
 
 你可以看到它正在引用我的语音分析，这可能不是以哲学的口吻说话的最佳选择，但着陆页的其他部分相当不错。
 
-<picture loading="lazy" decoding="async" class="wp-image-2610">![](img/8678ca58fb1e182a375afbf2f2df48f5.png)</picture>
+![](img/8678ca58fb1e182a375afbf2f2df48f5.png)
 
 需要时进行编辑，但大部分内容应该可以直接使用。
 
@@ -268,7 +268,7 @@ $83,333 / 30 = 每天收入$2,777
 
 +   将一个想法变成 reels、tiktok 或短片
 
-<picture loading="lazy" decoding="async" class="wp-image-2611">![](img/f57d49eae1007f4baa283561f5028ee6.png)</picture>
+![](img/f57d49eae1007f4baa283561f5028ee6.png)
 
 此外，在“市场”类别下还有一个“说服性广告、电子邮件和脚本”选项，可以编写不同长度的销售帖子、电子邮件和广告。它在为 Instagram 和 LinkedIn 帖子编写推广你的产品的标题方面做得相当不错。
 

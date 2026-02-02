@@ -78,7 +78,7 @@ P.S. 这种商业风格（解决你自己的问题并销售解决方案）正是
 
 ## 通过利润和目的解决问题
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1145">![](img/08261898f47316a6b4c1c5f2a91f77e1.png)</picture>
+![](img/08261898f47316a6b4c1c5f2a91f77e1.png)
 
 我整个商业旅程都是自私的。
 
@@ -156,7 +156,7 @@ P.S. 这种商业风格（解决你自己的问题并销售解决方案）正是
 
 ## 自给自足的职业道路（如何开始）
 
-<picture decoding="async" class="wp-image-1146">![](img/e23ddeff5aa240edef2b8b1b603e8cb3.png)</picture>
+![](img/e23ddeff5aa240edef2b8b1b603e8cb3.png)
 
 > 这个星球上有近 70 亿人。我希望有一天，几乎会有 70 亿家公司。*——* 纳瓦尔
 

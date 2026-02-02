@@ -74,7 +74,7 @@
 
 简而言之，想想去年流行的钟形曲线梗：
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1015">![](img/c7e142405395538ef63dcb7e4a2341e0.png)</picture>
+![](img/c7e142405395538ef63dcb7e4a2341e0.png)
 
 如果你正在寻找意义、理解和上帝的方向上感到困惑，这个模型可以帮到你。
 

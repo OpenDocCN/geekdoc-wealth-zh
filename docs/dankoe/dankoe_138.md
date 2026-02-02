@@ -170,7 +170,7 @@
 
 ## 科伊定律 – 工作会随着时间而演变，以在更短的时间内赚取更多收入
 
-<picture fetchpriority="high" decoding="async" class="wp-image-1830">![](img/263bf90cc92daddc2d2f143ae1e12d26.png)</picture>
+![](img/263bf90cc92daddc2d2f143ae1e12d26.png)
 
 > **科伊定律**：*工作会随着完成所需时间而演变，以赚取更多收入*。这要求创造力、成长和技能获取，以解决阻碍这种演变的问题。
 

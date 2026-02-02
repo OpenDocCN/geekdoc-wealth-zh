@@ -74,7 +74,7 @@
 
 ## 1) すべてトラフィックとオファー
 
-<picture fetchpriority="high" decoding="async" class="wp-image-839">![](img/1fafdb077c251ebaeb52d93f97ebd9cf.png)</picture>
+![](img/1fafdb077c251ebaeb52d93f97ebd9cf.png)
 
 商业是一场创造伟大的产品或服务并将其展示给正确的人的游戏。
 
@@ -184,7 +184,7 @@
 
 创造力是连接意识之点的。
 
-<picture decoding="async" class="wp-image-840">![](img/69dd252439e97ebc8dc7a7742a823884.png)</picture>
+![](img/69dd252439e97ebc8dc7a7742a823884.png)
 
 通过直接意识到生活中的那个时刻，你经历了某件事。
 
@@ -246,7 +246,7 @@
 
 成功是一场智能模仿的游戏。
 
-<picture decoding="async" class="wp-image-841">![](img/f58f331c4266c7b1559c64e01a24eee2.png)</picture>
+![](img/f58f331c4266c7b1559c64e01a24eee2.png)
 
 不要表现得好像你从出生以来就没有模仿过周围的一切，只是因为你认为自己“原创”、“聪明”或“机智”。
 
@@ -382,7 +382,7 @@
 
 做与别人相反的事情。
 
-<picture loading="lazy" decoding="async" class="wp-image-842">![](img/e94882e204ab551a398eb5d69ff6fb8f.png)</picture>
+![](img/e94882e204ab551a398eb5d69ff6fb8f.png)
 
 每个人只是遗漏了完整画面中引导他们采取行动的部分。
 

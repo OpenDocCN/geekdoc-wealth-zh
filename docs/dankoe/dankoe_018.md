@@ -98,7 +98,7 @@
 
 ## 现代奴役——社会作为金字塔骗局
 
-<picture fetchpriority="high" decoding="async" class="wp-image-953">![](img/f13b4dd625cf27d2b2372beb1bc50e03.png)</picture>
+![](img/f13b4dd625cf27d2b2372beb1bc50e03.png)
 
 注意全息体的等级结构。
 
@@ -168,7 +168,7 @@
 
 ## 专注公式 – 如何掌握你的生活
 
-<picture decoding="async" class="wp-image-952">![](img/6d8d6682694ddaec75c75beb61cf7a4f.png)</picture>
+![](img/6d8d6682694ddaec75c75beb61cf7a4f.png)
 
 如果你不知道自己想要什么，别人会告诉你，你也会相信。
 
@@ -268,7 +268,7 @@
 
 ### 过程——精通的追求
 
-<picture decoding="async" class="wp-image-954">![](img/2271372aaba060e837353ef95f1624af.png)</picture>
+![](img/2271372aaba060e837353ef95f1624af.png)
 
 实现那个目标需要我完成什么？
 
@@ -308,7 +308,7 @@
 
 ### 优先级 - 做出更好的决定
 
-<picture loading="lazy" decoding="async" class="wp-image-955">![](img/31497eada0799ae582e3bbec42c5dc47.png)</picture>
+![](img/31497eada0799ae582e3bbec42c5dc47.png)
 
 首先，这包括了刚才我们讨论的操作杠杆。
 
@@ -404,7 +404,7 @@
 
 ### 挑战——智慧与进化的源泉
 
-<picture loading="lazy" decoding="async" class="wp-image-960">![](img/2b33b81dcc1c5dbe628ce70b18705f85.png)</picture>
+![](img/2b33b81dcc1c5dbe628ce70b18705f85.png)
 
 你的个人实现层次——目标、过程和优先级——应该是具有挑战性的。
 
