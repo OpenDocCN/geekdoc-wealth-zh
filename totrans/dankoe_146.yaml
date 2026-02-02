@@ -1,109 +1,156 @@
 - en: AGI Will Make You Irrelevant (How To Future-Proof Yourself)
+  id: totrans-0
   prefs:
   - PREF_H1
   type: TYPE_NORMAL
+  zh: AGI将使你变得无关紧要（如何未来化自己）
 - en: 原文：[https://thedankoe.com/letters/agi-will-make-you-irrelevant-how-to-future-proof-yourself/](https://thedankoe.com/letters/agi-will-make-you-irrelevant-how-to-future-proof-yourself/)
+  id: totrans-1
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: 原文：[https://thedankoe.com/letters/agi-will-make-you-irrelevant-how-to-future-proof-yourself/](https://thedankoe.com/letters/agi-will-make-you-irrelevant-how-to-future-proof-yourself/)
 - en: Okay, we need to talk about this.
+  id: totrans-2
   prefs: []
   type: TYPE_NORMAL
+  zh: 好吧，我们需要谈谈这件事。
 - en: Last week, OpenAI announced o3—their new model—and tech Twitter went absolutely
     insane. And if you’re unable to make sense of this, it can lead to a lot of fear
     about the role humans play in the future.
+  id: totrans-3
   prefs: []
   type: TYPE_NORMAL
+  zh: 上周，OpenAI宣布了他们的新模型o3，科技推特上的人们完全疯狂。如果你无法理解这一点，它可能导致人们对人类在未来的角色产生很多恐惧。
 - en: What’s so special about o3? Well, it scored with 87.5% accuracy on the ARC-AGI
     benchmark, which is a significant improvement from previous models.
+  id: totrans-4
   prefs: []
   type: TYPE_NORMAL
+  zh: o3有什么特别之处？嗯，它在ARC-AGI基准测试中获得了87.5%的准确率，这是之前模型的显著改进。
 - en: '![](../Images/3eef68e28cfa781ed53f3a4f16cec031.png)'
+  id: totrans-5
   prefs: []
   type: TYPE_IMG
+  zh: '![](../Images/3eef68e28cfa781ed53f3a4f16cec031.png)'
 - en: Without the model being out yet, some people say we’ve reached AGI and that
     jobs won’t exist within 5 years. Others, Elon included, are saying that money
     will be meaningless in the future. Unless we collect the right perspective, everything
     we’ve known and everything we are doing to better ourselves and our businesses
     may be for nothing.
+  id: totrans-6
   prefs: []
   type: TYPE_NORMAL
+  zh: 由于模型尚未发布，有些人说我们已经达到了AGI，并且5年内将不存在工作。其他人，包括埃隆在内，说未来的钱将毫无意义。除非我们收集正确的观点，否则我们所知道的一切以及我们所做的一切来改善自己和我们的企业可能都是徒劳的。
 - en: 'The main questions I’m interested in are:'
+  id: totrans-7
   prefs: []
   type: TYPE_NORMAL
+  zh: 我感兴趣的主要问题是：
 - en: Will we be considered insects to our AGI overlords?
+  id: totrans-8
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 我们会被我们的AGI统治者视为昆虫吗？
 - en: If AGI can do everything humans can and more, what the f*** do we do?
+  id: totrans-9
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 如果AGI可以做人类能做的一切，甚至更多，我们该怎么办？
 - en: If jobs won’t exist, what do we focus on if we want to thrive?
+  id: totrans-10
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 如果工作不存在了，如果我们想繁荣昌盛，我们应该关注什么？
 - en: I’ve accumulated quite a few thoughts on this throughout my years of study.
     In this letter, I’ve compiled a few of the most compelling cases for human uniqueness.
+  id: totrans-11
   prefs: []
   type: TYPE_NORMAL
+  zh: 在我多年的学习过程中，我积累了许多关于这个问题的思考。在这封信中，我整理了一些关于人类独特性的最引人入胜的案例。
 - en: I hope I can give you a positive way to make sense of the world and orient your
     behavior.
+  id: totrans-12
   prefs: []
   type: TYPE_NORMAL
+  zh: 我希望我能给你一种积极的方式来理解这个世界，并指导你的行为。
 - en: Buckle in, my friends. This is the greatest time to be alive.
+  id: totrans-13
   prefs: []
   type: TYPE_NORMAL
+  zh: 朋友们，系好安全带。这是我们一生中最伟大的时刻。
 - en: By the way, much of this is condensed from my next book, Purpose & Profit, launching
     in February. It will be free (the digital version, at least).
+  id: totrans-14
   prefs: []
   type: TYPE_NORMAL
+  zh: 顺便说一句，其中大部分内容是从我的下一本书《目的与利润》中浓缩而来的，该书将于2月出版。它将是免费的（至少是数字版）。
 - en: AI vs AGI – A Critical Difference
+  id: totrans-15
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: AI与AGI – 一个关键的区别
 - en: To understand what AI is and what it means for us, we need to start at the origin
     of that term. Before AI, there was *cybernetics*, an idea laid out by Norbert
     Wiener in 1948.
+  id: totrans-16
   prefs: []
   type: TYPE_NORMAL
+  zh: 要理解AI是什么以及它对我们意味着什么，我们需要从该术语的起源开始。在AI之前，有*控制论*，这是诺伯特·维纳在1948年提出的思想。
 - en: Cybernetics—ancient Greek for “helmsman” or another word for “governor”—is the
     idea of automatic, self-regulating control in a system. Acting, sensing, and comparing
     to a goal is a fundamental loop to intelligent systems. His key insight was that
     the world should be understood in terms of information. That complex systems like
     organisms, brains, and societies error-correct toward a goal, and if these feedback
     loops break down, the system breaks down. Entropy.
+  id: totrans-17
   prefs: []
   type: TYPE_NORMAL
+  zh: 控制论，古希腊语中意为“舵手”或“统治者”的另一个词，是关于系统自动、自我调节控制的想法。行动、感知并与目标比较是一个智能系统的基本循环。他的关键洞察是，世界应该用信息来理解。复杂系统如生物体、大脑和社会朝着目标进行错误纠正，如果这些反馈循环崩溃，系统就会崩溃。熵。
 - en: Think of a ship approaching a lighthouse at night using constant feedback. The
     captain sees they’re drifting left of the light, steers right, then adjusts again
     when they’ve gone too far right.
+  id: totrans-18
   prefs: []
   type: TYPE_NORMAL
+  zh: 想象一艘船在夜晚使用持续反馈接近灯塔。船长看到他们偏离了灯光的左侧，向右转向，然后在偏离太远时再次调整。
 - en: Two years after Wiener’s introduction to cybernetics, he published *The Human
     Use of Human Beings.* Now out of print, the central idea relevant to today’s world
     is that “*We must cease to kiss the whip that lashes us.*” Wiener knew the danger
     was not in machines becoming more like humans but humans being treated like machines.
+  id: totrans-19
   prefs: []
   type: TYPE_NORMAL
+  zh: 在维纳介绍控制论两年后，他出版了《人类使用人类自身》。现在已绝版，其中与当今世界相关的核心观点是“*我们必须停止亲吻鞭打我们的鞭子*”。维纳知道危险不在于机器变得越来越像人类，而在于人类被当作机器对待。
 - en: 'This is what AI is. A cybernetic system that *needs a governor.* What we know
     as AI today, mostly chat apps that we use to find information a tiny bit faster
     than with a Google search, lacks one crucial trait: agency.'
+  id: totrans-20
   prefs: []
   type: TYPE_NORMAL
+  zh: 这就是人工智能的本质。一个需要**控制器**的闭环系统。我们今天所了解的人工智能，主要是那些比谷歌搜索快一点点的聊天应用，它缺少一个关键特性：能动性。
 - en: AI is a specialist that needs a generalist. A tool that needs a master. AI is
     useful for achieving a goal it is *assigned*, like playing chess or beating Go.
     As long as AI must be tested—or assigned a goal—to determine its intelligence,
     it is not even close to human intelligence.
+  id: totrans-21
   prefs: []
   type: TYPE_NORMAL
+  zh: 人工智能是一个需要通才的专家。一个需要师傅的工具。人工智能在实现它被**分配**的目标时是有用的，比如下棋或击败围棋。只要人工智能必须被测试——或者被分配一个目标——以确定其智能，它甚至远不如人类的智能。
 - en: '[Kortex AI](https://kortex.co) will be going out late January and you’ll see
     what I mean. It can write extremely well if you have a second brain of writing
     to reference, or you are good at telling it what to do (we solve a lot of this
     for you). Mobile, desktop, offline, and light mode are also going in throughout
     January 🙂'
+  id: totrans-22
   prefs: []
   type: TYPE_NORMAL
+  zh: '[Kortex AI](https://kortex.co)将于1月底推出，你将看到我所说的意思。如果你有一个写作的第二大脑可以参考，或者你擅长告诉它该做什么（我们为你解决了许多问题），它可以写出非常出色的内容。移动端、桌面端、离线和浅色模式也将在1月份推出哦
+    🙂'
 - en: '**But that’s the exact problem.** Most people have been trained to be specialist
     tools, not innovative humans in control of their journey in the unknown. It’s
     no wonder they’re scared of replacement. They *should be.* Since the day they
@@ -118,61 +165,83 @@
     letter? It may sound like I’m beating a dead horse, but specialist conditioning
     is arguably the destroyer of humanity because it is the destroyer of creativity.
     What’s the solution? We’ll get to that.'
+  id: totrans-23
   prefs: []
   type: TYPE_NORMAL
+  zh: '**但这正是问题所在。**大多数人被训练成专业工具，而不是掌控未知旅程的创新人类。他们害怕被取代也就不足为奇了。他们**应该**害怕。从他们出生的那天起，他们就被分配了目标，并被纠正错误以适应父母希望他们适应的模具。上学，找工作，65岁退休。创业？是的，没错。存钱，取得好成绩，听从权威。走安全路线。永远服从于主导系统。然后，你不知道你的思想会怎样挣扎和抓挠，试图回到那个被推销为舒适的生活。你可能偶尔会有改变的想法——你灵魂深处渴望你挣脱束缚——但你头脑中的代码如此强大，它很快就会将这种错误认为是错误的特征。你明白我为什么几乎在每一封信中都谈论这个话题吗？这听起来可能像是在鞭尸，但专业化的训练可以说是人类毁灭者，因为它毁灭了创造力。解决方案是什么？我们很快就会谈到。'
 - en: Back to the story. Around the 1960s, a new perception of technology emerged
     that by inventing computers, we had externalized our central nervous system—our
     minds—and that we all now shared one singular mind. One infinite intelligence.
     All potential information at our fingertips.
+  id: totrans-24
   prefs: []
   type: TYPE_NORMAL
+  zh: 回到故事本身。大约在20世纪60年代，一种新的技术观念出现，即通过发明计算机，我们外化了我们的中枢神经系统——我们的思想——现在我们共享一个单一的思想。一个无限智能。所有潜在的信息都在我们的指尖。
 - en: Unfortunately, we don’t hear much about cybernetics today.
+  id: totrans-25
   prefs: []
   type: TYPE_NORMAL
+  zh: 不幸的是，我们现在很少听到关于控制论的消息。
 - en: Why? Because this new perception fueled poor incentives. Norbert Wiener’s warnings
     about intelligent machines ran counter to the aspirations of his colleagues, who
     were interested in the commercialization of new technologies. They wanted to profit
     from this. Second, John McCarthy, a computer pioneer, disliked Wiener. He refused
     to use the term “cybernetics” and instead coined “artificial intelligence,” becoming
     a founding father in that field.
+  id: totrans-26
   prefs: []
   type: TYPE_NORMAL
+  zh: 为什么？因为这种新的观念导致了不良的激励机制。诺伯特·维纳对智能机器的警告与他同事的愿望相悖，他们感兴趣的是新技术的商业化。他们想从中获利。其次，计算机先驱约翰·麦卡锡不喜欢维纳。他拒绝使用“控制论”这个术语，而是创造了“人工智能”这个词，成为该领域的奠基人。
 - en: With the meteoric rise in discussion around intelligent machines, we’re left
     wondering what makes humans special or if we were even special to begin with.
     For being the only species that’s made it to the moon, there has to be something
     there, right?
+  id: totrans-27
   prefs: []
   type: TYPE_NORMAL
+  zh: 随着关于智能机器的讨论如日中天，我们不禁思考人类究竟有何特别之处，或者我们一开始就真的特别吗？毕竟，我们是唯一一个登上月球物种，这肯定意味着某些东西，对吧？
 - en: AGI vs Humans
+  id: totrans-28
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 通用人工智能与人类
 - en: David Deutsch, influenced by Karl Popper, believes there is something significant
     about humans, and it lies in our ability to create infinite knowledge.
+  id: totrans-29
   prefs: []
   type: TYPE_NORMAL
+  zh: 大卫·德什（David Deutsch）受到卡尔·波普尔（Karl Popper）的影响，他认为人类有一些显著的特点，这体现在我们创造无限知识的能力上。
 - en: It starts with the need for creativity. The process by which all knowledge that
     is created happens through conjecture and criticism. Trial and error. Variation
     and selection (in Darwinian terms).
+  id: totrans-30
   prefs: []
   type: TYPE_NORMAL
+  zh: 它始于创造力的需求。所有创造的知识都是通过假设和批评、试错、变异和选择（在达尔文主义术语中）的过程产生的。
 - en: In other words, guessing and correcting one’s guess is how you accomplish anything
     you set your mind to. Psycho-cybernetics. This is how we learn, innovate, make
     progress, and understand almost anything in the universe. The difference is that
     humans can set their minds on anything, not just a goal it was assigned. It can
     discover new goals that shape the perception of opportunities, allowing our mind
     to error-correct toward that goal.
+  id: totrans-31
   prefs: []
   type: TYPE_NORMAL
+  zh: 换句话说，猜测并纠正自己的猜测是你完成任何你下定决心要做的事情的方式。心理控制论。这就是我们学习、创新、进步和理解宇宙中几乎所有事物的方式。区别在于，人类可以将注意力集中在任何事物上，而不仅仅是被分配的目标。它可以发现新的目标，这些目标塑造了对机会的认知，使我们的思维能够朝着那个目标进行错误纠正。
 - en: Deutsch believes that humans are “universal explainers.” That we are capable
     of understanding anything that is understandable within the laws of nature.
+  id: totrans-32
   prefs: []
   type: TYPE_NORMAL
+  zh: 德什认为人类是“通用的解释者”。我们能够理解自然界法则范围内任何可理解的事物。
 - en: We create explanatory theories that reveal the deep structure of reality, allowing
     us to guess and predict in a more efficient way that breeds faster progress with
     time.
+  id: totrans-33
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们创造解释理论，揭示现实的深层结构，使我们能够以更有效的方式猜测和预测，从而随着时间的推移带来更快的进步。
 - en: This knowledge allows us to understand things we’ve never directly experienced,
     like stars and galaxies. We can understand a rocket even if we’ve never built
     one. And if we can understand it, we can eventually build it if we have the knowledge
@@ -181,376 +250,544 @@
     for the simple reason that you either don’t understand it or don’t have the knowledge
     to achieve it. For high-agency humans, this is liberating. For low-agency machines,
     this is blasphemy.
+  id: totrans-34
   prefs: []
   type: TYPE_NORMAL
+  zh: 这种知识使我们能够理解我们从未直接经历过的事物，比如星星和星系。即使我们从未建造过火箭，我们也能理解它。如果我们能够理解它，并且如果我们有实现它的知识，我们最终能够建造它。有一个逻辑步骤序列，每个步骤都需要你具备该步骤的知识。在你的实际生活中，你不能实现某件事，简单的理由是你要么不理解它，要么没有实现它的知识。对于高自主性的人类来说，这是解放的。对于低自主性的机器来说，这是亵渎。
 - en: '**This is what many get wrong about AGI.**'
+  id: totrans-35
   prefs: []
   type: TYPE_NORMAL
+  zh: '**这是许多人关于AGI的错误理解。**'
 - en: AI, or artificial intelligence, is an incomplete system that must be assigned
     a goal, like many animals or low-agency employees are programmed to.
+  id: totrans-36
   prefs: []
   type: TYPE_NORMAL
+  zh: 人工智能，或称AI，是一个不完整的系统，必须为其分配一个目标，就像许多动物或低自主性员工被编程去做的那样。
 - en: AGI, or artificial *general* intelligence, is a complete or *universal* system.
     Like a human who is not limited to a small subset of things that are possible.
     AGI may have more computational power or memory, but there’s *no concept that
     it can understand that we can’t ourselves*, and that doesn’t rule out the fact
     we can use universal computers or augment ourselves with more computation and
     memory.
+  id: totrans-37
   prefs: []
   type: TYPE_NORMAL
+  zh: AGI，或称通用人工智能，是一个完整或*通用*的系统。就像一个不受限于可能事物的小子集的人类。AGI可能拥有更多的计算能力或内存，但*没有概念是我们能理解而它不能理解的*，这并不排除我们可以使用通用计算机或通过更多的计算和内存来增强自己的事实。
 - en: The point is that you can achieve anything within the realm of possibility,
     but *only if you have the knowledge to do so*.
+  id: totrans-38
   prefs: []
   type: TYPE_NORMAL
+  zh: 关键在于，你可以在可能性的范围内实现任何事物，但*前提是你有实现它的知识*。
 - en: You are not doomed to the default path of society or the rule of AGI.
+  id: totrans-39
   prefs: []
   type: TYPE_NORMAL
+  zh: 你并非注定要遵循社会的默认路径或AGI的规则。
 - en: The 5 Human Capabilities – Can AGI Surpass Them?
+  id: totrans-40
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: 5个人类能力 – AGI能否超越它们？
 - en: The thing about AGI is that people can’t seem to settle on a definition for
     it.
+  id: totrans-41
   prefs: []
   type: TYPE_NORMAL
+  zh: 关于AGI的问题在于，人们似乎无法就其定义达成一致。
 - en: Some people see it as a tool that will automate and run their business hands-off.
     Some think it will be just like us, a person. Some think it will be a superintelligence
     that completely surpasses human capabilities (they often label this ASI).
+  id: totrans-42
   prefs: []
   type: TYPE_NORMAL
+  zh: 有些人将其视为一种工具，可以自动化并远程管理他们的业务。有些人认为它将像我们一样，是一个人。有些人认为它将是一个超越人类能力的超级智能（他们通常将其称为ASI）。
 - en: The last one is the most frightening because people’s minds hop, skip, and jump
     to conclusions that we may be rendered irrelevant. When we feel stressed, our
     mind narrows and we can’t think straight. We fail to understand.
+  id: totrans-43
   prefs: []
   type: TYPE_NORMAL
+  zh: 最后一个问题最令人恐惧，因为人们的思维会跳跃、跳跃并得出结论，我们可能会变得无关紧要。当我们感到压力时，我们的思维会变得狭隘，我们无法清晰地思考。我们无法理解。
 - en: 'The questions here are:'
+  id: totrans-44
   prefs: []
   type: TYPE_NORMAL
+  zh: 这里的问题是：
 - en: Are human capabilities actually limited?
+  id: totrans-45
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 人类的能力实际上有没有限制？
 - en: Do we not have the capability to learn and do anything that AGI could do?
+  id: totrans-46
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 我们是否不具备学习和做任何AGI能够做的事情的能力？
 - en: Ultimately, are there any limits on what we can think and how we think?
+  id: totrans-47
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 最终，我们思考的能力和思考的方式是否有任何限制？
 - en: It’s fun to speculate about these things, and we can do that all day instead
     of focusing on what matters, so let’s break these capabilities down.
+  id: totrans-48
   prefs: []
   type: TYPE_NORMAL
+  zh: 对这些事情进行推测很有趣，我们可以整天这样做，而不是专注于重要的事情，所以让我们将这些能力分解一下。
 - en: Mainly, we need to pay attention to computation, transformation, variation,
     selection, and attention as noted by AGI researcher Carlos De la Guardia (also
     influenced by Deutsch).
+  id: totrans-49
   prefs: []
   type: TYPE_NORMAL
+  zh: 主要的是，我们需要关注计算、转换、变异、选择和注意，正如AGI研究员卡洛斯·德·拉·瓜迪亚（也受到德鲁茨的影响）所指出的。
 - en: '**Computation**'
+  id: totrans-50
   prefs: []
   type: TYPE_NORMAL
+  zh: '**计算**'
 - en: Is there any limit to what we can compute?
+  id: totrans-51
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们能计算的东西有没有限制？
 - en: No, because once you have a universal computer in your hands, it’s just a matter
     of time and memory to compute anything.
+  id: totrans-52
   prefs: []
   type: TYPE_NORMAL
+  zh: 不，因为一旦你手中有了通用计算机，计算任何东西只是时间和内存的问题。
 - en: If AGIs have that, they would have as much computational power as us, and therefore
     no advantage over us. Even further, if we can augment our brains (which I don’t
     see outside of the realm of possibility), we will remain on par with AGI as it
     accelerates.
+  id: totrans-53
   prefs: []
   type: TYPE_NORMAL
+  zh: 如果AGI有这种能力，它们将拥有与我们一样多的计算能力，因此不会比我们更有优势。更进一步，如果我们能够增强我们的大脑（我认为这是可能的），我们将与加速的AGI保持同步。
 - en: '**Transformation**'
+  id: totrans-54
   prefs: []
   type: TYPE_NORMAL
+  zh: '**转换**'
 - en: Transformation is creation. We turn raw materials into rockets given the right
     knowledge.
+  id: totrans-55
   prefs: []
   type: TYPE_NORMAL
+  zh: 转换是创造。有了正确的知识，我们可以将原材料转化为火箭。
 - en: Human hands and bodies seem to be especially good at creating anything given
     a specific sequence of operations. We’ve built spaceships and telescopes. Meaning
     that we can build the thing that builds the thing. We are generalists that build
     tools to thrive in any environment. We are not animals bound to one niche.
+  id: totrans-56
   prefs: []
   type: TYPE_NORMAL
+  zh: 人类的手和身体似乎特别擅长在特定的操作序列下创造任何东西。我们已经建造了宇宙飞船和望远镜。这意味着我们可以建造出建造其他东西的东西。我们是通用主义者，我们建造工具以在任何环境中生存。我们不是局限于单一生态位的动物。
 - en: 'The question is:'
+  id: totrans-57
   prefs: []
   type: TYPE_NORMAL
+  zh: 问题是：
 - en: Is there a limit to what these basic operations can do when strung together
     in the right way?
+  id: totrans-58
   prefs: []
   type: TYPE_NORMAL
+  zh: 当以正确的方式串联起来时，这些基本操作能做什么有没有限制？
 - en: Again, the answer is no. If humans could teleoperate a gorilla, there is a sequence
     of steps it can take to build a rocket given time. And no, I’m not saying a single
     gorilla. Imagine if Elon were operating the gorilla. What would he do?
+  id: totrans-59
   prefs: []
   type: TYPE_NORMAL
+  zh: 再次，答案是：没有。如果人类能够远程控制大猩猩，它可以在给定的时间内采取一系列步骤来建造火箭。而且，我并不是说只有一只大猩猩。想象一下，如果埃隆在操作大猩猩，他会怎么做？
 - en: The thing here is time. Transformation takes time, and a singularity won’t change
     that just as the Enlightenment or the Big Bang didn’t. Time is a compression algorithm
     that prevents everything from happening at once, and the Enlightenment and Big
     Bang clearly didn’t put rockets in the sky.
+  id: totrans-60
   prefs: []
   type: TYPE_NORMAL
+  zh: 这里的问题是时间。转换需要时间，奇点不会改变这一点，就像启蒙运动或大爆炸没有改变这一点一样。时间是压缩算法，它防止所有事情同时发生，启蒙运动和大爆炸显然没有把火箭送上天空。
 - en: So far, the AGI worry seems to stem from a fundamental misunderstanding of reality
     itself.
+  id: totrans-61
   prefs: []
   type: TYPE_NORMAL
+  zh: 到目前为止，AGI的担忧似乎源于对现实本身的根本误解。
 - en: How To Create Knowledge
+  id: totrans-62
   prefs:
   - PREF_H3
   type: TYPE_NORMAL
+  zh: 如何创造知识
 - en: After computation and transformation, there is variation, selection, and attention,
     which have to do with navigating idea space (or the unknown). We can compute and
     transform, but do we have limits on the knowledge that allows us to do so?
+  id: totrans-63
   prefs: []
   type: TYPE_NORMAL
+  zh: 经过计算和转换后，存在变异、选择和注意，这些都涉及到在思想空间（或未知领域）中的导航。我们可以进行计算和转换，但我们是否有知识上的限制，使我们能够这样做？
 - en: Knowledge serves two functions.
+  id: totrans-64
   prefs: []
   type: TYPE_NORMAL
+  zh: 知识有两个功能。
 - en: The first is to make specific things happen, preferably good things rather than
     bad. The second is to capture patterns in reality. This allows us to store information
     in an efficient way so that we aren’t always starting from scratch in our pursuits.
     We understand big-picture concepts like the sun rising and falling each day and
     seasons changing every so often.
+  id: totrans-65
   prefs: []
   type: TYPE_NORMAL
+  zh: 第一是让具体的事情发生，最好是好事而不是坏事。第二是捕捉现实中的模式。这使我们能够以高效的方式存储信息，这样我们就不必总是在追求中从头开始。我们理解像太阳每天升起和落下以及季节偶尔变化这样的大概念。
 - en: Without this understanding, much of our lives would fall apart. Capturing patterns
     allows us to plan by proximity. We understand that we would freeze to death in
     a cold environment, so we use deposits of knowledge like a jacket and hotel to
     keep us warm while we travel.
+  id: totrans-66
   prefs: []
   type: TYPE_NORMAL
+  zh: 没有这种理解，我们生活中的许多事情都会崩溃。捕捉模式使我们能够通过邻近性来规划。我们理解在寒冷的环境中我们会冻死，所以我们使用像夹克和旅馆这样的知识存款来保持温暖，在我们旅行时。
 - en: Think of idea space—or the unknown—as a universal map with light and dark spots.
     The light spots are areas you’ve explored. The dark spots are where your potential
     lies.
+  id: totrans-67
   prefs: []
   type: TYPE_NORMAL
+  zh: 想象一下思想空间——或者未知——就像一张带有明暗点的通用地图。亮点是你已经探索过的区域。暗点是你潜在的地方。
 - en: This map is a surface area for ideas that can be discovered and tested against
     reality to verify their validity. When those results do not move you closer toward
     your goal, or move you further from that, a problem is revealed, and you must
     error correct toward the goal.
+  id: totrans-68
   prefs: []
   type: TYPE_NORMAL
+  zh: 这张地图是思想的一个表面区域，可以被发现并测试其现实中的有效性以验证其有效性。当这些结果没有让你更接近目标，或者让你离目标更远时，就会揭示一个问题，你必须朝着目标进行错误纠正。
 - en: '**Variation**'
+  id: totrans-69
   prefs: []
   type: TYPE_NORMAL
+  zh: '**变化**'
 - en: Is there a limit to the number of new ideas we can come up with to survive and
     achieve what we set our minds to?
+  id: totrans-70
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们能想出多少新想法来生存和实现我们设定的目标？
 - en: With computation, we can navigate the entire space of ideas. With agency, we
     can take any step within that space and eventually stumble across a good idea
     (after many bad ones). With creation, we can move in unique ways, like flying
     over a forest rather than walking through it.
+  id: totrans-71
   prefs: []
   type: TYPE_NORMAL
+  zh: 通过计算，我们可以导航整个思想空间。通过代理，我们可以在该空间内采取任何步骤，并最终在许多错误之后偶然发现一个好的想法。通过创造，我们可以以独特的方式移动，比如飞越森林而不是穿过它。
 - en: So, we can understand anything, create anything, and discover an infinite set
     of new ideas to solve an infinite string of problems. Again, AGI can do the same.
     We are both bound by the laws of nature, but any possibility inside of that is
     within reach.
+  id: totrans-72
   prefs: []
   type: TYPE_NORMAL
+  zh: 因此，我们可以理解任何事物，创造任何事物，并发现无限的新想法来解决无限的问题。再次强调，AGI也能做到同样的事情。我们都被自然法则所束缚，但其中的任何可能性都在我们的掌握之中。
 - en: '**Selection**'
+  id: totrans-73
   prefs: []
   type: TYPE_NORMAL
+  zh: '**选择**'
 - en: We can come up with any idea, but can we find the good ones?
+  id: totrans-74
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们可以想出任何想法，但我们能否找到好的想法？
 - en: The potential problem here is that it is difficult to make *cumulative* progress
     without learning from mistakes. It wouldn’t be fun to start over from scratch
     if we wanted to build an electric car after a gas car. We wouldn’t be very developed
     as a species.
+  id: totrans-75
   prefs: []
   type: TYPE_NORMAL
+  zh: 这里潜在的问题是，如果不从错误中学习，很难取得累积的进步。如果我们想在一辆汽油车之后建造一辆电动汽车，从头开始重新开始不会很有趣。我们作为物种不会非常发达。
 - en: As universal cybernetic systems, we can become more efficient at navigating
     idea space to avoid wandering lost. We error correct. No fundamental difference
     here either.
+  id: totrans-76
   prefs: []
   type: TYPE_NORMAL
+  zh: 作为普遍的控制系统，我们可以更有效地在思想空间中导航，避免迷失方向。我们进行错误纠正。这里也没有根本性的区别。
 - en: '**Attention**'
+  id: totrans-77
   prefs: []
   type: TYPE_NORMAL
+  zh: '**注意力**'
 - en: One other aspect that humans take for granted is our ability to change our focus
     by changing our perspective.
+  id: totrans-78
   prefs: []
   type: TYPE_NORMAL
+  zh: 另一个人类视为理所当然的方面是我们通过改变视角来改变关注点的能力。
 - en: When a problem occurs, where does your attention go? If you want to build a
     rocket, does it help to ask the old Gods to do it for you? Or can you change lenses
     to view the situation in a way that allows you to perceive opportunities?
+  id: totrans-79
   prefs: []
   type: TYPE_NORMAL
+  zh: 当问题发生时，你的注意力会去哪里？如果你想建造一枚火箭，是否向古老的诸神祈求来帮你完成会有帮助？或者你能改变视角，以一种让你能够感知机会的方式来观察情况？
 - en: While this is a massive problem for humans—paradigm lock and attaching to ideology—we
     do have the capability to change where our attention goes when problems come up.
     We can put on a spiritual lens to find peace and a scientific lens to find progress.
+  id: totrans-80
   prefs: []
   type: TYPE_NORMAL
+  zh: 虽然这对人类来说是一个巨大的问题——范式锁定和附着于意识形态——但我们确实有能力在问题出现时改变我们的注意力。我们可以戴上精神之镜以寻找平静，戴上科学之镜以寻找进步。
 - en: Identifying with a purely ascending and “spiritual” philosophy is no different
     from being an incomplete system that will fail to solve certain sets of problems.
     Spirituality is a great lens or tool, but a bad master, and not the end all be
     all.
+  id: totrans-81
   prefs: []
   type: TYPE_NORMAL
+  zh: 与纯粹上升的“精神”哲学认同，与一个无法解决某些问题的不完整系统并无不同。精神是一种伟大的透镜或工具，但是一个糟糕的主人，不是一切终结。
 - en: Now, since AGI does not seem like it can surpass us in any way unless it bends
     what is possible (we would have a very different problem on our hands at that
     point), *what do we do?*
+  id: totrans-82
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在，由于AGI似乎无法以任何方式超越我们，除非它弯曲了可能性的界限（那时我们手头的问题将非常不同），*我们该怎么办？*
 - en: This doesn’t help the fact that life as we know it will change, jobs will be
     replaced, and the unknown creeps nearer.
+  id: totrans-83
   prefs: []
   type: TYPE_NORMAL
+  zh: 这并不能帮助事实，即我们所知的生活将会改变，工作将被取代，未知的事物越来越近。
 - en: 'In my opinion, the only option is what it has been:'
+  id: totrans-84
   prefs: []
   type: TYPE_NORMAL
+  zh: 在我看来，唯一的选择一直是：
 - en: To dive in.
+  id: totrans-85
   prefs: []
   type: TYPE_NORMAL
+  zh: 让我们深入探讨。
 - en: The Answer Has Been & Will Be To Become A Creator
+  id: totrans-86
   prefs:
   - PREF_H2
   type: TYPE_NORMAL
+  zh: 答案一直是并将是成为一个创造者。
 - en: Be a creator and you won’t have to worry about jobs, careers, and AI. – Naval
     Ravikant
+  id: totrans-87
   prefs:
   - PREF_BQ
   type: TYPE_NORMAL
+  zh: 成为创造者，你就无需担心工作、职业和AI。 —— 纳瓦尔·拉维坎特
 - en: As I’ve discussed in 80% of my letters that Naval so eloquently put here, the
     answer is to become a creator. Specifically, a value creator.
+  id: totrans-88
   prefs: []
   type: TYPE_NORMAL
+  zh: 正如我在80%的信件中所讨论的，纳瓦尔如此巧妙地在这里表达的观点是，答案是要成为一个创造者。具体来说，是一个价值创造者。
 - en: When I say this, people assume I mean a myopic little “content creator.” Someone
     who posts content without realizing the depth behind it.
+  id: totrans-89
   prefs: []
   type: TYPE_NORMAL
+  zh: 当我说这句话时，人们认为我的意思是狭隘的“内容创造者”。一个人发布内容，却没有意识到其背后的深度。
 - en: 'Let’s string this together to help it click:'
+  id: totrans-90
   prefs: []
   type: TYPE_NORMAL
+  zh: 让我们把这些放在一起，帮助它变得清晰：
 - en: The word “entrepreneur” is of French origin. It comes from the *verb* “entreprendre,”
     which means “to undertake” or “to do something.” In the 16th century when translated
     to English, it became a *noun* referring to a person who undertakes a business
     project.
+  id: totrans-91
   prefs: []
   type: TYPE_NORMAL
+  zh: “企业家”这个词源于法语。它来自动词“entreprendre”，意思是“承担”或“做某事”。在16世纪，当它被翻译成英语时，它成为了一个名词，指的是承担商业项目的人。
 - en: In other words, an entrepreneur is someone who is doing something. It is not
     a title or label but an act. It is the commitment to a high-agency life. A commitment
     to doing things without permission from someone else. To set your own goals and
     navigate the unknown to achieve them.
+  id: totrans-92
   prefs: []
   type: TYPE_NORMAL
+  zh: 换句话说，企业家是正在做某事的人。它不是一个头衔或标签，而是一种行为。它是承诺过一种高自主的生活。承诺在没有他人许可的情况下做事。设定自己的目标，并导航未知领域以实现它们。
 - en: And in lies the problem. People want to be told what to do when that’s exactly
     what will get them replaced. That doesn’t mean to stop learning from other people,
     it means to not treat any form of job, skill, or career as an end.
+  id: totrans-93
   prefs: []
   type: TYPE_NORMAL
+  zh: 这就是问题所在。人们想要被告知该做什么，而这正是他们会被取代的原因。这并不意味着停止从别人那里学习，而是意味着不要将任何形式的职业、技能或职业视为终点。
 - en: In this sense, a “creator” is someone who is creating something. It’s not a
     title or fancy new kind of job where you can sit in front of a camera and do minimal
     work. *It is a way of being.*
+  id: totrans-94
   prefs: []
   type: TYPE_NORMAL
+  zh: 在这种意义上，“创造者”是指正在创造某物的人。它不是一个头衔或新奇的职业，你可以在摄像机前坐着做最少的工作。*它是一种生活方式。*
 - en: It just so happens that the highest leverage place to create—right now, at least—is
     on the internet. It is the path of high agency. You don’t need permission to create
     something and post it on the internet. You don’t need permission to navigate idea
     space and find the information you need. This may change in the future, but that
     only reinforces the point. No matter if it’s the internet or intergalactic space,
     the answer has been and always will be to become a creator.
+  id: totrans-95
   prefs: []
   type: TYPE_NORMAL
+  zh: 恰好的是，现在（至少）最高的杠杆创造地点是在互联网上。这是高自主性的路径。你不需要许可就能在互联网上创造并发布某物。你不需要许可就能在思想空间中导航并找到你需要的信息。这可能会在未来改变，但这只会加强这一点。无论是互联网还是星际空间，答案一直是并将始终是成为一个创造者。
 - en: Of course, and as we’ve learned, that doesn’t mean it’s easy. That doesn’t mean
     you can skip trial and error. That doesn’t mean that one course will give you
     all the answers because that’s not how the mind works. That’s not how *time* works.
     That’s not how AGI will work when we’re exposed to an entirely new set of problems
     once ones like jobs are solved.
+  id: totrans-96
   prefs: []
   type: TYPE_NORMAL
+  zh: 当然，正如我们所学的，这并不意味着它容易。这并不意味着你可以跳过试错。这并不意味着一条途径就能给你所有答案，因为思维不是这样运作的。时间也不是这样运作的。当我们面对完全新的问题时，AGI也不会这样运作，一旦解决了像工作这样的问题。
 - en: You can go through something like [2 Hour Writer](https://2hourwriter.com) or
     the [One-Person Business Launchpad](https://stan.store/thedankoe/p/the-oneperson-business-launchpad--your-first-5k),
     and that helps give you *direction* to take the first few steps into the unknown,
     but most people quit because they fail to realize that you still need to *error-correct.*
+  id: totrans-97
   prefs: []
   type: TYPE_NORMAL
+  zh: 你可以尝试像[2 Hour Writer](https://2hourwriter.com)或[One-Person Business Launchpad](https://stan.store/thedankoe/p/the-oneperson-business-launchpad--your-first-5k)这样的资源，这有助于为你提供前进的方向，迈出探索未知的第一步，但大多数人会因为未能意识到你仍然需要*纠错*而放弃。
 - en: That’s what creators do. They solve the infinite set of problems that life presents.
     Without problems, there is no creativity. Without problems, there is no purpose.
     Pain and suffering stem from the inability to understand problems and, more so,
     relinquishing your ability to solve them. A world without creativity and purpose
     is a world without life.
+  id: totrans-98
   prefs: []
   type: TYPE_NORMAL
+  zh: 这就是创作者所做的事情。他们解决生活提出的无限问题集。没有问题，就没有创造力。没有问题，就没有目的。痛苦和苦难源于无法理解问题，更不用说放弃解决问题的能力。一个没有创造力和目的的世界是一个没有生命的世界。
 - en: 'The mark of a sovereign individual is that they learn how to learn:'
+  id: totrans-99
   prefs: []
   type: TYPE_NORMAL
+  zh: 主权个人的标志是他们学会如何学习：
 - en: They have an evolving vision for the future
+  id: totrans-100
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 他们对未来有一个不断发展的愿景
 - en: They build a meaningful project as one stepping stone
+  id: totrans-101
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 他们通过一个有意义的项目作为一块垫脚石
 - en: They identify problems that prevent progress
+  id: totrans-102
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 他们识别阻碍进步的问题
 - en: They generate ideas and test solutions
+  id: totrans-103
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 他们产生想法并测试解决方案
 - en: They become more efficient with time
+  id: totrans-104
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 他们会随着时间的推移变得更加高效
 - en: They deposit their creation and knowledge
+  id: totrans-105
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 他们将他们的创造和知识存档
 - en: If valuable, they are rewarded by the monetary system of that society
+  id: totrans-106
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 如果有价值，他们将通过那个社会的货币体系获得回报
 - en: If not valuable, they error correct until valuable
+  id: totrans-107
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 如果没有价值，他们会纠错直到有价值
 - en: And lastly, they never, ever quit because someone else’s vision trumps their
     own.
+  id: totrans-108
   prefs:
   - PREF_UL
   type: TYPE_NORMAL
+  zh: 最后，他们永远不会，永远不会因为别人的愿景胜过自己的而放弃。
 - en: Do it all. Write. Design. Market. Sell. Film. Code. Be the generalist you were
     born to be. Be the orchestrator of ideas. The governor of thought. AI is simply
     a tool that now allows you to *learn and do* all of these. Once it becomes your
     master, you lose.
+  id: totrans-109
   prefs: []
   type: TYPE_NORMAL
+  zh: 做一切。写作。设计。营销。销售。电影。编码。成为你天生要成为的通才。成为思想的指挥者。思想的统治者。AI现在只是一个工具，它让你能够*学习和做到*所有这些。一旦它成为你的主人，你就失去了。
 - en: Nobody can tell you what to do in the future. But has it ever been any different?
     We’re just talking in circles at this point. You’re looking for a quick fix as
     always and you know that the longest path is the quickest fix. The principles
     haven’t changed, you just haven’t taken the leap.
+  id: totrans-110
   prefs: []
   type: TYPE_NORMAL
+  zh: 没有人能告诉你未来该做什么。但情况不是一直如此吗？现在我们只是在原地打转。你总是在寻找快速解决方法，而且你知道最长的路就是最快的解决方法。原则没有改变，你只是没有采取飞跃。
 - en: Thank you for reading.
+  id: totrans-111
   prefs: []
   type: TYPE_NORMAL
+  zh: 感谢阅读。
 - en: I hope it helped.
+  id: totrans-112
   prefs: []
   type: TYPE_NORMAL
+  zh: 我希望这有所帮助。
 - en: – Dan
+  id: totrans-113
   prefs: []
   type: TYPE_NORMAL
+  zh: – 丹
 - en: P.S. We didn’t have the time to talk about jobs. Their importance, what’s going
     to be replaced, and the rest.
+  id: totrans-114
   prefs: []
   type: TYPE_NORMAL
+  zh: P.S. 我们没有时间讨论工作。它们的重要性，将要被取代的，以及其余的。
 - en: We can talk about that later.
+  id: totrans-115
   prefs: []
   type: TYPE_NORMAL
+  zh: 我们可以稍后再讨论。
 - en: For now, it could do some good to contemplate all potential outcomes of jobs
     going extinct in place of everyone being able to pursue their life’s work.
+  id: totrans-116
   prefs: []
   type: TYPE_NORMAL
+  zh: 现在，思考所有可能的工作消失，每个人都能追求自己生活工作的潜在结果可能会有所帮助。
 - en: They’ve always been able to, but this may be a forcing function for those who
     have been putting it off.
+  id: totrans-117
   prefs: []
   type: TYPE_NORMAL
+  zh: 他们一直都能做到，但这可能对于那些一直推迟的人来说是一个推动力。
